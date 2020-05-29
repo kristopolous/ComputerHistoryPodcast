@@ -1,0 +1,86 @@
+Hello and welcome to computing history episode 0, preview
+
+When talking about computer history there's really a number of independent
+timelines that should be studied. The modern computer wouldn't have
+been possible without all these at one time, pretty  independent timelines
+coming together.
+
+Let's first take a step back and look at what a computer is. We'll use
+a modern smartphone taking a photograph for consideration.  
+
+When a person takes a photo with a smartphone some carefully manufactured
+light sensors are translating light into electrical signals. And here we
+get our first timeline.
+
+Reliable, precise large scale manufacturing methods using almost completely
+error free materials has taken centuries of progress. Modern computing
+requires not only the machines of production but the process, methodology and
+quality control to do the production. This is one of the timeline we'll be
+covering.
+
+Now back to the smart phone.  After the sensors convert the light into
+electricity it then traverses around through small wires laid out on a 
+circuit board visiting various other integrated circuits. The technology of
+addressing, networking, and relaying messages started during the era of
+telegraphs and really got off the ground with automatic switching of
+telephones that didn't require an operator. The technical achivements in
+these complex communication networks throughout the first half of the 20th
+century were crucial in the move from addresses with phone numbers to
+addresses with electrons coming from a camera. The history of networked
+communications is the first timeline we'll be going over, starting in the mid
+1800s and going up to the start of WW2.
+
+What happens inside the little black caterpillar looking chips is roughly
+called computing or processing. Generally this is mechanized mathematics. The
+work that is done inside these black boxes can be simplified down to tiny
+silicon machines which have their roots in mechanical arithmatic machines 
+that go back to the Renaissance. That will be another timeline.
+
+Now it's not just the mechanics of the arithmatic that matter here but the
+kind of arithmatic that was done. Mathematicians and academics play a crucial
+role in the history of computers. It is very much the case that the modern
+computer were first described not as real world machines but as elaborate 
+mathematical problems so ther will be rather non-technical history of the 
+math history.
+
+Now going back to the photograph, yes, we are still talking about that. When
+the processing is done the phone then places it in storage. These days,
+computer storage on a phone is yet another little black rectangle. That's
+a very modern idea. Being able to store information for later use by a machine
+is another long history. You may even have a machine and storage device in your 
+home that hasn't significantly changed since the 1770s. I'm pretty sure everyone 
+listening has held these machines in their hands, and fed the recorded data
+into the machine without even thinking about it. I'm talking about the
+innocent windup music box. The history of storage is a separate timeline we'll
+also be going over.
+
+Now all of these technologies in our photo example wouldn't be very useful if the 
+user couldn't conduct the smartphone to do things. This is of course done
+through software.  Software, roughly, is the ability to redefine the operation
+of a device after its manufacturing. There's a gray line really between
+configuring say, a 19th century calculator and then turning the gear to do the
+calculation and the first widely agreed upon defintion of programmable
+machines. There's also a couple decades. The idea of reconfiguration as a form
+of software will also be covered up to the late 1930s.
+
+And finally none of these things came cheap. The raw materials have to be
+mined or salvaged, then they have to be processed and assembled according to
+careful chip designs refined over decades by thousands of people. Then software 
+written by a different army of engineers gets installed on to the device. The
+business and finance side is also important. Series A, B, C financing, angel
+investors, startups, stock options, the history of how the operation of
+computer and mechanical brain building was financed is also crucial. Many of
+the ambitious early machine projects, such as the famous 1800s computer by Charles
+Babbage proved to be to expensive and the business innovations to overcome
+those costs did not exist yet. The technology of business is also important.
+
+Long before Apple and Microsoft and even before the code breaking machines of
+World War 2, the computer revolution was taking shape in business,
+communications, tabulation, recording, manufacturing, mathematics, and
+reconfigurable systems. This series intends to go over all of them. Yes, all
+of them, one by one, as long as it takes.
+
+It is a large project and it has never been done before. And that is exactly
+why I am doing it. So join me soon in episode 1.1 of computing history, the
+victorian internet or as they would have called it, the 
+
