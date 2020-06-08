@@ -2,13 +2,12 @@ Hello and welcome to computing history episode 1.1, the dream of electric
 communications.
 
 Electronic communication, it's how we directed the Voyager 1 space
-craft, far past the orbit of Neptune to snap a final photo of the earth so we could
-see our planet as a pale blue dot suspended in a sunbeam.
+craft, far past the orbit of Neptune to snap a final photo of earth so we could see our planet as a pale blue dot suspended in a sunbeam.
 
 It's also how components communicate that are so incredibly tiny that if they
 had legs, it would take them around 3 hours to walk across a single grain of sand.
 
-Even more astounding is these two things and everything in between  speak
+Even more astounding is these two things and everything in between speak
 nearly the same electronic language.
 
 So where did this all start?
@@ -33,8 +32,7 @@ These machines of science fiction were described in detail often with excited H.
 flourishes over about 70 years before the first working telegraph was achieved
 and that one only extended to the inventor's garden.
 
-This week we'll be looking at the futurist luminaries of the 18th
-century who dreamed of a telegraphic world connecting people in a way that
+This week we'll be looking at these futurist luminaries who dreamed of a telegraphic world connecting people in a way that
 made their distance irrelevant empowering them to have, even casual conversations
 spanning over vast oceans.
 
