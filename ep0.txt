@@ -1,78 +1,108 @@
-Hello and welcome to computing history episode 0, preview
+Hello and welcome to computing history episode 0, overview
 
-When talking about computer history there's really a number of independent
-timelines that should be studied. The modern computer wouldn't have
-been possible without all these at one time, pretty  independent timelines
-coming together.
+One of the biggest challenges in talking about computing history is there
+isn't just a single timeline. Instead, there's a series of independent timelines
+that eventually merge together that make modern computing possible.
 
-Let's first take a step back and look at what a computer is. We'll use
-a modern smartphone taking a photograph for consideration.  
+To illustrate all these different facets if you will we'll start with the
+hopefully familiar example of taking a picture with a modern smartphone.
 
-When a person takes a photo with a smartphone some carefully manufactured
-light sensors are translating light into electrical signals. And here we
-get our first timeline.
+First let's look at the photographing technology itself.
 
-Reliable, precise large scale manufacturing methods using almost completely
-error free materials has taken centuries of progress. Modern computing
-requires not only the machines of production but the process, methodology and
-quality control to do the production. This is one of the timeline we'll be
-covering.
+When someone takes a photo with a smartphone, carefully manufactured
+microscopic in size light sensors translate light into electrical signals,
+separating it into millions of individual units we call pixels. It all
+happens in miliseconds and the components to do it can be bought for less then a
+days wage of an average western worker. Truly extraordinary. 
+Here we get our first timeline.
 
-Now back to the smart phone.  After the sensors convert the light into
-electricity it then traverses around through small wires laid out on a 
-circuit board visiting various other integrated circuits. The technology of
-addressing, networking, and relaying messages started during the era of
+Reliable, precise manufacturing methods using almost completely
+error free materials able to produce millions of identical objects without
+much fanfare has taken centuries of effort to get to. Modern computing
+relies not only on these machines of production but the process, methodology and
+quality control to do the production. The history of accurate reliable manufacturing
+is crucial to the modern computer.
+
+Now back to the smart phone.  After these well manufcatured sensors convert the light into
+electricity, the electricity then traverses around small wires laid out on a 
+circuit board. It visits various integrated circuits and can get duplicated,
+rerouted, and transformed.  Really, the circuit board is like a tiny city with
+the small wires being the roads or maybe, perhaps, the telephone lines. In
+many ways, shuffling the electric signals around circuit boards isn't all that 
+different then shuffling the signal of a phone call around to get to the final 
+destination.
+
+This technology, that of addressing, networking, and relaying messages started during the era of
 telegraphs and really got off the ground with automatic switching of
-telephones that didn't require an operator. The technical achivements in
-these complex communication networks throughout the first half of the 20th
-century were crucial in the move from addresses with phone numbers to
-addresses with electrons coming from a camera. The history of networked
-communications is the first timeline we'll be going over, starting in the mid
-1800s and going up to the start of WW2.
+telephones as in, those that didn't require an operator. The technical achivements in
+these complex communication networks were crucial in the move from addresses with phone numbers to
+addresses with electrons coming from, say a smartphone camera. And
+coincidentally, the history of networked communications is the first timeline
+we'll be going over, that starts in the 1700s.
 
-What happens inside the little black caterpillar looking chips is roughly
-called computing or processing. Generally this is mechanized mathematics. The
-work that is done inside these black boxes can be simplified down to tiny
-silicon machines which have their roots in mechanical arithmatic machines 
-that go back to the Renaissance. That will be another timeline.
+Now let's take a closer look at what happens inside the little black
+caterpillar looking integrated chips I briefly mentioned before. This is where
+what most people call "computing" happens. Along with moving things around,
+these chips do what can be called mechanized mathematics. That is to say the
+work done inside these black boxes can be simplified down to a small handful
+of building blocks implemented in tiny silicon machines.  These machines of
+mathematics we call transistors can be traced back to earlier machines of
+a different kind of mathematics, that is to say, mechanical calculators, which go back to the 
+Renaissance. There were millions of these mechanical machines and they helped 
+power the industrial age. That will be another timeline.
 
-Now it's not just the mechanics of the arithmatic that matter here but the
-kind of arithmatic that was done. Mathematicians and academics play a crucial
-role in the history of computers. It is very much the case that the modern
-computer were first described not as real world machines but as elaborate 
-mathematical problems so ther will be rather non-technical history of the 
-math history.
+Now you may have noticed I said "different kind of mathematics". The kind of
+math one chooses to synthesize mechanically it turns out really truly matters.
+being able to configure a machine to that can solve more problems but uses
+fewer and mechanically simpler parts to do it becomes crucial.  This all
+started not in the garage of silicon valley dropouts but instead in university math
+departments in the 1800s. Now don't worry, we aren't going to be doing any
+actual math and there is no homework.  Instead, we'll see how mathematical
+machines, described by elaborate equations, as a branch of research into pure
+mathematics, that is to say theory without any specific application in mind,
+were super important in describing the kind of math and logical constructions
+were needed to get to modern computing.
 
 Now going back to the photograph, yes, we are still talking about that. When
-the processing is done the phone then places it in storage. These days,
-computer storage on a phone is yet another little black rectangle. That's
-a very modern idea. Being able to store information for later use by a machine
-is another long history. You may even have a machine and storage device in your 
+the processing is done, the phone places the electric signals, now a stream of
+things we call a file, in storage. These days,
+computer storage on a phone is yet another little black rectangle that cost
+about as much as nice meal. 
+
+That, however, is a very modern thing. Being able to store information for later use by a machine
+has a long history. You may even have a machine with working storage in your 
 home that hasn't significantly changed since the 1770s. I'm pretty sure everyone 
-listening has held these machines in their hands, and fed the recorded data
-into the machine without even thinking about it. I'm talking about the
-innocent windup music box. The history of storage is a separate timeline we'll
-also be going over.
+listening has held these machines in their hands, even fed the stored
+information into the machine without even thinking about it. I'm talking about
+a windup music box.  Does that count you may ask ... well the punchcard used a
+similar mechanism as did the paper tape Paul Allen had with him when he
+demonstrated Microsoft's first product in the 70s.  It most certainly counts. 
+The history of storage, also important.
 
-Now all of these technologies in our photo example wouldn't be very useful if the 
-user couldn't conduct the smartphone to do things. This is of course done
+Taken together, all these technologies in our photo example wouldn't be very useful if the 
+you couldn't conduct the smartphone to take the picture when you wanted. This is of course done
 through software.  Software, roughly, is the ability to redefine the operation
-of a device after its manufacturing. There's a gray line really between
-configuring say, a 19th century calculator and then turning the gear to do the
-calculation and the first widely agreed upon defintion of programmable
-machines. There's also a couple decades. The idea of reconfiguration as a form
-of software will also be covered up to the late 1930s.
+of a machine after its manufacturing. There's a gray line really between
+configuring say, a 19th century calculator to do a calculation and
+programming. Especially if that calculator will punch out a paper record of
+your calculations you can later feed back into it. The transition from manual
+operation and configuration to the automation we call software and programming
+is yet another crucial timeline in our story.
 
-And finally none of these things came cheap. The raw materials have to be
-mined or salvaged, then they have to be processed and assembled according to
-careful chip designs refined over decades by thousands of people. Then software 
-written by a different army of engineers gets installed on to the device. The
-business and finance side is also important. Series A, B, C financing, angel
-investors, startups, stock options, the history of how the operation of
-computer and mechanical brain building was financed is also crucial. Many of
-the ambitious early machine projects, such as the famous 1800s computer by Charles
-Babbage proved to be to expensive and the business innovations to overcome
-those costs did not exist yet. The technology of business is also important.
+And finally if we are to purchase a computing machine we need to first get raw materials 
+that have to be mined or salvaged. Then they have to be processed and assembled according to
+careful designs and instructions refined over decades by thousands of people. Then software 
+written by a different group of thousands of people is electronically placed
+onto the machine. This is overseen by a long chain of human organizations in
+many countries before it finally reaches our hands.  This is all quite
+expensive. And it's only possible because of innovations in business and finance 
+Series A, B, C financing, angel investors, startups, stock options, how  
+someone with the right powerpoint can get a millions of dollars to do an
+ambitious project, this hasn't always existed. In fact, many of
+the ambitious early computing projects, such as those by Charles Babbage in
+the 1800s, weren't completed due to a lack of financing. The business innovations to overcome
+those costs and finance the project hadn't materialized yet. It can't be left
+out.
 
 Long before Apple and Microsoft and even before the code breaking machines of
 World War 2, the computer revolution was taking shape in business,
@@ -80,7 +110,7 @@ communications, tabulation, recording, manufacturing, mathematics, and
 reconfigurable systems. This series intends to go over all of them. Yes, all
 of them, one by one, as long as it takes.
 
-It is a large project and it has never been done before. And that is exactly
-why I am doing it. So join me soon in episode 1.1 of computing history, the
-victorian internet or as they would have called it, the 
+It is a large project and it has never been done before. So that is exactly
+why I am doing it. Join me soon in episode 1.1 of computing history, the
+victorian internet or as the victorians would have called it, the 
 
