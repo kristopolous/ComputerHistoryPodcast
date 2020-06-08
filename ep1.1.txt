@@ -1,4 +1,4 @@
-Hello and welcome to computing history episode 1.1, the birth of electric
+Hello and welcome to computing history episode 1.1, the dream of electric
 communications.
 
 Electronic communication, it's how we directed the Voyager 1 space
@@ -20,7 +20,7 @@ methods were developed.
 
 Each of these examples are of different medium. For instance, with an
 alphabet, a surface is marked with symbols and then you just need to worry
-about the caring for and transporting the marked surface.
+about the caring for and transporting of the marked surface.
 
 We're going to start our story with the fantasy of communicating using the medium of electricity.
 
