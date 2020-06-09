@@ -43,11 +43,11 @@ Poland, whether a reformed rake, a man of sense or a man of good nature ought
 to be a preferred husband and an expeditious method of conveying intelligence
 by means of electricity.
 
-Although the article about the reformed rakes is quite good, we'll be looking
-at the electricity one.
+Although the article about the reformed rakes is quite good, we'll
+surprisingly be focusing on the electricity one.
 
-Written by, well, nobody quite knows, someone named C.M., who started with a curious
-observation:
+It was written by, well, nobody quite knows. The letter is signed by the initials
+C.M. It starts with a curious observation:
 
 "It is well known to all who are conversant in electrical experiments that
 electric power may be propagated along a smile wire, from one place to another
@@ -100,8 +100,9 @@ friend at the other end strikes out.
 
 Are you still with me? Did you follow all that? The suggestion was to have
 small pieces of paper with letters written on them jumping up, via static
-electricity to tiny electrified balls, one for each letter, and
-then fluttering back down one by one as the remote observer diligently
+electricity to tiny electrified balls as the sender manually electrifies the
+wires, one for each letter, and then waits a bit to allow the slips of paper
+to flutter back down one by one as the remote observer diligently
 records what letters hit their balls in what order. 
 
 Ah, the familiar electronic telegraph. Why, what were you expecting? 
@@ -110,7 +111,7 @@ work?! Why clearly there needs to be a separate individual wire for every letter
 alphabet. If your language has a different number of letters than you'll
 simply need a different number of wires.
 
-"Well didn't it occur to anyone to just hook up a speaker and use some kind of coded
+You might say, "Well didn't it occur to anyone to just hook up a speaker and use some kind of coded
 system instead?" Huh? What's an electric speaker? they'd say. This is 1753. That's
 over 100 years away.
 
@@ -136,15 +137,17 @@ down every letter."
 
 We only have this one letter. There is no machine, any evidence of one
 constructed, or even any knowledge as to who the author was. People have been
-searching for who CM was since 1753. Maybe it was a woman scientist hiding in
+searching for who CM was since the letter was published 270 years ago. Maybe 
+it was a woman scientist hiding in
 the shadows or prehaps someone who deeply believed in the possibility of the
 telegraph but had nothing to show but failed implementations and used the veil
 of anonymity to hide their shame.  
 
 Regardless here was the first glimpse we had of the electric communication.
 
-But wait, there's 10 more to go before 1800, none of them having any evidence
-of ever working. Like a quack in a garage working on a time machine,
+But wait, there's 10 more to go before 1800, and we're not even going to reach
+them all today. Almost none of them had any evidence of ever having been
+built, yet alone actually working. Like a quack in a garage working on a time machine,
 someone claiming to be getting close to a working electric telegraph could
 have been readily dismissed and regarded as an ignorant fool throughout the 
 remainder of the 1700s.
@@ -157,8 +160,8 @@ Electicorum.
 
 Being poetry he doesn't go into too much detail but it's basically bury two
 insulated wires, keep them close together, charge the wire at one end to
-create a spark at the other. The encoding is left as an exercise to the
-reader.
+create a spark at the other. The encoding of your entire language via electric
+sparks is left as an exercise to the reader.
 
 This is far closer then paper strips clinging to electrostatic balls but it
 also doesn't seem to have ever been built.
@@ -180,20 +183,22 @@ ever be the course of those experiments, they must
 necessarily lead to some grand discovery ; but I have 
 not the courage to undertake them this winter.'
 
-Figures. Nice try Louis. He also doesn't seem to have built it.
+Figures. Nice try Louis. He also doesn't seem to have built anything.  
+Dreams pave the road to reality however long that route may be.
 
 Round 4 brings us to Alessandro Volta. Now you should notice by this dude's
-name "Volta" that he's probably where unit of Volts came from and is therefore 
-likely to be pretty important when it comes to electricity. His experiments
-weren't disclosed until research done by someone named, and remember this
+name "Volta" that he's probably where the unit of Volts came from and is therefore 
+likely to be pretty important when it comes to electricity. His telegraph
+related experiments weren't disclosed until research into his archives after
+death done by someone named, and remember this
 name, Francis Ronalds, who at the age of 85 wrote into the first edition of
-the first journal of the society of telegraphe engineers about Volta having
+the first journal of the society of telegraph engineers about Volta having
 described a nearly working telegraph in 1777. 
 
-It was however, mostly hype. It did contain some genuinely good future
+It was however, mostly hype. The description did contain some genuinely good future
 thought. An excerpt of the translated letter is as follows:
 
-"he more I reflect, the more I see the beautiful 
+"The more I reflect, the more I see the beautiful 
 experiments that can be made by means of the spark 
 in exploding the electric pistol at any distance. An 
 iron wire, stretched along the fields, or roads, for I 
@@ -203,35 +208,45 @@ courses would be encountered, which would draw off
 the electric fire, the wire may be supported on posts 
 placed at regular intervals"
 
-He, however, just like everyone else didn't actually build an infrastructure
-of posts with wires although someone eventually did. 
+Volta, however, just like everyone else didn't actually build his idea, in
+this case, an infrastructure of posts. Also we are often predisposed to
+attribute great insight to great minds even in cases where there was
+none to be had.
 
-Our 5th telegraph proposal, coming from the May 30th 1782 Journal of Paris brings forth a very important insight to the history of computers.
+Speaking of great insight, let's look at our 5th telegraph idea,
+coming from the May 30th 1782 Journal of Paris. This one 
+brings forth a number of groundbreaking ideas that become essential in the
+world of electronic computers.
 
 Along with being yet another dream in a line of unbuilt machines, it was the
-first to describe an electronic encoding in details. The first electronic
-format is described here in 1782, a designation of code designed for electricity. 
+first to describe a form of electronic encoding in details, that is to say 
+a system of code designed to work specifically under the confinements of 
+electricity.  As everyone can attest to, accomodating for the realities of 
+a machine is one of the first steps in learning how to use a computer.
 
-We even get a suggestion of binary, byte and a primitive form of compression
-using what is called a lookup or reference table. Of course these words hadn't
+In this proposal we even get a suggestion of binary, byte and a primitive form of 
+data compression using what is called a lookup or reference table. Of course these words hadn't
 been appropriated yet and so we are applying this analysis with a
 contemporary lens, but let's go on.
 
 The anonymous author starts by describing a hybrid system between the Scottish
 CM and a spark system. They propose a pair of wires for every
 letter of the alphabet placed close against a tin and then
-observing the spark between the wire and the tin for each letter. But the
-method of observation would be by creating little knobs on a panel, each one
-will illuminate upon spark. Those old computers with all the blinking lights?
-Yes, that's what they are thinking of using 1780s technology.
+using the spark between the wire and the tin for each letter. But the proposed
+method of observation is to be achieved by creating little knobs on a panel
+extending from the tin. Each knob will illuminate upon spark. 
 
-The author goes on, identifying that having 48 wires (2 for each letter) would
-be somewhat impractical so they propose as follows:
+Seen those old computers with all the blinking lights on some panel?
+Yes, that's what this author is describing using 1780s technology.
 
-"These means could be simplified by having having only 5 pairs of wires and
+They go on with a CM like system wherein you have a wire for every letter.
+Correctly identifying having 48 wires (2 for each letter) would
+be somewhat impractical they propose as follows:
+
+"These means could be simplified by having only 5 pairs of wires and
 attaching a character or letter to each of their combination as in, firing
-multiple wires as once, which would make 31 characters; six pairs would yield
-63 and thus one could arrive at a sort of shorthand or fast writing with one
+multiple wires as once, which would make 31 characters (or 2^5 - 1); six pairs would yield
+63 (or 2^6 - 1) and thus one could arrive at a sort of shorthand or fast writing with one
 combination sufficing for an entire word or phrase. There would be some
 difficulty however in discharging at exactly the same instant several pairs.
 One might also use successive combinations of these pairs in which 5 pairs
@@ -242,15 +257,18 @@ Woah hold on here ... what did we just read?
 First there's a suggestion of a byte, in this case having 5 or 6 bits. The
 author correctly identifies the number of combinations and that timing is
 absolutely essential in making it work and also quite hard. Then they describe 
-what is called serial communication in the computing world to avoid the timing issue,
-essentially stagnating the symbols into a stream.
+what is called serial communication in the computing world essentially stagnating 
+the symbols into a stream.  They can't re-use the previously illuminated knobs
+so there's an encoding limitation meaning that their "word size" of "2 bytes"
+of either 5 or 6 bits didn't have the full set of combinations.
 
-These are both absolutely essential ideas in computing. If this was it, we
-could stop here, take our ball and go home. But there's even more.  In
-computing we separate control and data. That is to say we need a way to say
-something will begin an then we begin that something. Then we need a way to
-say something is ending. It's a crucial separation in any protocol design so
-our 18th century proto-computer scientist of course includes that as well
+These are all absolutely essential ideas in computing. If this was it, we
+could stop here, take our ball and go home. But there's even more.  
+
+In computing we separate what we call control and data. That is to say we need a way to say
+something will begin, the control an then we begin that something, the data. Then we need a way to
+say something is ending. Ths separation is crucial in any protocol design so
+our 18th century proto-computer scientist of course includes this detail as well
 
 "It would be necessary to give each correspondent 
 a means of notifying that he wished to communicate, 
@@ -269,11 +287,11 @@ for themselves all the details that I have omitted."
 
 Maybe they were anonymous because they were a time traveler.
 
-Our author #5 wasn't seen as that groundbreaking at the time however as the
+Our dreamer #5 wasn't seen as groundbreaking at the time however as the
 editor notied:
 
 His project of an easy communication between two very distant places appears
-to be only the the dream of some pleasant trifler. It is, however, not new,
+to be only the ream of some pleasant trifler. It is, however, not new,
 and would only imperfectly accomplish its object;
 
 Oh pish posh.
@@ -308,7 +326,7 @@ but this time, that doesn't stop him.
 
 Instead he tries his hand at raising a round of venture capital - of course
 like our other phrases, this had yet to be named that. Where does he go for
-such wealth in the 1780s? Well the King of Prussia of course:
+such wealth in the 1780s? Well to the King of Prussia of course:
 
  Sire, — My little fortune is not only sufficient for
 all my wants, but even for all my tastes — except one,
@@ -327,7 +345,13 @@ deck and waited for a response.
 There's no evidence on the Prussian side so like most startup aspirations, his angel
 investor, in his case, the king of prussia, failed to materialize.
 
-However the author goes on to describe using multiple wires at once:
+And that's how we're going to end today's episode. We started in 1753 in
+Scotland and are now 30 years later without a single working system.  Nothing
+even claims to have been built yet.
+
+That will all change in 1787 however, where someone claims to have actually
+seen a telegraph working between two rooms. Did this one actually exist? You
+can decide for yourself as we discuss Lemond's Telegraph.
 
 1753 Scots Magazine article
 1767 Bozolus's Telegraph (latin)
