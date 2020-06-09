@@ -36,6 +36,299 @@ This week we'll be looking at these futurist luminaries who dreamed of a telegra
 made their distance irrelevant empowering them to have, even casual conversations
 spanning over vast oceans.
 
+If you were alive in 1753 living in Edinburgh you may have been a reader of
+general Scots Magazine. In their February issue of that year among the
+contents you would see the speeches in debate upon a subsidy to the King of
+Poland, whether a reformed rake, a man of sense or a man of good nature ought
+to be a preferred husband and an expeditious method of conveying intelligence
+by means of electricity.
+
+Although the article about the reformed rakes is quite good, we'll be looking
+at the electricity one.
+
+Written by, well, nobody quite knows, someone named C.M., who started with a curious
+observation:
+
+"It is well known to all who are conversant in electrical experiments that
+electric power may be propagated along a smile wire, from one place to another
+without being sensibly abated by the length of its progress.
+
+Now this is not going to sound like the single wire with the dots and dashes
+that you've all heard about, so pay attention
+
+Let, then, a set of wires, equal in
+number to the letters of the alphabet, be extended
+horizontally between two given places, parallel to one
+another, and each of them about an inch distant from
+that next to it. At every twenty yards' end, let them
+be fixed in glass, or jeweller's cement, to some firm
+body, both to prevent them from touching the earth,
+or any other non-electric, and from breaking by their
+own gravity. Let the electric gun-barrel be placed at
+right angles with the extremities of the wires, and
+about an inch below them. Also let the wires be
+fixed in a solid piece of glass, at six inches from the
+end; and let that part of them which reaches from 
+the glass to the machine have sufficient spring and 
+stiffness to recover its situation after having been 
+brought in contact with the barrel. Close by the 
+supporting glass, let a ball be suspended from every 
+wire ; and about a sixth or an eighth of an inch below 
+the balls, place the letters of the alphabet, marked on 
+bits of paper, or any other substance that may be light 
+enough to rise to the electrified ball ; and at the same 
+time let it be so contrived, that each of them may re- 
+assume its proper place when dropt.* 
+
+"All things constructed as above, and the minute 
+previously fixed, I begin the conversation with my 
+distant friend in this manner. Having set the electrical 
+machine a-going as in ordinary experiments, suppose 
+I am to pronounce the word Sir ; with a piece of 
+glass, or any other electric per se, I strike the wire S, 
+so as to bring it in contact wtth the barrel, then i, then 
+r, all in the same way ; and my correspondent, almost 
+in the same instant, observes these several characters 
+rise in order to the electrified balls at his end of the 
+wires. Thus I spell away as long as I think fit ; and 
+my correspondent, for the sake of memory, writes the 
+characters as they rise, and may join and read them 
+afterwards as often as he inclines. Upon a signal 
+given, or from choice, I stop the machine ; and, taking 
+up the pen in my turn, I write down whatever my 
+friend at the other end strikes out. 
+
+Are you still with me? Did you follow all that? The suggestion was to have
+small pieces of paper with letters written on them jumping up, via static
+electricity to tiny electrified balls, one for each letter, and
+then fluttering back down one by one as the remote observer diligently
+records what letters hit their balls in what order. 
+
+Ah, the familiar electronic telegraph. Why, what were you expecting? 
+A single wire you say? Don't be silly! How would that even
+work?! Why clearly there needs to be a separate individual wire for every letter of the
+alphabet. If your language has a different number of letters than you'll
+simply need a different number of wires.
+
+"Well didn't it occur to anyone to just hook up a speaker and use some kind of coded
+system instead?" Huh? What's an electric speaker? they'd say. This is 1753. That's
+over 100 years away.
+
+The giants upon whose shoulders you wish to stand upon have yet to be born.
+We continue:
+
+"If anybody should think this way tiresome, let
+him, instead of the balls, suspend a range of bells
+from the roof, equal in number to the letters of the
+alphabet ; gradually decreasing in size from the bell
+A to Z ; and from the horizontal wires, let there be
+another set reaching to the several bells ; one, viz.,
+from the horizontal wire A to the bell A, another from
+the horizontal wire B to the bell B, &c. Then let him
+who begins the discourse bring the wires in contact
+with the barrel, as before ; and the electrical spark,
+breaking on bells of different size, will inform his
+correspondent by the sound what wires have been
+touched. And thus, by some practice, they may come
+to understand the language of the chimes in whole
+words, without being put to the trouble of noting
+down every letter."
+
+We only have this one letter. There is no machine, any evidence of one
+constructed, or even any knowledge as to who the author was. People have been
+searching for who CM was since 1753. Maybe it was a woman scientist hiding in
+the shadows or prehaps someone who deeply believed in the possibility of the
+telegraph but had nothing to show but failed implementations and used the veil
+of anonymity to hide their shame.  
+
+Regardless here was the first glimpse we had of the electric communication.
+
+But wait, there's 10 more to go before 1800, none of them having any evidence
+of ever working. Like a quack in a garage working on a time machine,
+someone claiming to be getting close to a working electric telegraph could
+have been readily dismissed and regarded as an ignorant fool throughout the 
+remainder of the 1700s.
+
+So we'll follow this futile quackery of communicating via electricity down to
+southern Europe at the College of Rome where a lecturer on natural philosophy
+(let's call it science), Joseph Bozolus suggested such a device based on spark
+in 1767.  He described it in Latin, via poetry in a text called the
+Electicorum.
+
+Being poetry he doesn't go into too much detail but it's basically bury two
+insulated wires, keep them close together, charge the wire at one end to
+create a spark at the other. The encoding is left as an exercise to the
+reader.
+
+This is far closer then paper strips clinging to electrostatic balls but it
+also doesn't seem to have ever been built.
+
+Now if an alphabet of bells and a latin poem wasn't enough color in 1773 a
+Genevan Physician named Louis Odier was trying to pick up a lady and thought
+he could do it by talking about his telegraph idea.  He wrote to her:
+
+" I shall amuse you, perhaps, in telling you that I
+have in my head certain experiments by which to
+enter into conversation with the emperor of Mogol,
+or of China, the English, the French, or any other
+people of Europe, in a way that, without incon-
+veniencing yourself, you may intercommunicate all
+that you wish, at a distance of four or five thousand
+leagues in less than half an hour ! Will that suffice
+you for glory . There is nothing more real. What- 
+ever be the course of those experiments, they must 
+necessarily lead to some grand discovery ; but I have 
+not the courage to undertake them this winter.'
+
+Figures. Nice try Louis. He also doesn't seem to have built it.
+
+Round 4 brings us to Alessandro Volta. Now you should notice by this dude's
+name "Volta" that he's probably where unit of Volts came from and is therefore 
+likely to be pretty important when it comes to electricity. His experiments
+weren't disclosed until research done by someone named, and remember this
+name, Francis Ronalds, who at the age of 85 wrote into the first edition of
+the first journal of the society of telegraphe engineers about Volta having
+described a nearly working telegraph in 1777. 
+
+It was however, mostly hype. It did contain some genuinely good future
+thought. An excerpt of the translated letter is as follows:
+
+"he more I reflect, the more I see the beautiful 
+experiments that can be made by means of the spark 
+in exploding the electric pistol at any distance. An 
+iron wire, stretched along the fields, or roads, for I 
+know not how many miles, could . conduct the spark. 
+As, however, in long distances moist earth and water- 
+courses would be encountered, which would draw off 
+the electric fire, the wire may be supported on posts 
+placed at regular intervals"
+
+He, however, just like everyone else didn't actually build an infrastructure
+of posts with wires although someone eventually did. 
+
+Our 5th telegraph proposal, coming from the May 30th 1782 Journal of Paris brings forth a very important insight to the history of computers.
+
+Along with being yet another dream in a line of unbuilt machines, it was the
+first to describe an electronic encoding in details. The first electronic
+format is described here in 1782, a designation of code designed for electricity. 
+
+We even get a suggestion of binary, byte and a primitive form of compression
+using what is called a lookup or reference table. Of course these words hadn't
+been appropriated yet and so we are applying this analysis with a
+contemporary lens, but let's go on.
+
+The anonymous author starts by describing a hybrid system between the Scottish
+CM and a spark system. They propose a pair of wires for every
+letter of the alphabet placed close against a tin and then
+observing the spark between the wire and the tin for each letter. But the
+method of observation would be by creating little knobs on a panel, each one
+will illuminate upon spark. Those old computers with all the blinking lights?
+Yes, that's what they are thinking of using 1780s technology.
+
+The author goes on, identifying that having 48 wires (2 for each letter) would
+be somewhat impractical so they propose as follows:
+
+"These means could be simplified by having having only 5 pairs of wires and
+attaching a character or letter to each of their combination as in, firing
+multiple wires as once, which would make 31 characters; six pairs would yield
+63 and thus one could arrive at a sort of shorthand or fast writing with one
+combination sufficing for an entire word or phrase. There would be some
+difficulty however in discharging at exactly the same instant several pairs.
+One might also use successive combinations of these pairs in which 5 pairs
+would give 125 signals and 6 216 which would be very fast"
+
+Woah hold on here ... what did we just read? 
+
+First there's a suggestion of a byte, in this case having 5 or 6 bits. The
+author correctly identifies the number of combinations and that timing is
+absolutely essential in making it work and also quite hard. Then they describe 
+what is called serial communication in the computing world to avoid the timing issue,
+essentially stagnating the symbols into a stream.
+
+These are both absolutely essential ideas in computing. If this was it, we
+could stop here, take our ball and go home. But there's even more.  In
+computing we separate control and data. That is to say we need a way to say
+something will begin an then we begin that something. Then we need a way to
+say something is ending. It's a crucial separation in any protocol design so
+our 18th century proto-computer scientist of course includes that as well
+
+"It would be necessary to give each correspondent 
+a means of notifying that he wished to communicate, 
+to prevent constant watching and cross signalling. 
+For this an electric bell would suffice, and by agree- 
+ing beforehand that one stroke shall mean ' I will 
+call you up in 15 minutes,' two strokes ' I am all 
+attention,' etc., all confusion would be avoided."
+
+And then, like someone who just wandered in a room and casually defeated
+everyone while yawning and checking their watch, our author concludes:
+
+"As this letter is only intended for those who
+amuse themselves with physics, they can easily supply
+for themselves all the details that I have omitted."
+
+Maybe they were anonymous because they were a time traveler.
+
+Our author #5 wasn't seen as that groundbreaking at the time however as the
+editor notied:
+
+His project of an easy communication between two very distant places appears
+to be only the the dream of some pleasant trifler. It is, however, not new,
+and would only imperfectly accomplish its object;
+
+Oh pish posh.
+
+Now if you thought our anonymous author sounded like the fantasies of a computer
+programmer, telegraph fever dream #6 will come from someone who acted like
+one.
+
+Georges Louis Le Sage was born in Geneva in 1724 to strict academic parents and after hopping around many scientific
+disciplines he tried his way as a doctor but was forbidden from practicing
+in Geneva after acquiring his medical degree in Paris for the sole reason
+that his father was not a Genevan. These were stranger times.
+
+Giving up on medicine Goerge sought a study of mathematics, against his
+fathers will, but wasn't able to get a university position. Ah the college
+dropout syndrome.
+
+Le Sage was an interesting guy. He described his manner of working in the 
+following ways:
+
+I have been born with four dispositions well adapted for making progress in science, but with two great defects in the faculties necessary for that purpose. 1. An ardent desire to know the truth; 2. Great activity of mind; 3. An uncommon soundness of understanding; 4. A strong desire for precision and distinctness of ideas; 5. An excessive weakness of memory; 6. A great incapacity of continued attention.
+
+He also suffered from insomnia and often slept throughout the day. If you ever
+wondered what computer programmer types did before computers, well here's your chance to find out.
+
+He describes essentially a clone of the CM system but uses separate tubing for
+each wire, and uses gold leaf instead of slips of paper. 
+
+Which is not that remarkable until you find out what he does next. Of course
+like the others Le Sage doesn't actually have the resources to build the thing
+but this time, that doesn't stop him. 
+
+Instead he tries his hand at raising a round of venture capital - of course
+like our other phrases, this had yet to be named that. Where does he go for
+such wealth in the 1780s? Well the King of Prussia of course:
+
+ Sire, — My little fortune is not only sufficient for
+all my wants, but even for all my tastes — except one,
+viz., that of contributing to the wants and tastes of
+others ; and this desire all the monarchs of the world,
+united, could not enable me to fully satisfy. It is
+not, then, to a patron who can give much, that I take
+the liberty of dedicating the following discovery, but
+to a patron who can do much with it, and who can
+judge for himself of its utility without having to refer
+it to his advisers.
+
+And then he attached diagrams and descriptions, like a enlightenment era pitch
+deck and waited for a response. 
+
+There's no evidence on the Prussian side so like most startup aspirations, his angel
+investor, in his case, the king of prussia, failed to materialize.
+
+However the author goes on to describe using multiple wires at once:
+
 1753 Scots Magazine article
 1767 Bozolus's Telegraph (latin)
 1773 Odier's Telegraph
@@ -53,29 +346,11 @@ Our story begins
 Where this all started is 
  
 
-We start our story in Geneva in 1724 where Georges Louis Le Sage who was
-born to strict academic parents and after hopping around many scientific
-disciplines he tried his way as a doctor but was forbidden from practicing
-in Geneva after acquiring his medical degree in Paris for the sole reason
-that his father was not a Genevan. These were stranger times.
-
-Giving up on medicine Goerge sought a study of mathematics, against his
-fathers will, but wasn't able to get a university position.
-
 He was an avid tinkerer and came up with a machine that could communicate by
 electricity over wire. We'd call it a telegraph.
 
 
 Louis Odier Geneva, 1773
-" I shall amuse you, perhaps, in telling you that I
-have in my head certain experiments by which to
-enter into conversation with the emperor of Mogol,
-or of China, the English, the French, or any other
-people of Europe, in a way that, without incon-
-veniencing yourself, you may intercommunicate all
-that you wish, at a distance of four or five thousand
-leagues in less than half an hour ! Will that suffice
-you for glory .'
 If George 
 
 
