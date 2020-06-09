@@ -1,508 +1,402 @@
-Lewie Oh dee ay
-Edinburah
+Lewie Oh dee ay Edinburah
 
-Hello and welcome to computing history episode 
-1.1, the dream of electric communications.
+Hello and welcome to computing history episode 1.1, the dream of 
+electric communications part 1.
 
-Electronic communication, it's how we directed 
-the Voyager 1 space craft, far past the orbit of 
-Neptune to snap a final photo of earth so we 
-could see our planet as a pale blue dot suspended 
-in a sunbeam.
+Electric communication, it's how we directed the Voyager 1 space 
+craft, far past the orbit of Neptune to snap a final photo of the earth 
+so we could see our planet as a pale blue dot suspended in a sunbeam.
 
-It's also how components communicate that are so 
-incredibly tiny that if they had legs, it would 
-take them around 3 hours to walk across a single 
-grain of sand.
+It's also how components communicate that are so incredibly tiny that 
+if they had legs, it would take them around 3 hours to walk across a 
+single grain of sand.
 
-Even more astounding is these two things and 
-everything in between speak nearly the same 
-electronic language.
+Even more astounding is these two things and everything in between 
+speak nearly the same electric language.
 
 So where did this all start?
 
-The basic idea is to be able to efficiently 
-communicate at a distance. Humans have had ways 
-of doing that using coded symbols for thousands 
-of years. Alphabets, smoke signals, mirrors 
-reflecting the sunlight, many methods were 
-developed.
+It actually didn't start with electricity. The word telegraph, as 
+far as a dictionary goes, doesn't imply electricity at all. It simply 
+means communication at a distance.
 
-Each of these examples are of different medium. 
-For instance, with an alphabet, a surface is 
-marked with symbols and then you just need to 
-worry about the caring for and transporting of 
-the marked surface.
+Humans have had ways of communicating at a distance in time and space 
+ using coded symbols for thousands of years. 
 
-We're going to start our story with the fantasy 
-of communicating using the medium of electricity.
+Alphabets, smoke signals, drums, mirrors reflecting the sunlight, 
+many methods were developed.
 
-In the same way we talk about currently 
-unachievable technology, such as visiting other 
-galaxies, to the dreamers of the 18th century, 
-electronic communication was a hope and a vision 
-capturing the imaginations of the telegraph 
-pioneers.
+During the Han dynasty in China 2000 years ago, for instance, people 
+communicated along the signal towers of the great wall of china using 
+things such as lights, flags, and fires. Messages would be relayed 
+across the wall and traveled about 30 miles per hour, about as fast 
+as a galloping horse.
 
-These machines of science fiction were described 
-in detail often with excited H.G. Wells style 
-flourishes over about 70 years before the first 
-working telegraph was achieved and that one only 
-extended to the inventor's garden.
+Each of these examples are of different mediums. For instance, with 
+an alphabet, a surface is marked with symbols and then you just need 
+to worry about the caring for and transporting of the marked surface.
 
-This week we'll be looking at these futurist 
-luminaries who dreamed of a telegraphic world 
-connecting people in a way that made their 
-distance irrelevant empowering them to have, even 
+We're going to start our story with the fantasy of communicating 
+using the medium of electricity.
+
+In the same way we talk about currently unachievable technology, such 
+as visiting other galaxies, to the dreamers of the 18th century, 
+electric communication was a hope and a vision capturing the 
+imaginations of the telegraph pioneers.
+
+These machines of science fiction were described in detail often with 
+excited fanciful flourishes over about 70 years before the first 
+working electric telegraph was achieved and that one only extended to 
+the inventor's garden.
+
+This time we'll be looking at the first of a series of futurist 
+luminaries who dreamed of a telegraphic world connecting people in a 
+way that made their distance irrelevant empowering them to have, even 
 casual conversations spanning over vast oceans.
 
-If you were alive in 1753 living in Edinburgh you 
-may have been a reader of general Scots Magazine. 
-In their February issue of that year among the 
-contents you would see the speeches in debate 
-upon a subsidy to the King of Poland, whether a 
-reformed rake, a man of sense or a man of good 
-nature ought to be a preferred husband and an 
-expeditious method of conveying intelligence by 
-means of electricity.
+If you were alive in 1753 living in Edinburgh you may have been a 
+reader of general Scots Magazine. In their February issue of that 
+year among the contents you would see the speeches in debate upon a 
+subsidy to the King of Poland, whether a reformed rake, a man of 
+sense or a man of good nature ought to be a preferred husband and an 
+expeditious method of conveying intelligence by means of electricity.
 
-Although the article about the reformed rakes is 
-quite good, we'll surprisingly be focusing on the 
-electricity one.
+Although the article about the reformed rakes is quite good, we'll 
+surprisingly be focusing on the electricity one.
 
-It was written by, well, nobody quite knows. The 
-letter is signed by the initials C.M. It starts 
-with a curious observation:
+It was written by, well, nobody quite knows. The letter is signed 
+with the initials C.M. It starts with a curious observation:
 
-"It is well known to all who are conversant in 
-electrical experiments that electric power may be 
-propagated along a smile wire, from one place to 
-another without being sensibly abated by the 
-length of its progress.
+"It is well known to all who are conversant in electrical experiments 
+that electric power may be propagated along a smile wire, from one 
+place to another without being sensibly abated by the length of its 
+progress.
 
-Now this is not going to sound like the single 
-wire with the dots and dashes that you've all 
-heard about, so pay attention
+Now this is not going to sound like the single wire with the dots and 
+dashes that you've all heard about, so pay attention
 
-Let, then, a set of wires, equal in number to the 
-letters of the alphabet, be extended horizontally 
-between two given places, parallel to one 
-another, and each of them about an inch distant 
-from that next to it. At every twenty yards' end, 
-let them be fixed in glass, or jeweller's cement, 
-to some firm body, both to prevent them from 
-touching the earth, or any other non-electric, 
-and from breaking by their own gravity. Let the 
-electric gun-barrel be placed at right angles 
-with the extremities of the wires, and about an 
-inch below them. Also let the wires be fixed in a 
-solid piece of glass, at six inches from the end; 
-and let that part of them which reaches from the 
-glass to the machine have sufficient spring and 
-stiffness to recover its situation after having 
-been brought in contact with the barrel. Close by 
-the supporting glass, let a ball be suspended 
-from every wire ; and about a sixth or an eighth 
-of an inch below the balls, place the letters of 
-the alphabet, marked on bits of paper, or any 
-other substance that may be light enough to rise 
-to the electrified ball ; and at the same time 
-let it be so contrived, that each of them may re- 
-assume its proper place when dropt.* 
+Let, then, a set of wires, equal in number to the letters of the 
+alphabet, be extended horizontally between two given places, parallel 
+to one another, and each of them about an inch distant from that next 
+to it. At every twenty yards' end, let them be fixed in glass, or 
+jeweller's cement, to some firm body, both to prevent them from 
+touching the earth, or any other non-electric, and from breaking by 
+their own gravity. Let the electric gun-barrel be placed at right 
+angles with the extremities of the wires, and about an inch below 
+them. Also let the wires be fixed in a solid piece of glass, at six 
+inches from the end; and let that part of them which reaches from the 
+glass to the machine have sufficient spring and stiffness to recover 
+its situation after having been brought in contact with the barrel. 
+Close by the supporting glass, let a ball be suspended from every 
+wire ; and about a sixth or an eighth of an inch below the balls, 
+place the letters of the alphabet, marked on bits of paper, or any 
+other substance that may be light enough to rise to the electrified 
+ball ; and at the same time let it be so contrived, that each of them 
+may re- assume its proper place when dropt.* 
 
-"All things constructed as above, and the minute 
-previously fixed, I begin the conversation with 
-my distant friend in this manner. Having set the 
-electrical machine a-going as in ordinary 
-experiments, suppose I am to pronounce the word 
-Sir ; with a piece of glass, or any other 
-electric per se, I strike the wire S, so as to 
-bring it in contact wtth the barrel, then i, then 
-r, all in the same way ; and my correspondent, 
-almost in the same instant, observes these 
-several characters rise in order to the 
-electrified balls at his end of the wires. Thus I 
-spell away as long as I think fit ; and my 
-correspondent, for the sake of memory, writes the 
-characters as they rise, and may join and read 
-them afterwards as often as he inclines. Upon a 
-signal given, or from choice, I stop the machine 
-; and, taking up the pen in my turn, I write down 
-whatever my friend at the other end strikes out. 
+"All things constructed as above, and the minute previously fixed, I 
+begin the conversation with my distant friend in this manner. Having 
+set the electrical machine a-going as in ordinary experiments, 
+suppose I am to pronounce the word Sir ; with a piece of glass, or 
+any other electric per se, I strike the wire S, so as to bring it in 
+contact wtth the barrel, then i, then r, all in the same way ; and my 
+correspondent, almost in the same instant, observes these several 
+characters rise in order to the electrified balls at his end of the 
+wires. Thus I spell away as long as I think fit ; and my 
+correspondent, for the sake of memory, writes the characters as they 
+rise, and may join and read them afterwards as often as he inclines. 
+Upon a signal given, or from choice, I stop the machine ; and, taking 
+up the pen in my turn, I write down whatever my friend at the other 
+end strikes out. 
 
-Are you still with me? Did you follow all that? 
-The suggestion was to have small pieces of paper 
-with letters written on them jumping up, via 
-static electricity to tiny electrified balls as 
-the sender manually electrifies the wires, one 
-for each letter, and then waits a bit to allow 
-the slips of paper to flutter back down one by 
-one as the remote observer diligently records 
-what letters hit their balls in what order. 
+Are you still with me? Did you follow all that? The suggestion was to 
+have small pieces of paper with letters written on them jumping up, 
+via static electricity to tiny electrified balls as the sender 
+manually electrifies the wires, one for each letter, and then waits a 
+bit to allow the slips of paper to flutter back down one by one as 
+the remote observer diligently records what letters hit their balls 
+in what order. 
 
-Ah, the familiar electronic telegraph. Why, what 
-were you expecting? A single wire you say? Don't 
-be silly! How would that even work?! Why clearly 
-there needs to be a separate individual wire for 
-every letter of the alphabet. If your language 
-has a different number of letters than you'll 
-simply need a different number of wires.
+Ah, the familiar electric telegraph. Why, what were you expecting? 
+A single wire you say? Don't be silly! How would that even work?! Why 
+clearly there needs to be a separate individual wire for every letter 
+of the alphabet. If your language has a different number of letters 
+than you'll simply need a different number of wires.
 
-You might say, "Well didn't it occur to anyone to 
-just hook up a speaker and use some kind of coded 
-system instead?" Huh? What's an electric speaker? 
-they'd say. This is 1753. That's over 100 years 
+You might say, "Well didn't it occur to anyone to just hook up a 
+speaker and use some kind of coded system instead?" Huh? What's an 
+electric speaker? they'd say. This is 1753. That's over 100 years 
 away.
 
-The giants upon whose shoulders you wish to stand 
-upon have yet to be born. We continue:
+The giants whose shoulders you wish to stand upon have yet to be 
+born. We continue:
 
-"If anybody should think this way tiresome, let 
-him, instead of the balls, suspend a range of 
-bells from the roof, equal in number to the 
-letters of the alphabet ; gradually decreasing in 
-size from the bell A to Z ; and from the 
-horizontal wires, let there be another set 
-reaching to the several bells ; one, viz., from 
-the horizontal wire A to the bell A, another from 
-the horizontal wire B to the bell B, &c. Then let 
-him who begins the discourse bring the wires in 
-contact with the barrel, as before ; and the 
-electrical spark, breaking on bells of different 
-size, will inform his correspondent by the sound 
-what wires have been touched. And thus, by some 
-practice, they may come to understand the 
-language of the chimes in whole words, without 
-being put to the trouble of noting down every 
-letter."
+"If anybody should think this way tiresome, let him, instead of the 
+balls, suspend a range of bells from the roof, equal in number to the 
+letters of the alphabet ; gradually decreasing in size from the bell 
+A to Z ; and from the horizontal wires, let there be another set 
+reaching to the several bells ; one, viz., from the horizontal wire A 
+to the bell A, another from the horizontal wire B to the bell B, &c. 
+Then let him who begins the discourse bring the wires in contact with 
+the barrel, as before ; and the electrical spark, breaking on bells 
+of different size, will inform his correspondent by the sound what 
+wires have been touched. And thus, by some practice, they may come to 
+understand the language of the chimes in whole words, without being 
+put to the trouble of noting down every letter."
 
-We only have this one letter. There is no 
-machine, any evidence of one constructed, or even 
-any knowledge as to who the author was. People 
-have been searching for who CM was since the 
-letter was published 270 years ago. Maybe it was 
-a woman scientist hiding in the shadows or 
-prehaps someone who deeply believed in the 
-possibility of the telegraph but had nothing to 
-show but failed implementations and used the veil 
-of anonymity to hide their shame.  
+We only have this one letter. There is no machine, any evidence of 
+one constructed, or even any knowledge as to who the author was. 
+People have been searching for who CM was since the letter was 
+published 270 years ago. Maybe it was a woman scientist hiding in the 
+shadows or prehaps someone who deeply believed in the possibility of 
+the telegraph but had nothing to show but failed implementations and 
+used the veil of anonymity to hide their shame.  
 
-Regardless here was the first glimpse we had of 
-the electric communication.
+Regardless here was the first glimpse we had of the electric 
+communication.
 
-But wait, there's 10 more to go before 1800, and 
-we're not even going to reach them all today. 
-Almost none of them had any evidence of ever 
-having been built, yet alone actually working. 
-Like a quack in a garage working on a time 
-machine, someone claiming to be getting close to 
-a working electric telegraph could have been 
-readily dismissed and regarded as an ignorant 
-fool throughout the remainder of the 1700s.
+But wait, there's 10 more to go before 1800, and we're not even going 
+to reach them all today. Almost none of them had any evidence of ever 
+having been built, yet alone actually working. Like a quack in a 
+garage working on a time machine, someone claiming to be getting 
+close to a working electric telegraph could have been readily 
+dismissed and regarded as an ignorant fool throughout the remainder 
+of the 1700s.
 
-So we'll follow this futile quackery of 
-communicating via electricity down to southern 
-Europe at the College of Rome where a lecturer on 
-natural philosophy (let's call it science), 
-Joseph Bozolus suggested such a device based on 
-spark in 1767.  He described it in Latin, via 
+So we'll follow this futile quackery of communicating via electricity 
+down to southern Europe at the College of Rome where a lecturer on 
+natural philosophy (let's call it science), Joseph Bozolus suggested 
+such a device based on spark in 1767.  He described it in Latin, via 
 poetry in a text called the Electicorum.
 
-Being poetry he doesn't go into too much detail 
-but it's basically bury two insulated wires, keep 
-them close together, charge the wire at one end 
-to create a spark at the other. The encoding of 
-your entire language via electric sparks is left 
-as an exercise to the reader.
+Being poetry he doesn't go into too much detail but it's basically 
+bury two insulated wires, keep them close together, charge the wire 
+at one end to create a spark at the other. The encoding of your 
+entire language via electric sparks is left as an exercise to the 
+reader.
 
-This is far closer then paper strips clinging to 
-electrostatic balls but it also doesn't seem to 
-have ever been built.
+This is far closer then paper strips clinging to electrostatic balls 
+but it also doesn't seem to have ever been built.
 
-Now if an alphabet of bells and a latin poem 
-wasn't enough color in 1773 a Genevan Physician 
-named Louis Odier was trying to pick up a lady 
-and thought he could do it by talking about his 
-telegraph idea.  He wrote to her:
+Now if an alphabet of bells and a latin poem wasn't enough color in 
+1773 a Genevan Physician named Louis Odier was trying to pick up a 
+lady and thought he could do it by talking about his telegraph idea.  
+He wrote to her:
 
-" I shall amuse you, perhaps, in telling you that 
-I have in my head certain experiments by which to 
-enter into conversation with the emperor of 
-Mogol, or of China, the English, the French, or 
-any other people of Europe, in a way that, 
-without incon- veniencing yourself, you may 
-intercommunicate all that you wish, at a distance 
-of four or five thousand leagues in less than 
-half an hour ! Will that suffice you for glory . 
-There is nothing more real. What- ever be the 
-course of those experiments, they must 
-necessarily lead to some grand discovery ; but I 
-have not the courage to undertake them this 
-winter.'
+" I shall amuse you, perhaps, in telling you that I have in my head 
+certain experiments by which to enter into conversation with the 
+emperor of Mogol, or of China, the English, the French, or any other 
+people of Europe, in a way that, without incon- veniencing yourself, 
+you may intercommunicate all that you wish, at a distance of four or 
+five thousand leagues in less than half an hour ! Will that suffice 
+you for glory . There is nothing more real. What- ever be the course 
+of those experiments, they must necessarily lead to some grand 
+discovery ; but I have not the courage to undertake them this winter.'
 
-Figures. Nice try Louis. He also doesn't seem to 
-have built anything.  Dreams pave the road to 
-reality however long that route may be.
+Figures. Nice try Louis. He also doesn't seem to have built anything. 
+ Dreams pave the road to reality however long that route may be.
 
-Round 4 brings us to Alessandro Volta. Now you 
-should notice by this dude's name "Volta" that 
-he's probably where the unit of Volts came from 
-and is therefore likely to be pretty important 
-when it comes to electricity. His telegraph 
-related experiments weren't disclosed until 
-research into his archives after death done by 
-someone named, and remember this name, Francis 
-Ronalds, who at the age of 85 wrote into the 
-first edition of the first journal of the society 
-of telegraph engineers about Volta having 
-described a nearly working telegraph in 1777. 
+Round 4 brings us to Alessandro Volta. Now you should notice by this 
+dude's name "Volta" that he's probably where the unit of Volts came 
+from and is therefore likely to be pretty important when it comes to 
+electricity. His telegraph related experiments weren't disclosed 
+until research into his archives after death done by someone named, 
+and remember this name, Francis Ronalds, who at the age of 85 wrote 
+into the first edition of the first journal of the society of 
+telegraph engineers about Volta having described a nearly working 
+telegraph in 1777. 
 
-It was however, mostly hype. The description did 
-contain some genuinely good future thought. An 
-excerpt of the translated letter is as follows:
+It was however, mostly hype. The description did contain some 
+genuinely good future thought. An excerpt of the translated letter is 
+as follows:
 
-"The more I reflect, the more I see the beautiful 
-experiments that can be made by means of the 
-spark in exploding the electric pistol at any 
-distance. An iron wire, stretched along the 
-fields, or roads, for I know not how many miles, 
-could . conduct the spark. As, however, in long 
-distances moist earth and water- courses would be 
-encountered, which would draw off the electric 
-fire, the wire may be supported on posts placed 
-at regular intervals"
+"The more I reflect, the more I see the beautiful experiments that 
+can be made by means of the spark in exploding the electric pistol at 
+any distance. An iron wire, stretched along the fields, or roads, for 
+I know not how many miles, could . conduct the spark. As, however, in 
+long distances moist earth and water- courses would be encountered, 
+which would draw off the electric fire, the wire may be supported on 
+posts placed at regular intervals"
 
-Volta, however, just like everyone else didn't 
-actually build his idea, in this case, an 
-infrastructure of posts. There's actually not
-much to see here. We are often 
-predisposed to attribute great insight to great 
-minds even in cases where there was none to be 
-had.
+Volta, however, just like everyone else didn't actually build his 
+idea, in this case, an infrastructure of posts. There's actually not 
+much to see here. We are often predisposed to attribute great insight 
+to great minds even in cases where there was none to be had.
 
-Speaking of great insight, let's look at our 5th 
-telegraph idea, coming from the May 30th 1782 
-Journal of Paris. This one brings forth a number 
-of groundbreaking ideas that become essential in 
-the world of electronic computers.
+Speaking of great insight, let's look at our 5th telegraph idea, 
+coming from the May 30th 1782 Journal of Paris. This one brings forth 
+a number of groundbreaking ideas that become essential in the world 
+of electronic computers.
 
-Along with being yet another dream in a line of 
-unbuilt machines, it was the first to describe a 
-form of electronic encoding in details, that is 
-to say a system of code designed to work 
-specifically under the confinements of 
-electricity.  As everyone can attest to, 
-accomodating for the realities of a machine is 
-one of the first steps in learning how to use a 
-computer.
+Along with being yet another dream in a line of unbuilt machines, it 
+was the first to describe a form of electronic encoding in details, 
+that is to say a system of code designed to work specifically under 
+the confinements of electricity.  As everyone can attest to, 
+accomodating for the realities of a machine is one of the first steps 
+in learning how to use a computer.
 
-In this proposal we even get a suggestion of 
-binary, byte and a primitive form of data 
-compression using what is called a lookup or 
-reference table. Of course these words hadn't 
-been appropriated yet and so we are applying this 
-analysis with a contemporary lens, but let's go 
-on.
+In this proposal we even get a suggestion of binary, byte and a 
+primitive form of data compression using what is called a lookup or 
+reference table. Of course these words hadn't been appropriated yet 
+and so we are applying this analysis with a contemporary lens, but 
+let's go on.
 
-The anonymous author starts by describing a 
-hybrid system between the Scottish CM and a spark 
-system. They propose a pair of wires for every 
-letter of the alphabet placed close against a tin 
-and then using the spark between the wire and the 
-tin for each letter. But the proposed method of 
-observation is to be achieved by creating little 
-knobs on a panel extending from the tin. Each 
-knob will illuminate upon spark. 
+The anonymous author starts by describing a hybrid system between the 
+Scottish CM and a spark system. They propose a pair of wires for 
+every letter of the alphabet placed close against a tin and then 
+using the spark between the wire and the tin for each letter. But the 
+proposed method of observation is to be achieved by creating little 
+knobs on a panel extending from the tin. Each knob will illuminate 
+upon spark. 
 
-Seen those old computers with all the blinking 
-lights on some panel? Yes, that's what this 
-author is describing using 1780s technology.
+Seen those old computers with all the blinking lights on some panel? 
+Yes, that's what this author is describing using 1780s technology.
 
-They go on with a CM like system wherein you have 
-a wire for every letter. Correctly identifying 
-having 48 wires (2 for each letter) would be 
-somewhat impractical they propose as follows:
+They go on with a CM like system wherein you have a wire for every 
+letter. Correctly identifying having 48 wires (2 for each letter) 
+would be somewhat impractical they propose as follows:
 
-"These means could be simplified by having only 5 
-pairs of wires and attaching a character or 
-letter to each of their combination as in, firing 
-multiple wires as once, which would make 31 
-characters (or 2^5 - 1); six pairs would yield 63 
-(or 2^6 - 1) and thus one could arrive at a sort 
-of shorthand or fast writing with one combination 
-sufficing for an entire word or phrase. There 
-would be some difficulty however in discharging 
-at exactly the same instant several pairs. One 
-might also use successive combinations of these 
-pairs in which 5 pairs would give 125 signals and 
-6 216 which would be very fast"
+"These means could be simplified by having only 5 pairs of wires and 
+attaching a character or letter to each of their combination as in, 
+firing multiple wires as once, which would make 31 characters (or 2^5 
+- 1); six pairs would yield 63 (or 2^6 - 1) and thus one could arrive 
+at a sort of shorthand or fast writing with one combination sufficing 
+for an entire word or phrase. There would be some difficulty however 
+in discharging at exactly the same instant several pairs. One might 
+also use successive combinations of these pairs in which 5 pairs 
+would give 125 signals and 6 216 which would be very fast"
 
 Woah hold on here ... what did we just read? 
 
-First there's a suggestion of a byte, in this 
-case having 5 or 6 bits. The author correctly 
-identifies the number of combinations and that 
-timing is absolutely essential in making it work 
-and also quite hard. Then they describe what is 
-called serial communication in the computing 
-world essentially stagnating the symbols into a 
-stream.  They can't re-use the previously 
-illuminated knobs so there's an encoding 
-limitation meaning that their "word size" of "2 
-bytes" of either 5 or 6 bits didn't have the full 
-set of combinations.
+First there's a suggestion of a byte, in this case having 5 or 6 
+bits. The author correctly identifies the number of combinations and 
+that timing is absolutely essential in making it work and also quite 
+hard. Then they describe what is called serial communication in the 
+computing world essentially stagnating the symbols into a stream.  
+They can't re-use the previously illuminated knobs so there's an 
+encoding limitation meaning that their "word size" of "2 bytes" of 
+either 5 or 6 bits didn't have the full set of combinations.
 
-These are all absolutely essential ideas in 
-computing. If this was it, we could stop here, 
-take our ball and go home. But there's even more. 
- 
+These are all absolutely essential ideas in computing. If this was 
+it, we could stop here, take our ball and go home. But there's even 
+more.  
 
-In computing we separate what we call control and 
-data. That is to say we need a way to say 
-something will begin, the control an then we 
-begin that something, the data. Then we need a 
-way to say something is ending. Ths separation is 
-crucial in any protocol design so our 18th 
-century proto-computer scientist of course 
-includes this detail as well
+In computing we separate what we call control and data. That is to 
+say we need a way to say something will begin, the control an then we 
+begin that something, the data. Then we need a way to say something 
+is ending. Ths separation is crucial in any protocol design so our 
+18th century proto-computer scientist of course includes this detail 
+as well
 
-"It would be necessary to give each correspondent 
-a means of notifying that he wished to 
-communicate, to prevent constant watching and 
-cross signalling. For this an electric bell would 
-suffice, and by agree- ing beforehand that one 
-stroke shall mean ' I will call you up in 15 
-minutes,' two strokes ' I am all attention,' 
-etc., all confusion would be avoided."
+"It would be necessary to give each correspondent a means of 
+notifying that he wished to communicate, to prevent constant watching 
+and cross signalling. For this an electric bell would suffice, and by 
+agree- ing beforehand that one stroke shall mean ' I will call you up 
+in 15 minutes,' two strokes ' I am all attention,' etc., all 
+confusion would be avoided."
 
-And then, like someone who just wandered in a 
-room and casually defeated everyone while yawning 
-and checking their watch, our author concludes:
+And then, like someone who just wandered in a room and casually 
+defeated everyone while yawning and checking their watch, our author 
+concludes:
 
-"As this letter is only intended for those who 
-amuse themselves with physics, they can easily 
-supply for themselves all the details that I have 
-omitted."
+"As this letter is only intended for those who amuse themselves with 
+physics, they can easily supply for themselves all the details that I 
+have omitted."
 
-Maybe they were anonymous because they were a 
-time traveler.
+Maybe they were anonymous because they were a time traveler.
 
-Our dreamer #5 wasn't seen as groundbreaking at 
-the time however as the editor notied:
+Our dreamer #5 wasn't seen as groundbreaking at the time however as 
+the editor notied:
 
-His project of an easy communication between two 
-very distant places appears to be only the ream 
-of some pleasant trifler. It is, however, not 
-new, and would only imperfectly accomplish its 
-object;
+His project of an easy communication between two very distant places 
+appears to be only the ream of some pleasant trifler. It is, however, 
+not new, and would only imperfectly accomplish its object;
 
 Oh pish posh.
 
-Now if you thought our anonymous author sounded 
-like the fantasies of a computer programmer, 
-telegraph fever dream #6 will come from someone 
-who acted like one.
+Now if you thought our anonymous author sounded like the fantasies of 
+a computer programmer, telegraph fever dream #6 will come from 
+someone who acted like one.
 
-Georges Louis Le Sage was born in Geneva in 1724 
-to strict academic parents and after hopping 
-around many scientific disciplines he tried his 
-way as a doctor but was forbidden from practicing 
-in Geneva after acquiring his medical degree in 
-Paris for the sole reason that his father was not 
-a Genevan. These were stranger times.
+Georges Louis Le Sage was born in Geneva in 1724 to strict academic 
+parents and after hopping around many scientific disciplines he tried 
+his way as a doctor but was forbidden from practicing in Geneva after 
+acquiring his medical degree in Paris for the sole reason that his 
+father was not a Genevan. These were stranger times.
 
-Giving up on medicine Goerge sought a study of 
-mathematics, against his fathers will, but wasn't 
-able to get a university position. Ah the college 
-dropout syndrome.
+Giving up on medicine Goerge sought a study of mathematics, against 
+his fathers will, but wasn't able to get a university position. Ah 
+the college dropout syndrome.
 
-Le Sage was an interesting guy. He described his 
-manner of working in the following ways:
+Le Sage was an interesting guy. He described his manner of working in 
+the following ways:
 
-I have been born with four dispositions well 
-adapted for making progress in science, but with 
-two great defects in the faculties necessary for 
-that purpose. 1. An ardent desire to know the 
-truth; 2. Great activity of mind; 3. An uncommon 
-soundness of understanding; 4. A strong desire 
-for precision and distinctness of ideas; 5. An 
-excessive weakness of memory; 6. A great 
-incapacity of continued attention.
+I have been born with four dispositions well adapted for making 
+progress in science, but with two great defects in the faculties 
+necessary for that purpose. 1. An ardent desire to know the truth; 2. 
+Great activity of mind; 3. An uncommon soundness of understanding; 4. 
+A strong desire for precision and distinctness of ideas; 5. An 
+excessive weakness of memory; 6. A great incapacity of continued 
+attention.
 
-He also suffered from insomnia and often slept 
-throughout the day. If you ever wondered what 
-computer programmer types did before computers, 
-well here's your chance to find out.
+He also suffered from insomnia and often slept throughout the day. If 
+you ever wondered what computer programmer types did before 
+computers, well here's your chance to find out.
 
-He describes essentially a clone of the CM system 
-but uses separate tubing for each wire, and uses 
-gold leaf instead of slips of paper. 
+He describes essentially a clone of the CM system but uses separate 
+tubing for each wire, and uses gold leaf instead of slips of paper. 
 
-Which is not that remarkable until you find out 
-what he does next. Of course like the others Le 
-Sage doesn't actually have the resources to build 
-the thing but this time, that doesn't stop him. 
+Which is not that remarkable until you find out what he does next. Of 
+course like the others Le Sage doesn't actually have the resources to 
+build the thing but this time, that doesn't stop him. 
 
-Instead he tries his hand at raising a round of 
-venture capital - of course like our other 
-phrases, this had yet to be named that. Where 
-does he go for such wealth in the 1780s? Well to 
-the King of Prussia of course:
+Instead he tries his hand at raising a round of venture capital - of 
+course like our other phrases, this had yet to be named that. Where 
+does he go for such wealth in the 1780s? Well to the King of Prussia 
+of course:
 
- Sire, — My little fortune is not only 
-sufficient for all my wants, but even for all my 
-tastes — except one, viz., that of contributing 
-to the wants and tastes of others ; and this 
-desire all the monarchs of the world, united, 
-could not enable me to fully satisfy. It is not, 
-then, to a patron who can give much, that I take 
-the liberty of dedicating the following 
-discovery, but to a patron who can do much with 
-it, and who can judge for himself of its utility 
-without having to refer it to his advisers.
+ Sire, — My little fortune is not only sufficient for all my wants, 
+but even for all my tastes — except one, viz., that of contributing 
+to the wants and tastes of others ; and this desire all the monarchs 
+of the world, united, could not enable me to fully satisfy. It is 
+not, then, to a patron who can give much, that I take the liberty of 
+dedicating the following discovery, but to a patron who can do much 
+with it, and who can judge for himself of its utility without having 
+to refer it to his advisers.
 
-And then he attached diagrams and descriptions, 
-like a enlightenment era pitch deck and waited 
-for a response. 
+And then he attached diagrams and descriptions, like a enlightenment 
+era pitch deck and waited for a response. 
 
-There's no evidence on the Prussian side so like 
-most startup aspirations, his angel investor, in 
-his case, the king of prussia, failed to 
-materialize.
+There's no evidence on the Prussian side so like most startup 
+aspirations, his angel investor, in his case, the king of prussia, 
+failed to materialize.
 
-And that's how we're going to end today's 
-episode. We started in 1753 in Scotland and are 
-now 30 years later without a single working 
-system.  Nothing even claims to have been built 
-yet.
+And that's how we're going to end today's episode. We started in 1753 
+in Scotland and are now 30 years later without a single working 
+system.  Nothing even claims to have been built yet.
 
-That will all change in 1787 however, where 
-someone claims to have actually seen a telegraph 
-working between two rooms. Did this one actually 
-exist? You can decide for yourself as we discuss 
-Lemond's Telegraph.
+That will all change in 1787 however, where someone claims to have 
+actually seen a telegraph working between two rooms. Did this one 
+actually exist? You can decide for yourself as we discuss Lemond's 
+Telegraph.
 
-1753 Scots Magazine article 1767 Bozolus's 
-Telegraph (latin) 1773 Odier's Telegraph 1777 
-Volta's Telegraph 1782 Le Sage's Journal de Paris 
-1787 Lomong's single wire telegraph 1790 Chappe's 
-telegraph 1790 Reveroni-Saint Telegraph 1794 
-Reusser's telegraph 1795 Bockman 1796 Salva
+1753 Scots Magazine article 1767 Bozolus's Telegraph (latin) 1773 
+Odier's Telegraph 1777 Volta's Telegraph 1782 Le Sage's Journal de 
+Paris 1787 Lomong's single wire telegraph 1790 Chappe's telegraph 
+1790 Reveroni-Saint Telegraph 1794 Reusser's telegraph 1795 Bockman 
+1796 Salva
 
-1816 Francis Ronalds first working telegraph Our 
-story begins Where this all started is  
+1816 Francis Ronalds first working telegraph Our story begins Where 
+this all started is  
 
-He was an avid tinkerer and came up with a 
-machine that could communicate by electricity 
-over wire. We'd call it a telegraph.
+He was an avid tinkerer and came up with a machine that could 
+communicate by electricity over wire. We'd call it a telegraph.
 
  Louis Odier Geneva, 1773 If George 
 
- So here we are, it's 1816 and we have a 
-telegraph based on a compass where the dial will 
-spin around to a letter instead of to the north. 
-It's not at all that different than what was 
-first described in the anonymous letter  60 years 
-prior although we unfortunately do not get the 
-lovely bells to go along with it.
+ So here we are, it's 1816 and we have a telegraph based on a compass 
+where the dial will spin around to a letter instead of to the north. 
+It's not at all that different than what was first described in the 
+anonymous letter  60 years prior although we unfortunately do not get 
+the lovely bells to go along with it.
 
