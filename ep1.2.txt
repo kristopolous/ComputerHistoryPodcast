@@ -1,0 +1,9 @@
+themes
+
+  value of reducting complexity
+  what's so special about electricity
+    electric wire discovery
+    material fatigue
+    mechanical computers
+  a brief dive into manufacturing limitations
+  two room telegraph as promised
