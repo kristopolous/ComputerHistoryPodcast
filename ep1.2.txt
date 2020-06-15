@@ -1,9 +1,84 @@
+Hello and welcome to computing history episode 1.2, 
+
+Episode 1.1 was received with very positive feedback with one exception. It
+was still too fast for most people. 
+
+So let's slow things down, in fact, let's completely stop them for most of the
+episode and take a step back and go over a few themes we'll be seeing
+throughout the series.
+
+A big theme and also a big myth of technological progress is the story of
+reducing complexity. The narrative goes that for a given technology, overtime 
+needless complexity iteratively gets chiseled away to yield a more streamlined
+version which becomes increasingly cheaper and easier.
+
+We can take a smart phone as an example. The early ones came with a
+telescoping antenna, a stylus, a keyboard, and they no longer do, so there,
+complexity reduced. 
+
+Well not really, the antennaes are still there and there's actually more of
+them, they just don't extend from
+the device, the keyboard is certainly still there and it supports potentially
+any language without needing a different device because it's all done on a
+touch screen where the stylus has been replaced with better touch screens.
+It's all still there.
+
+What has happened is that more stuff is being done with fewer parts. The
+process of selection and configuration are the keys here, figuring out how to
+make do with less while hopefully actually achieving more with it. That's why
+early version os a technology can look really elaborate and weird 
+
+What we're going to see with the electric telegraph and essentially all
+technologies in this series are models that require fewer and fewer parts but
+at the same time more and more can be done with them.
+
+One of the primary reasons for this endemic trend is due to a process which is
+usually invisible in the consumer economy and one that will be another
+completely separate timeline - manufacturing.
+
+Creating one of something is always easier then creating 1000 of them and
+manufacturing deals with this art. Indeed, in the early telegraphs mass
+manufacturing techniques hadn't developed yet so this is why the early visions
+are limited to them being highly exclusive devices only to be used by a few
+handfuls of people.
+
+So let's go back to our timeline where we'll be rewinding things back about 70
+years to talk about what's so special about electricity and we'll be
+suggesting why it's so useful for computing.
+
+But don't computers require electricity? You may ask. The surpising answer is
+"no, they can be made completely mechanically". They could use say, wind
+turbines to store energy in a spring and then be implemented using gears,
+rotating discs, levers, pulleys, no electricity at all. 
+
+In fact, NASA started building the one I just described in 2017 intended
+initially for the harsh hot surface of Venus.  Imagine putting your phone on
+the end of skewer with some marshmallows and roasting it over a campfire. Yes,
+that's essentially the temperature on the surface of Venus. When the soviets
+landed a probe on Venus in 1972, they had designed essentially a space craft refrigerator
+to maximize the amount of time they could get data. It went exactly as they
+had carefully planned, which meant the probe survived about 50 minutes. 
+
+So NASA's electricity free mechanical computing over project, 
+called the Automation Rover for Extreme Environments just closed up a 
+$30,000 challenge for the public to submit designs for a
+mechanical sensor pack. It ended on May 29th, 2020 and results aren't
+announced yet but yes, mechanical computing without electricity, totally
+possible and being actively developed.
+
+So what's so special about electricity
+
+spice rack foreign language
+
 themes
 
+  thank people for positive feedback
+  say things will slow down
   value of reducting complexity
   what's so special about electricity
     electric wire discovery
     material fatigue
     mechanical computers
+      nasa venus 
   a brief dive into manufacturing limitations
   two room telegraph as promised
