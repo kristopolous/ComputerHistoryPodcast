@@ -1,84 +1,47 @@
-Hello and welcome to computing history episode 1.2, 
+Hello and welcome to computing history episode 1.2.
 
-Episode 1.1 was received with very positive feedback with one exception. It
-was still too fast for most people. 
+Let's talk about electricity.
 
-So let's slow things down, in fact, let's completely stop them for most of the
-episode and take a step back and go over a few themes we'll be seeing
-throughout the series.
+It's fast. In the 1700s it was considered to effectively be instantaneous.
 
-A big theme and also a big myth of technological progress is the story of
-reducing complexity. The narrative goes that for a given technology, overtime 
-needless complexity iteratively gets chiseled away to yield a more streamlined
-version which becomes increasingly cheaper and easier.
+Prior to our floating alphabetic rips of paper we discussed in 1.1, Stephen
+Grey did a number of experiments.
 
-We can take a smart phone as an example. The early ones came with a
-telescoping antenna, a stylus, a keyboard, and they no longer do, so there,
-complexity reduced. 
+It's hard what to think about Stephen Grey. In A History of Science,
+published in 1904, Henry Williams referred to him as an irascible old
+pensioner. Over on Wikipedia one editor said that he was a shadow of his
+adviser John Theophilus Desaguliers who stole the limelight.
 
-Well not really, the antennaes are still there and there's actually more of
-them, they just don't extend from
-the device, the keyboard is certainly still there and it supports potentially
-any language without needing a different device because it's all done on a
-touch screen where the stylus has been replaced with better touch screens.
-It's all still there.
+However if you read Desaguliers "A Dissertation Concerning Electricity", a
+list of 24 different experiments to observe the phenomena of electricity, the
+author speaks quite glowingly of Stephen Grey.
 
-What has happened is that more stuff is being done with fewer parts. The
-process of selection and configuration are the keys here, figuring out how to
-make do with less while hopefully actually achieving more with it. That's why
-early version os a technology can look really elaborate and weird 
+Regardless, we'll be focusing on two letters he wrote in January and February
+of 1731 that were published in Philisophical Transactions of the Royal
+Society, a scientific journal that started in 1665.  Back then you just wrote
+a letter, in prose to Cromwell Mortimer, the secretary of the journal, in freeform
+discribing your experiments.
 
-What we're going to see with the electric telegraph and essentially all
-technologies in this series are models that require fewer and fewer parts but
-at the same time more and more can be done with them.
+He'd read over it and be like "eh, cool - doesn't look like nonsense" and it'd
+be typeset and published in the next issue... and that's all it took. 
 
-One of the primary reasons for this endemic trend is due to a process which is
-usually invisible in the consumer economy and one that will be another
-completely separate timeline - manufacturing.
+There wasn't a lot of social capital tied to being published in a
+science journal. The push kinda came from the other direction, the journals
+wanted to make sure they were able to dissiminate to their readership any new
+scientific observations so they wanted to make sure they got a record of all
+of them.
 
-Creating one of something is always easier then creating 1000 of them and
-manufacturing deals with this art. Indeed, in the early telegraphs mass
-manufacturing techniques hadn't developed yet so this is why the early visions
-are limited to them being highly exclusive devices only to be used by a few
-handfuls of people.
+This meant a lot of the articles were basically "I brought a bunch of things into a room,
+tried some experiments a few times, some weird things happened and then I
+tried it again, and the wierd things happened again! In my excitement as I
+continued observing the weirdness, I got ahead of myself and accidentally broke 
+the stuff I was using to make the weird thing so I wasn't able to play with
+it any more. Sincerely, some random dude. August 1st say 1721"
 
-So let's go back to our timeline where we'll be rewinding things back about 70
-years to talk about what's so special about electricity and we'll be
-suggesting why it's so useful for computing.
+And that was what science looked like.  Often there'd be followups a few
+months later that were basically like
 
-But don't computers require electricity? You may ask. The surpising answer is
-"no, they can be made completely mechanically". They could use say, wind
-turbines to store energy in a spring and then be implemented using gears,
-rotating discs, levers, pulleys, no electricity at all. 
+"omg you guys totally flipped out about my description of the weird things. I got a 
+bunch of letters where you tried numerous variations and also saw the weird stuff going on.
+Isn't this exciting? Anyway, here's my encore presentation where I talk about more weird stuff."
 
-In fact, NASA started building the one I just described in 2017 intended
-initially for the harsh hot surface of Venus.  Imagine putting your phone on
-the end of skewer with some marshmallows and roasting it over a campfire. Yes,
-that's essentially the temperature on the surface of Venus. When the soviets
-landed a probe on Venus in 1972, they had designed essentially a space craft refrigerator
-to maximize the amount of time they could get data. It went exactly as they
-had carefully planned, which meant the probe survived about 50 minutes. 
-
-So NASA's electricity free mechanical computing over project, 
-called the Automation Rover for Extreme Environments just closed up a 
-$30,000 challenge for the public to submit designs for a
-mechanical sensor pack. It ended on May 29th, 2020 and results aren't
-announced yet but yes, mechanical computing without electricity, totally
-possible and being actively developed.
-
-So what's so special about electricity
-
-spice rack foreign language
-
-themes
-
-  thank people for positive feedback
-  say things will slow down
-  value of reducting complexity
-  what's so special about electricity
-    electric wire discovery
-    material fatigue
-    mechanical computers
-      nasa venus 
-  a brief dive into manufacturing limitations
-  two room telegraph as promised
