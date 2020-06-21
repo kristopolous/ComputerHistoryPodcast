@@ -1,5 +1,7 @@
-Hello and welcome to computing history episode 1.2, the journey to the
+Hello and welcome to computing history episode 1.3, the journey to the
 electric wire.
+
+history / discussion
 
 Let's talk about electricity.
 
@@ -10,7 +12,7 @@ scientist Stephen Grey, was responsible for the experiments we're
 going to discuss today. Sorry, the telegraph promise will have to wait for a
 future episode.
 
-It's hard what to think about Stephen Grey. In A History of Science,
+It's hard to know what to think about Stephen Grey. In A History of Science,
 published in 1904, Henry Williams referred to him as an irascible old
 pensioner. Over on Wikipedia one editor said that he was a shadow of his
 adviser John Theophilus Desaguliers who stole the limelight over a supposed
@@ -20,9 +22,9 @@ However if you read Desaguliers "A Dissertation Concerning Electricity", a
 list of 24 different experiments to observe the phenomena of electricity, the
 author speaks quite glowingly of Stephen Grey. Grey even lived with Desagulier
 for about 4 years in the 1710s. In his later letters in the 1720s he speaks of
-corresponding with Desagulier so it wasn't that bitter.
+corresponding with Desagulier regularly so it apparently wasn't that bitter.
 
-I like to think of him as an excited science nerd without social graces. A
+I like to think of Grey as an excited science nerd without social graces. A
 Steve Urkel of 18th century London. He died a childless bachelor at the age of
 70 spending at least 30 years publishing early science works spanning from
 astronomy, optics, and most importantly electricity. He was never a rich man
@@ -32,7 +34,7 @@ society, the place to go for science in the day.
 His impoverishment may have actually worked in his favor because being on a
 small budget, his science experiments ended up being wickedly clever, using
 pretty common things and thus being easily repeatable. He inadvertently helped 
-popularize science for non-wealthy so an average person reading could
+popularize science for the non-wealthy so a person of average means reading could
 go "hey wait a minute, I have those things in this room. I could try that out right now".
 
 We'll be focusing on two letters he wrote in January and February
@@ -44,8 +46,11 @@ discribing your experiments.
 He'd read over it and be like "eh, cool - doesn't look like nonsense" and it'd
 be typeset and published in the next issue... and that's all it took. 
 
-There wasn't a lot of social capital tied to being published in a
-science journal. The push kinda came from the other direction, the journals
+In the 1700s, there wasn't a lot of social capital tied to being published in a
+science journal. Outside of the small academic elite and a few scattered
+societies nobody had any idea who even Isaac Newton was.
+
+The push kinda came from the other direction, the journals
 wanted to make sure they were able to dissiminate to their readership any new
 scientific observations so they wanted to make sure they got a record of all
 of them.
@@ -91,7 +96,7 @@ is paying for your funeral.  So was the life of a scientist in London in the 170
 
 Grey, who lived at the London Charterhouse almshouse the last 15 years of his life, 
 essentially a form of public housing for those too old to work and too poor to
-rent, starts his letter apologizing for taking so long to write the letter:
+rent, starts his letter apologizing for taking so long to write  it:
 
 "According to my promise I herein give an account of what farther I have
 discovered relating to electrical attraction, which I should have done sooner,
