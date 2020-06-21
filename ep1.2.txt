@@ -1,297 +1,98 @@
-Hello and welcome to computing history episode 1.3, the journey to the
-electric wire.
-
-history / discussion
-
-Let's talk about electricity.
-
-It's fast. In the 1700s it was considered to effectively be instantaneous.
-
-Prior to our floating alphabetic rips of paper we discussed in 1.1, an early
-scientist Stephen Grey, was responsible for the experiments we're
-going to discuss today. Sorry, the telegraph promise will have to wait for a
-future episode.
-
-It's hard to know what to think about Stephen Grey. In A History of Science,
-published in 1904, Henry Williams referred to him as an irascible old
-pensioner. Over on Wikipedia one editor said that he was a shadow of his
-adviser John Theophilus Desaguliers who stole the limelight over a supposed
-factional difference
-
-However if you read Desaguliers "A Dissertation Concerning Electricity", a
-list of 24 different experiments to observe the phenomena of electricity, the
-author speaks quite glowingly of Stephen Grey. Grey even lived with Desagulier
-for about 4 years in the 1710s. In his later letters in the 1720s he speaks of
-corresponding with Desagulier regularly so it apparently wasn't that bitter.
-
-I like to think of Grey as an excited science nerd without social graces. A
-Steve Urkel of 18th century London. He died a childless bachelor at the age of
-70 spending at least 30 years publishing early science works spanning from
-astronomy, optics, and most importantly electricity. He was never a rich man
-and had to have someone else vouch for him or cover his dues at the royal
-society, the place to go for science in the day. 
-
-His impoverishment may have actually worked in his favor because being on a
-small budget, his science experiments ended up being wickedly clever, using
-pretty common things and thus being easily repeatable. He inadvertently helped 
-popularize science for the non-wealthy so a person of average means reading could
-go "hey wait a minute, I have those things in this room. I could try that out right now".
-
-We'll be focusing on two letters he wrote in January and February
-of 1731 that were published in Philisophical Transactions of the Royal
-Society, a scientific journal that started in 1665.  Back then you could just write
-a letter, in prose to Cromwell Mortimer, the secretary of the journal, in freeform
-discribing your experiments.
-
-He'd read over it and be like "eh, cool - doesn't look like nonsense" and it'd
-be typeset and published in the next issue... and that's all it took. 
-
-In the 1700s, there wasn't a lot of social capital tied to being published in a
-science journal. Outside of the small academic elite and a few scattered
-societies nobody had any idea who even Isaac Newton was.
-
-The push kinda came from the other direction, the journals
-wanted to make sure they were able to dissiminate to their readership any new
-scientific observations so they wanted to make sure they got a record of all
-of them.
-
-This meant a lot of the articles were basically "I brought a bunch of things into a room,
-tried some experiments a few times, some weird things happened and then I
-tried it again, and the wierd things happened again! In my excitement as I
-continued observing the weirdness, I got ahead of myself and accidentally broke 
-the stuff I was using to make the weird thing so I wasn't able to play with
-it any more. Sincerely, some random dude. August 1st say 1721"
-
-And that was often what science looked like.  Often there'd be followups a few
-months later that were basically like
-
-"omg you guys totally flipped out about my description of the weird things. I got a 
-bunch of letters where you tried numerous variations and also saw the weird stuff going on.
-Isn't this exciting? Anyway, here's my encore presentation where I talk about more weird stuff."
-
-As I said there wasn't a lot of capital associated with science and Grey's
-main profession was an artisan dyer of threads, not a high paying job.  Along with bumming around as
-a scientist he managed to be awarded the what will eventually be the coveted Copley Medal for scientific
-inquiry twice, the first two years it was awarded. This award is given at most once
-a year and the recipient list includes names like Stephen Hawking, Albert
-Einstein, Pavlov, Louis Pasteur, Darwin, Benjamin Franklin, and Stephen Grey.
-
-As there wasn't a lot of ways to make money with science at the time, it was
-mostly a curious hobby sponsored by wealthy benefactors. The Copley medal for
-instance, came about when someone, a landowner Sir Godfrey Copley, set aside
-100 pounds or $15,000 in modern money to fund the medal and gift a small
-bounty to be spent on science to the recipient. 
-
-During the time of the experiments we're going to discuss Grey relied on the
-benevolence of two people in particular whose names are going to come up, John
-Godfrey, and Granville Wheler. John Godfrey spent quite a bit on science and
-took many experimenters under his wings, essentially as an informal
-foundation.
-
-He even for instance, paid for the burial of John Harris, who wrote Lexicon Technicum, the first
-english encyclopedia with an emphasis on math and science. Write the first Math and
-Science encyclopedia, have it be succesful among the very small group of
-natural philosophers of the era and you'd still die so poor that someone else
-is paying for your funeral.  So was the life of a scientist in London in the 1700s.
-
-Grey, who lived at the London Charterhouse almshouse the last 15 years of his life, 
-essentially a form of public housing for those too old to work and too poor to
-rent, starts his letter apologizing for taking so long to write  it:
-
-"According to my promise I herein give an account of what farther I have
-discovered relating to electrical attraction, which I should have done sooner,
-but was willing to see what farther improvements I could make to those
-Experiments"
-
-Remember what I said about having a small fanclub? This is a letter to the
-London science fanclub.
-
-So Grey was at Godfrey's house in 1731 when he conducted experiments to show
-that electricity could pass through two bodies and basically do the same thing
-at the end of the second body that it could do at the beginning or without the
-bodies there at all. 
-
-Now we aren't talking the Isaac Newton style abstract body, no, Gray passed the
-electricity through human bodies, children in fact.  This sounds insane, he
-electrified people? 
-
-Well yes, how else was he to show that the electricity passed through things and
-wasn't say some invisible force like magnetism or did something even stranger?
-If you apply some electricity at one end, have two people saying "ouch ouch" and 
-then your little ball on a string sways towards a rod at the other, well then,
-the electricty passes through.
-
-It's a pretty brilliant experiment actually. 
-
-But why did he use children? They don't weigh a lot.
-
-He suspended them in the air using thin threads and did the experiment and
-then had them stand on some rosin (an insulator) and do it again. One in the
-air, one on the rosin, etc.
-
-During his September 13 experiment Grey used this curious word when describing
-the phenomena of electricity passing through children and then picking up
-slips of paper:
-
-"There was an attraction *communicated* from one end to the other"
-
-This is of course projection from our modern eyeballs but it's worth noting
-nonetheless.
-
-So what kind of communication are we dealing with with electricity? 
-
-Funny you ask that. The next day Wheler,
-Godfrey and Grey were hanging out and they suspended a bunch of rods on
-threads, electrifying them and seeing how they became attracted when
-electrified and the electric effuvia, essentially meaning an unpleasant thing, 
-moved through them as well. So wait, does electricity also travel through the air? Nobody
-knew yet. Time for more experiments!
-
-Grey called the children back, and on September 29 had some 
-fishing rods with him. First he repeated the original experiment and found
-that electricity passed through one rod, then an ouch, a second ouch, and the
-other rod.  Not a huge surprise there.
-
-Next he made the kids stand really close togther but not touch. He electrified
-the rod but it stopped at the end of the first kid no matter how close they
-got. Then when they touched it continued. 
-
-So electricity travels. Apparently invisibly, quickly, and without much
-effort. 
-
-This caused quite a stir and some excitement. Grey was encouraged to do more
-more more, tell us everything Mr. Grey.
-
-Well ok then, so his next letter, the following month, was 27 pages long. It's
-a fun read if you're into that kind of stuff and hint, I am into that kind of
-stuff, but the part I'll focus on is when he went off to Godfrey's place,
-remember, large land owner in the country.  He was trying to find out how far
-electricity could travel so he was looking for balconies and rooftops to drop
-a giant rod from, then have someone at the ground see if little sheets of
-brass would do their thing or well let me just quote him:
-
-"With the pole and tube I stood on the balcony, the assistant below in the
-court, where he held the board with the leaf-brass on it; then the tube being
-excited as usual, the electric virtue passed from the tube up the pole and
-down the line to the ivory ball, which attracted the leaf brass ans as the
-ball passed over it in its vibrations the leaf brass would follow it. But
-these experiments are difficult to make in the open air, the least wind that
-is stirring, carrying away the leaf brass"
-
-He first went to a gallery that was 16 feet high, then from a parapet,
-designed for war, about 29 feet high, then a clock tower at 34 feet ... and that was the
-highest building in town.
-
-He mentions wanting to try his experiments at St Pauls Cathedral in London not
-doubting things would succeed.
-
-Now let me stop you right there. Stephen. You know you aren't going to get
-access to St Pauls cathedral and a 10 minute walk to your east was the
-monument to the great fire of london, essentially a giant, publicly accessible
-column 202 feet high that anyone could walk to the top of. 
-
-Personally I don't think Stephen actually wanted to make a 200 foot rod and he was
-like "ok, the clock tower is fine.  I'll just say I could do st pauls, nobody will take
-me up on it. If I said I wanted to do the monument, I'm going to get some
-knocks on my door the next day with royal society people saying "so stephen,
-how about the monument? it's open today ... let's go!""
-
-Also if he was worried about the wind pushing his rod from a first story
-balcony, yeah, he didn't actually want to do it.
-
-So after Grey ran out of tall buildings he tried to go further by laying his
-rods horizontally. Unfortunately, the ways he supported them kept shorting out 
-the connection because he had to keep the rod from breaking somehow.
-
-But then Mr. Wheler suggested to maybe use fine silks to
-hang things, a technique they had used back at Godfrey's house with the poles ... ladies and gentleman we are almost at the invention of the electric wire.
-
-If you thought it would take less time then this, well that's not the kind of
-party you're at.
-
-What Wheler and Grey did next was form essentially a switchback network using
-packthread and silkthread ... remember, Grey was a professional thread dyer
-when he was younger, his knowledge of wire like things such as threads and
-strings was actually quite good.  In a way he is the ideal candidate for
-inventing wire, although he actually doesn't - a retired man with a 
-lot of interest in electricity and a solid foundation of and access to pieces of long thin material. 
-
-Throughout his description he, in multiple places uses the term "line of
-communication" by which he meant the electric virtue, the static
-electrification of the lengthy apparati that he constructed.  He used a glass
-rod to rub whatever he was constructing. At the end of
-the switchback network was an ivory ball which attracted bits of brass leaf. 
-
-There's a nice diagram by the mathematician and cartographer Johann Doppelmayr
-in a 1744 publication whose title is literally 99 words long and I had to go
-to UCLA to view it in German on microfilm. Luckily the IEEE reproduced one of the diagrams
-on page 467 of their March 2020 Proceedings of the IEEE. You can get that one
-online for free and there's a link posted at comphistpod.com, did I tell you
-there's a comphistpod.com? Anyway, yes, that's a thing now.
-
-Back to our story. We're going to go over this mentioning the days so you can
-get an idea as to how labor intensive this entire process must have been.
-
-So it's July 2nd 1729, a very wet and cool july if historical records are
-correct, about 10 am at otterden place - this is about 50 miles south east of
-london, we're talking farmland even today. They start at about 10 am in a room
-where they could make about 40 feet of packthread, essentially twine, before
-having to cross back. 
-
-so they go to the end of the room, have a piece of silk, think of it as a
-horizontal bar, that they thread the twine around so they can go back the way
-they came. It's not hard, they just looped it around, went to the end of the
-room and then put the ivory ball and the brass sheets down.  When they did the
-glass tube rubbing experiment at one end, it attracted the sheets at the
-other almost instantly.  Success! Splendid!
-
-How long could they make this? They tried another switchback being about 120
-feet now (40 + 40 + 40 is ... oh yes there we are) and it worked.
-
-And that's the end of the day. That took all day.
-
-So we're at July 3rd and they went crazy ... essentially criss crossing back
-and forth down the entire room, being about 293 feet ( about 7 times ) and it
-worked, like almost as well as before.
-
-And they were like "oh hey let's do it again" but then as they were rubbing
-the twine with the glass tube it was too much and a chain reaction snapped the
-silk lines one by one, completely collapsing all the work they had done. 
-
-And so that sucked. But wait! He had brass wire to put there instead. So he
-replaced the silk support by inadvertently grounding the whole experiment and
-putting in solid brass. But then of course it didn't work. Drats! But they
-figured it out and were like "dude, the silk worked fine. The brass is the
-thing messing us all up here. That makes everything fail."
-
-So they went back to the silk "bars" and vertically stacked them as a way of
-reinforcement. They were then able to get up 666 feet stitching back and forth
-and of course everything worked as well as before.
-
-About 2 weeks later on July 11, they tried doing the experiment outside. They
-put posts in the ground, suspending the silk from them, wrapped the packthread
-around, going through gardens and fields, and got it all set up by about 7pm.
-They got about 45 minutes of playing in until the london dew made things wet
-and ruined everything.
-
-So here we are, about 1729, with the concept of "communcation" going down a
-"wire", in this case being a thread, in order to repeat an experiment at a
-distance.  The CM extension to this, of simply labeling the sheets of paper
-with different letters and having 26 of them or so, sounds like a pretty
-obvious next step.  But we aren't going to get there yet. 
-
-I promised I'd slow down and well here we are. We aren't even at sparks yet.
-So next time we'll be looking at more wire technology and work on up to our
-Scots magazine publication. Then we'll skip over the stuff in 1.1 and go right
-into communicating with pith balls. It'll be glorious.
-
-Also let's talk about the show itself. These episodes take a lot of effort,
-finding all the sources, hundreds of pages of reading, it's a bit of time.
-Once a week appears too ambitious so for now it's going to be twice a month. I
-may put out some small discussion episodes like I did last week in between but
-the history episodes for now, twice a month which means we'll pick up the
-story sometime around July 4th, 2020.
-
-PPS, thanks for putting up with the various audio qualities. I'm still
-learning the black magic of podcasting microphones. Hopefully things are
-starting to get better.
+Hello and welcome to computing history episode 1.2, 
+
+Episode 1.1 was received with very positive feedback with one exception. It
+was still too fast for most people. 
+
+So let's slow things down, in fact, let's completely stop them for most of the
+episode and take a step back and go over a few themes we'll be seeing
+throughout the series.
+
+A big theme and somewhat of a big myth of technological progress is the story of
+reducing complexity. The narrative goes that for a given technology, overtime 
+needless complexity iteratively gets chiseled away to yield a more streamlined
+version which becomes increasingly cheaper and easier.
+
+We can take a smart phone as an example. The early ones came with a
+telescoping antenna, a stylus, a keyboard, and they no longer do, so there,
+complexity reduced. 
+
+Well not really, the antennaes are still there and there's actually more of
+them, they just don't extend from
+the device, the keyboard is certainly still there and it supports potentially
+any language without needing to make a different device for every alphabet
+and your fingers can now touch the screen directly also without a different 
+device because there's more responsive and
+accurate touch screen.  It's all still there.
+
+What has happened is that more stuff is being done with fewer parts. The
+process of selection and configuration are the keys here, figuring out how to
+make do with less while hopefully actually achieving more with it is one of
+the hallmarks of technological progress. That's why
+early version of a technology can look really elaborate and unfamiliar to us.
+
+The maturation of a product is more characterized by what you choose not to do then it is
+by what you choose to do.
+
+This is also part of the myth. The final product may be assembled with fewer parts but
+each of those parts are more sophisticated and they themselves are assembled using other 
+sophisticated parts and so on. In the first versions of the technology, the inventors use
+whatever is lying around. But overtime specialized pieces give the apparation
+of an overall reduction in complexity - it's really an isolation and
+separation of assembly but that's all for much much later.
+
+What we're going to see with the electric telegraph and essentially all
+technologies in this series are models that require fewer and fewer parts but
+at the same time more and more can be done with them.
+
+One of the primary reasons for this endemic trend is due to a process which is
+usually invisible in the consumer economy and one that will be another
+completely separate timeline - manufacturing.
+
+Creating one of something is always easier then creating 1000 of them and
+manufacturing deals with this art. Indeed, in the early telegraphs mass
+manufacturing techniques hadn't developed yet so this is why the early visions
+are limited to them being highly exclusive devices only to be used by a few
+handfuls of people.
+
+So let's go back to our timeline where we'll be rewinding things back about 70
+years to talk about what's so special about electricity and we'll be
+suggesting why it's so useful for computing.
+
+But don't computers require electricity? You may ask. The surpising answer is
+"no, they can be made completely mechanically". They could use say, wind
+turbines to store energy in a spring and then be implemented using gears,
+rotating discs, levers, pulleys, no electricity at all. 
+
+In fact, NASA is in the process of building one just like this initially
+intended for the extremely hot surface of Venus.  Imagine putting your phone on
+the end of skewer with some marshmallows and roasting it over a campfire. Yes,
+that's essentially the temperature on the surface of Venus. When the soviets
+landed a probe on Venus in 1972, they had designed essentially a space craft refrigerator
+to maximize the amount of time they could get data. It went exactly as they
+had carefully planned, which meant the probe survived less than hour after
+landing on the surface before getting completely fried.
+
+So NASA's electricity free mechanical computing project, 
+called the Automation Rover for Extreme Environments just closed up a 
+$30,000 challenge for the public to submit designs for a
+mechanical sensor pack. It ended on May 29th, 2020 and results aren't
+announced yet but yes, mechanical computing without electricity, totally
+possible and being actively developed.
+
+So what's so special about electricity
+
+
+spice rack foreign language
+
+themes
+
+  thank people for positive feedback
+  say things will slow down
+  value of reducting complexity
+  what's so special about electricity
+    electric wire discovery
+    material fatigue
+    mechanical computers
+      nasa venus 
+  a brief dive into manufacturing limitations
+  two room telegraph as promised
