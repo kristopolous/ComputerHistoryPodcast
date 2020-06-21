@@ -203,9 +203,92 @@ So after Grey ran out of tall buildings he tried to go further by laying his
 rods horizontally. Unfortunately, the ways he supported them kept shorting out 
 the connection because he had to keep the rod from breaking somehow.
 
-But then Mr. Wheler, being a richer man suggested to maybe use fine silks to
-hang the rod ... ladies and gentleman we are almost at the invention of the electric wire.
+But then Mr. Wheler suggested to maybe use fine silks to
+hang things, a technique they had used back at Godfrey's house with the poles ... ladies and gentleman we are almost at the invention of the electric wire.
 
 If you thought it would take less time then this, well that's not the kind of
 party you're at.
 
+What Wheler and Grey did next was form essentially a switchback network using
+packthread and silkthread ... remember, Grey was a professional thread dyer
+when he was younger, his knowledge of wire like things such as threads and
+strings was actually quite good.  In a way he is the ideal candidate for
+inventing wire, although he actually doesn't - a retired man with a 
+lot of interest in electricity and a solid foundation of and access to pieces of long thin material. 
+
+Throughout his description he, in multiple places uses the term "line of
+communication" by which he meant the electric virtue, the static
+electrification of the lengthy apparati that he constructed.  He used a glass
+rod to rub whatever he was constructing. At the end of
+the switchback network was an ivory ball which attracted bits of brass leaf. 
+
+There's a nice diagram by the mathematician and cartographer Johann Doppelmayr
+in a 1744 publication whose title is literally 99 words long and I had to go
+to UCLA to view it in German on microfilm. Luckily the IEEE reproduced one of the diagrams
+on page 467 of their March 2020 Proceedings of the IEEE. You can get that one
+online for free and there's a link posted at comphistpod.com, did I tell you
+there's a comphistpod.com? Anyway, yes, that's a thing now.
+
+Back to our story. We're going to go over this mentioning the days so you can
+get an idea as to how labor intensive this entire process must have been.
+
+So it's July 2nd 1729, a very wet and cool july if historical records are
+correct, about 10 am at otterden place - this is about 50 miles south east of
+london, we're talking farmland even today. They start at about 10 am in a room
+where they could make about 40 feet of packthread, essentially twine, before
+having to cross back. 
+
+so they go to the end of the room, have a piece of silk, think of it as a
+horizontal bar, that they thread the twine around so they can go back the way
+they came. It's not hard, they just looped it around, went to the end of the
+room and then put the ivory ball and the brass sheets down.  When they did the
+glass tube rubbing experiment at one end, it attracted the sheets at the
+other almost instantly.  Success! Splendid!
+
+How long could they make this? They tried another switchback being about 120
+feet now (40 + 40 + 40 is ... oh yes there we are) and it worked.
+
+And that's the end of the day. That took all day.
+
+So we're at July 3rd and they went crazy ... essentially criss crossing back
+and forth down the entire room, being about 293 feet ( about 7 times ) and it
+worked, like almost as well as before.
+
+And they were like "oh hey let's do it again" but then as they were rubbing
+the twine with the glass tube it was too much and a chain reaction snapped the
+silk lines one by one, completely collapsing all the work they had done. 
+
+And so that sucked. But wait! He had brass wire to put there instead. So he
+replaced the silk support by inadvertently grounding the whole experiment and
+putting in solid brass. But then of course it didn't work. Drats! But they
+figured it out and were like "dude, the silk worked fine. The brass is the
+thing messing us all up here. That makes everything fail."
+
+So they went back to the silk "bars" and vertically stacked them as a way of
+reinforcement. They were then able to get up 666 feet stitching back and forth
+and of course everything worked as well as before.
+
+About 2 weeks later on July 11, they tried doing the experiment outside. They
+put posts in the ground, suspending the silk from them, wrapped the packthread
+around, going through gardens and fields, and got it all set up by about 7pm.
+They got about 45 minutes of playing in until the london dew made things wet
+and ruined everything.
+
+So here we are, about 1729, with the concept of "communcation" going down a
+"wire", in this case being a thread, in order to repeat an experiment at a
+distance.  The CM extension to this, of simply labeling the sheets of paper
+with different letters and having 26 of them or so, sounds like a pretty
+obvious next step.  But we aren't going to get there yet. 
+
+I promised I'd slow down and well here we are. We aren't even at sparks yet.
+So next time we'll be looking at more wire technology and work on up to our
+Scots magazine publication. Then we'll skip over the stuff in 1.1 and go right
+into communicating with pith balls. It'll be glorious.
+
+Also let's talk about the show itself. These episodes take a lot of effort,
+finding all the sources, hundreds of pages of reading, it's a bit of time.
+Once a week appears too ambitious so for now it's going to be twice a month. I
+may put out some small discussion episodes like I did last week in between but
+the history episodes for now, twice a month which means we'll pick up the
+story sometime around July 4th, 2020.
+ 
