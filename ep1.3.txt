@@ -3,9 +3,15 @@ electric wire.
 
 Day sa goo lee ae
 
-Prior to our floating alphabetic rips of paper we discussed in 1.1, an early
-scientist Stephen Gray, was responsible for the experiments we're
-going to be discussing today. Sorry, the supposedly working telegraph 
+As discussed in the last episode we are going to cave into listener requests
+already and step into our wayback machine, turning the clock back about 50
+years to the late 1720s. This is before our CM article in Scots magazine in
+1752 where there were floating alphabetic rips of paper statically clinging to
+balls. 
+
+We're going to start with electric communication. Well at least someone who
+talked about electricity itself as a form of communication.  The early
+scientist we're going to be talking about is Stephen Gray. Sorry, the supposedly working telegraph 
 promise given at the end of 1.1 will have to wait for a future episode.
 
 When I call Stephen Grey an early scientist, I do mean it. The word scientist was first used in
@@ -17,22 +23,24 @@ and a discipline was still forming at the time. Stephen
 Gray however, really sounds like someone who would fit strongly inside even our
 more restricted modern notions of science
 
-It's hard to know what to think about Stephen Gray. In A History of Science, 
-published in 1904, Henry Williams referred to him as an irascible old
-pensioner. Over on Wikipedia you can read that he was a relatively unknown 
+
+In A History of Science, published in 1904, Henry Williams referred to him as an irascible old
+pensioner. Over on Wikipedia you'll read that he was a relatively unknown 
 shadow of his friend John Theophilus Desaguliers who stole the limelight 
 over factional differences between Flamsteed and Newton - Newton, did you know
 he was an actual irascible scoundrel? A great scientist but also kind of an
 bellicose intellectual pirate. We'll be going over his colorful spats in the
 first supplemental, hopefully next week. Newton died a childless bachelor. Was
 that because he was secretly what we classify today as asexual or homosexual? 
-Or was it because he was just that insufferable to be around? There's 
-actually evidence for both, and maybe they're both true. it'll be fun listen, next time.
+Or was it because he was just that insufferable to be around? T
+We'll be going more into the great Flamsteed/Newton Newton/Liebniz
+Sloane/Newton drama next week where we'll get into soap opera details on all
+these character but I'm saving that fun for next week.
 
 Anyway back to Grey. If you read Desaguliers "A Dissertation Concerning Electricity", from 
 1742, a list of 24 different experiments to observe the phenomena of electricity, the
 author speaks quite glowingly of Stephen Gray who by then had been dead for 6
-years. Gray even lived with Desagulier for about 4 years in the 1710s. In his 
+years. Gray even probably lived with Desagulier for about 4 years in the 1710s. In his 
 later letters in the 1720s he speaks of corresponding with Desagulier regularly.  
 To get an insight into Grey, all you need to do is read his publications. He's
 energetic and excitable about experimentation and the sees science as a form
@@ -41,15 +49,22 @@ of play. He doesn't seems to be interested in anything other than the pursuit.
 I like to think of Gray as an excited science nerd without social graces. The
 impertinant Doc Brown personality from Back to the Future in 18th century London. 
 
-Gray died a childless bachelor at the age of
-70 spending at least 30 years publishing early science works spanning from
-astronomy, optics, and most importantly electricity. He was never a rich man
-and had to have someone else vouch for him and cover his dues at the royal
-society, the place to go for science in the day. 
+Gray died a childless bachelor at the age of 70 spending at least 30 years 
+publishing early science works spanning from astronomy, optics, and most 
+importantly electricity.  Well there was a large 25 year gap where his papers 
+got rejected but we can baically point the finger at Newton being a jerk.
+Anyway, after Isaac died, Grey's submissions magically became accepted once
+more for publication and most of his exciting electrical work came after he was 60.
 
-I kinda think of him as one of those really smart people you may know who has
+He was never a rich man and had a life of hard labor. After being elected to
+the royal society, the place to go for science in the day, he had to have
+someone else cover his dues - well as it turned out actually a lot of people
+didn't pay and the society was pretty financially insolvent for the first half
+of the 1700s, but what are you expecting from a nerd club?
+
+I like to think for Grey as one of those really smart people you may know who has
 a dusty PHD he got solely based on curiosity tucked away in a box he doesn't
-ever mention, drives around in a beat up old car, and is always working on
+ever mention, who drives around in a beat up old car and is always working on
 interesting projects, not really seeming to care much about money or status. 
 A person who keeps the company of respected people and is well-respected by 
 them, but to everyone else, is just some scraggly wanderer completely 
@@ -60,27 +75,31 @@ small budget, his science experiments ended up often being wickedly clever, usin
 pretty common things and thus being easily repeatable. He may have helped 
 inadvertently popularize science for the non-wealthy so a person of average means 
 reading could go "hey wait a minute, I have those things in this room. I could try that out right now".
+His first publications were about microscopes made with water-droplets in
+1697. 
 
-We'll be focusing on two letters he wrote in January and February
+Anyway, we'll be focusing on two letters he wrote in January and February
 of 1731 that were published in Philisophical Transactions of the Royal
 Society, a scientific journal that started in 1665.  Back then there was a
 variety of ways of getting published. In Stephens case, he just wrote
-a letter, in prose to Cromwell Mortimer, the secretary of the journal, in freeform
+a letter, in prose, at the time to Cromwell Mortimer, the secretary of the journal, in freeform
 discribing his experiments.
 
 Mortimer would read over letters like this and if he thought "eh, cool -
-doesn't look like nonsense" then it'd be typeset and published in the next issue... and that's all it took. 
+doesn't look like nonsense" then it'd be typeset and published in the next
+issue... and that's all it took, well at least after Newton died. His first
+electrical article in 1708 was rejected by Sloane. 
 
 In the 1700s, there wasn't a lot of social capital tied to being published in a
 science journal. Outside of the small academic elite and a few scattered
-societies nobody had any idea who even Isaac Newton was. He was actually president of
-the Royal Society between 1703 and 1727 - there were only about 300 members at
-the time. 
+societies nobody had any idea who even Isaac Newton was. When he was president of
+the Royal Society between 1703 and 1727 - there were only about 300 elected
+members.
 
-The publication push kinda came from the other direction, the journals
+The publication push often came from the other direction, the journals
 wanted to make sure they were able to dissiminate to their readership any new
-scientific observations so they wanted to make sure they got a record of all
-of them.
+scientific observations, well the ones from people they liked, so they wanted 
+to make sure they got a record of all of them. 
 
 This meant a lot of the articles were basically "I brought a bunch of things into a room,
 tried some experiments a few times, some weird things happened and then I
@@ -97,7 +116,7 @@ bunch of letters where you tried numerous variations and also saw the weird stuf
 Isn't this exciting? Anyway, here's my encore presentation where I talk about more weird stuff."
 
 As I said there wasn't a lot of capital associated with science and Gray's
-main profession was an artisan dyer of threads which was not a high paying job.  Along with bumming around as
+main profession was probably an artisan dyer of threads in Canterbury which was not a high paying job.  Along with bumming around as
 a scientist he managed to be awarded the what will eventually be the coveted Copley Medal for scientific
 inquiry twice, the first two years it was awarded. This award is given at most once
 a year and the recipient list includes names like Stephen Hawking, Albert
@@ -126,16 +145,16 @@ natural philosophers of the era and you'd still die so poor that someone else
 is paying for your funeral.  So was the life of a scientist, I mean well,
 documentarian maybe in London in the 1700s.
 
-Stephen Gray, who lived at the London Charterhouse almshouse the last 15 years of his life, 
-essentially a form of public housing for those too old to work and too poor to
-rent, starts his letter apologizing for taking so long to write it:
+Stephen Gray, who lived at the London Charterhouse almshouse the last 15 years
+of his life, essentially a form of public housing for those too old to work and too poor to
+rent (and it took him years to get in), starts his letter apologizing for taking so long to write it:
 
 "According to my promise I herein give an account of what farther I have
 discovered relating to electrical attraction, which I should have done sooner,
 but was willing to see what farther improvements I could make to those
 Experiments"
 
-Remember what I said about having a small fanclub? This is a letter to the
+Remember what I said about having a small fanclub? This is a letter to his
 London science fanclub.
 
 So Gray was at Godfrey's house in 1731 when he conducted experiments to show
@@ -143,7 +162,7 @@ that electricity could pass through two bodies and basically do the same thing
 at the end of the second body that it could do at the beginning or without the
 bodies there at all. 
 
-Now we aren't talking the Isaac Newton style abstract body, no, Gray passed the
+Now we aren't talking the jerk Newton's abstract body, no, Gray passed the
 electricity through human bodies, children in fact.  This sounds insane, he
 electrified people? 
 
