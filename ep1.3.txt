@@ -82,7 +82,7 @@ A person who keeps the company of respected people and is well-respected by
 them, but to everyone else, is just some scraggly wanderer completely 
 captured by his hobbies.  It actually sounds pretty fun.
 
-Robert Chipman, a studier of Stephen Grey wrote in 1958 that he was
+Robert Chipman, a scholar of science history wrote in 1958 that Grey was
 "strikingly free of literary obscurity, personal belligerency, profitless
 speculation, or exploitation for entertainment. The problems for which he
 sought solutions, if not always of the highest importance, were always genuine
@@ -95,7 +95,7 @@ small budget, his science experiments ended up often being wickedly clever, usin
 pretty common things and thus being easily repeatable. He may have helped 
 inadvertently popularize science for the non-wealthy so a person of average means 
 reading could go "hey wait a minute, I have those things in this room. I could try that out right now".
-His first publications were about microscopes made with water-droplets in
+For example His first publications were about microscopes made with water-droplets in
 1697. 
 
 Anyway, we'll be focusing on two letters he wrote in January and February
@@ -128,8 +128,8 @@ continued observing the weirdness, I got ahead of myself and accidentally broke
 the stuff I was using to make the weird thing so I wasn't able to play with
 it any more. Sincerely, some random dude. August 1st say 1721"
 
-And that was often what science looked like.  Often there'd be followups a few
-months later that were basically like
+And that was often what science looked like.  Often there'd be a followup a
+month or two later that was basically like
 
 "omg you guys totally flipped out about my description of the weird things. I got a 
 bunch of letters where you tried numerous variations and also saw the weird stuff going on.
@@ -140,7 +140,7 @@ main profession was probably an artisan dyer of threads in Canterbury which was 
 a scientist he managed to be awarded the what will eventually be the coveted Copley Medal for scientific
 inquiry twice, the first two years it was awarded. This award is given at most once
 a year and the recipient list includes names like Stephen Hawking, Albert
-Einstein, Pavlov, Louis Pasteur, Darwin, Benjamin Franklin, and Stephen Gray.
+Einstein, Pavlov, Louis Pasteur, Charles Darwin, Benjamin Franklin, and Stephen Gray.
 
 As there wasn't a lot of ways to make money with science at the time, it was
 mostly a curious hobby sponsored by wealthy benefactors. The Copley medal for
@@ -158,12 +158,15 @@ He even for instance, paid for the burial of John Harris, a clergyman who wrote 
 english encyclopedia with an emphasis on math and science. There's those words
 again. The full name of the text is Lexicon Technicum, or, An Universal
 English Dictionary of Arts and Sciences: Explaining not only the Terms of Art,
-but the Arts Themselves. It covers law, commerce, music, heraldry, and
-humanities but not theology, antiquity, history, or poetry. Write the first Math and
+but the Arts Themselves. Some of the sciences it covers include law, commerce,
+music, heraldry, and humanities. As I said, what science is and is not has
+changed. Some things that were not science and not in there are theology, 
+antiquity, history, and poetry. 
+
+Write the first Math and
 Science encyclopedia, have it be succesful among the very small group of
 natural philosophers of the era and you'd still die so poor that someone else
-is paying for your funeral.  So was the life of a scientist, I mean well,
-documentarian maybe in London in the 1700s.
+is paying for your funeral.  So was the life of a science writer in England in the 1700s.
 
 Stephen Gray, who lived at the London Charterhouse almshouse the last 15 years
 of his life, essentially a form of public housing for those too old to work and too poor to
@@ -175,9 +178,10 @@ but was willing to see what farther improvements I could make to those
 Experiments"
 
 Remember what I said about having a small fanclub? This is a letter to his
-London science fanclub.
+England science fanclub.
 
-So Gray was at Godfrey's house in 1731 when he conducted experiments to show
+In this letter, Gray talks about being at Godfrey's house in 1731 where
+he conducted experiments to show
 that electricity could pass through a body and basically do the same thing
 at the end of the body that it could do at the beginning.
 
@@ -186,29 +190,32 @@ electricity through human bodies, children in fact.  This sounds insane, he
 electrified people? 
 
 Well yes and no. We're talking a very small amount of electricity here. For
-instance, as one of the boys standed on rosin, essentially an insulator, his
-hands were extended a few inches above leaf brass. Then Grey used a glass tube
-to rub the boy near the ankle, there was a reaction near the boy's hands with
+instance, as one of the boys stood on rosin, essentially an insulator, his
+hands were extended a few inches above leaf brass. Then as Grey used a glass tube
+to rub the boy's ankle, there was a reaction near the boy's hands with
 the leaf brass. So yes, he was electricuting children, but in a Mr. Wizard
 kind of way.
 
-He used children because along with having them stand on rosin he suspended
-them by very thin threads to repeat the experiment, really trying to
-understand if there was a difference between suspension and being grounded.
+He used children in this set of experiments because along with doing a number
+of experiments where they stood on rosin, he could then suspend the children in the
+air by very thin threads and repeat the same experiment, in order to  
+understand if there was a difference in how electricity operated between being
+suspended and being grounded.
 
 And also although being a very small amount of electricity it could still be
 sensed. At the time they used the word effluvia, essentially an unpleasant
 feeling to talk about electricity.
 
-Additionally a human can do thing like grab things which makes running
-multiple experiments pretty fast.
+Additionally a human can do things like grab things. This makes running
+multiple experiments pretty fast without having to set up complicated
+contraptions
 
-Since Grey had a foot base to stand on with the rosin, and a contraption with
-thin thread to hang someone he did a number of experiments with two children,
+Since Grey had both a base of rosin to stand on and a contraption with
+thin thread to hang someone from, he did a number of experiments with two children,
 one hanging and one standing. 
 
-The standing one would hold his hand out above the brass leaf as before, but
-his other hand would be clapsed to the boy suspended by the threads as grey
+For instance, the standing child would hold his hand out above the brass leaf as before, but
+his other hand would be clasped to the boy suspended by the threads as grey
 would take his glass and rub the ankle of the suspended boy to see if the
 electric Virtue would "communicate" through the boys.  This of course worked.
 
@@ -227,48 +234,43 @@ that the electricity itself appears to communicate.
 
 The next day Wheler, Godfrey and Gray were hanging out and they suspended a 24
 foot rod by silk and had two right angle wands above it but not touching it.
-When he rubbed the rod he found a piece of thread was attracted to the wands,
-even though the wand had never touched the rod but was only approximately near
+When Gray rubbed the rod he found that a piece of thread was attracted to the wands,
+even though the wand had never touched the rod. It was only approximately near
 it. This made it look like the electric virtue was also wireless,
 communicating through the air between a wand and the rod. Is this possible? Nobody
 knew yet. Time for more experiments!
 
 ---
-Gray called the children back, and on September 29 had some 
+The day after, Gray called the children back, and on September 29 had some 
 fishing rods with him. He had both boys stand on the rosin and hold a twine
 between each other. He rubbed the twine with the glass and both boys were able
 to attract and repel the brass leaves ... this is basically calibration. Now
-having established that he had the kids stand really close togther but not to
-let their couch touch, about an inch away. This is similar to the rod and the
+having established that, he had the kids stand really close togther but not to
+let their coats or any part of thie clothing touch, about an inch away. This is similar to the rod and the
 wand but with humans. He then tried to repeat the experiment but the electric
 virtue didn't jump through the air from one boy to the other. 
 
-He asked the boys to toch each others hands and it immediately traversed. 
+He asked the boys to toch each others hands and the electric virtu immediately traversed. 
 
 Stephen Grey continues on for another couple pages with other experiments that
-are outside the pure scope of our wire study but these articles apparently
-caused quite a stir and excitement.
+are outside the pure scope of our wire study but this article apparently
+caused quite a bit of stir and excitement because he followed it up with
+another article the following month.
 
-There was a flurry of electrical publicatons that followed soon which meant
-Grey had inspired many to do this pursuit. He himself was clearly encouraged
-to write some more as if the royal society said, "more more, tell us
-everything Mr. Gray."
-
-Well ok then, so his next letter, the following month, was 27 pages long. It's
+Grey's february article detailing more experiments was 27 pages long. It's
 a fun read if you're into that kind of stuff and hint, I am into that kind of
-stuff, the part I'll focus on is when he first went off to Godfrey's place and
-then followed it up with Wheler, the large land owner.  He was trying to find out how far
-electricity could travel. 
+stuff, the part I'll focus on is when he went off to Godfrey's and then
+Wheler's place to find out how far electricity could travel. 
 
-He started with making longer and longer poles but by the time he got to 32
-feet it became difficult because the pole started bending and when he was
-rubbing it with the glass he was whipping the end which if you recall has to
-be fairly close to extremely light flakes of brass.
+He started in large rooms, making longer and longer poles but by the time he got to 32
+feet it became difficult because the pole started bending. Also, when he was
+rubbing it with the glass, it would inadvertantly whip the end which if you recall has to be fairly close to extremely light flakes of brass.
 
 So it's time for another contraption.
 
 Imagine a giant fishing pole 18 feet long with the fishing line tied at the end, 34 feet long,
-and then at the very bottom is the ball of cork or an ivory ball. There's an
+and then at the very bottom of the fishing line is a ball of cork or an ivory
+ball. Now imagine you're fishing from a balcony and there's an
 assistant in the courtyard holding essentially a board of wood with some of
 the brass leaves on it so when Grey manages to drop the ball the assistant
 walks over and makes sure the leaves are close enough to the ball to get
@@ -287,19 +289,20 @@ is stirring, carrying away the leaf brass"
 Oh right, wind.
 
 Since this balcony was the highest thing he had access to he tried to lengthen
-things by making things strictly horiztonal. However, he tried fixing his
+things by making things strictly horizontal. However, he tried fixing his
 pole to beams via loops and nails. This of course isn't going to work. 
 
 So he gave up the horizontal method for now but thought he'd try it at
-St Pauls Cathedral in London not doubting things would succeed.
+St Pauls Cathedral in London not doubting he'd be successful
 
 Now let me stop you right there. Stephen. You know you aren't going to get
 access to St Pauls cathedral and a 10 minute walk to your east was the
 monument to the great fire of london, essentially a giant, publicly accessible
 column 202 feet high that anyone could walk to the top of. 
 
-Personally I don't think Stephen actually wanted to make a 200 foot rod and he was
-like "ok, the clock tower is fine.  I'll just say I could do st pauls, nobody will take
+Personally I don't think Stephen actually wanted to make a giant rod to hang
+over a 200 foot building so he was
+like "ok, if I just say I could do at the copola st pauls, nobody will take
 me up on it. If I said I wanted to do the monument, I'm going to get some
 knocks on my door the next day with royal society people saying "so stephen,
 how about the monument? it's open today ... let's go!""
@@ -314,7 +317,7 @@ would be down, "Yo, this half sentence buried in this article you published
 
 fev ur shim
 
-Anyway, back to Grey. In lat June he went to Weler's place who really lives in
+Anyway, back to Grey. In late June 1729 he went to Weler's place which is really in
 the middle of nowhere, about 7 miles southwest of feversham, which is again, 9
 miles outside of canterbury.  Even today, really small town.
 
@@ -338,14 +341,8 @@ What Wheler and Gray did next was form essentially a switchback network using
 packthread and silkthread ... remember, Gray was a professional thread dyer
 when he was younger, his knowledge of wire like things such as threads and
 strings was actually quite good.  In a way he is the ideal candidate for
-inventing wire, although he actually doesn't - a retired man with a 
+inventing wire, although he actually doesn't - he's just a retired man with a 
 lot of interest in electricity and a solid foundation of and access to pieces of long thin material. 
-
-Throughout his description he, in multiple places uses the term "line of
-communication" by which he meant the electric virtue, the static
-electrification of the lengthy apparati that he constructed.  He used a glass
-rod to rub whatever he was constructing. At the end of
-the switchback network was an ivory ball which attracted bits of brass leaf. 
 
 There's a nice diagram by the mathematician and cartographer Johann Doppelmayr
 in a 1744 publication whose title is literally 99 words long and has yet to be
@@ -358,10 +355,7 @@ Back to our story. We're going to go over this mentioning the days so you can
 get an idea as to how labor intensive this entire process must have been.
 
 So it's July 2nd 1729, a very wet and cool july if historical records are
-correct, about 10 am at otterden place - this is about 50 miles south east of
-london, we're talking farmland even today. They start at about 10 am in a room
-where they could make about 40 feet of packthread, essentially twine, before
-having to cross back. 
+correct, they start at about 10 am in a room where they could make about 40 feet of packthread before having to cross back. 
 
 so they go to the end of the room, have a piece of silk, think of it as a
 horizontal bar, that they thread the twine around so they can go back the way
@@ -370,37 +364,40 @@ room and then put the ivory ball and the brass sheets down.  When they did the
 glass tube rubbing experiment at one end, it attracted the sheets at the
 other almost instantly.  Success! Splendid!
 
-How long could they make this? They tried another switchback being about 120
-feet now (40 + 40 + 40 is ... oh yes there we are) and it worked.
+So they wondered, how long could they make this? They tried another switchback so they're at
+about 120 feet now (40 + 40 + 40 is ... oh yes there we are) and it worked.
 
 And that's the end of the day. That took all day.
 
-So we're at July 3rd and they went crazy ... essentially criss crossing back
-and forth down the entire room, being about 293 feet ( about 7 times ) and it
+So now we're at July 3rd and they went crazy ... essentially criss crossing back
+and forth down the entire room, ending up at about 293 feet ( about 7 times ) and it
 worked, like almost as well as before.
 
-And they were like "oh hey let's do it again" but then as they were rubbing
+And they were like "oh hey let's do it again, an 8th time" and they set it up.
+Everything looke fine but  then as they were rubbing
 the twine with the glass tube it was too much and a chain reaction snapped the
 silk lines one by one, completely collapsing all the work they had done. 
 
-And so that sucked. But wait! He had brass wire to put there instead. So he
+And so that sucked. But wait! grey brought brass wire with him and they could
+just use that instead. So they
 replaced the silk support by inadvertently grounding the whole experiment and
 putting in solid brass. But then of course it didn't work. Drats! But they
 figured it out and were like "dude, the silk worked fine. The brass is the
 thing messing us all up here. That makes everything fail."
 
-So they went back to the silk "bars" and vertically stacked them as a way of
-reinforcement. They were then able to get up 666 feet stitching back and forth
-and of course everything worked as well as before.
+So they went back to the silk "bars" and realized if they vertically stacked
+them, you'd have one piece of silk supporting the bottom of your loop, and a
+separate supporting the top, so it's less stress and operates as a way of
+reinforcement. That worked! They got to 666 feet with this stitching method.
 
-About 2 weeks later on July 11, they tried doing the experiment outside. They
+About 2 weeks later on July 11, they tried to do the experiment outside. They
 put posts in the ground, suspending the silk from them, wrapped the packthread
 around, going through gardens and fields, and got it all set up by about 7pm.
-They got about 45 minutes of playing in until the london dew made things wet
+They got about 45 minutes of playing in until the england dew made things wet
 and ruined everything.
 
 So here we are, about 1729, with the concept of "communcation" going down a
-"wire", in this case being a thread, in order to repeat an experiment at a
+"line", in this case being a thread, in order to repeat an experiment at a
 distance.  The CM extension to this, of simply labeling the sheets of paper
 with different letters and having 26 of them or so, sounds like a pretty
 obvious next step.  But we aren't going to get there yet. 
@@ -412,13 +409,14 @@ into communicating with pith balls. It'll be glorious.
 
 Also let's talk about the show itself. These episodes take a lot of effort,
 finding all the sources, hundreds of pages of reading, it's a bit of time.
+Also I'm terrible at recording this.
 Once a week appears too ambitious so for now, the longer, pure history timeline
-episodes will be twice a month. In between will be mini-episodes that talk
-about things adjacent to our story. This means next week we'll be going over
-the drama queen Isaac Newton and the week after that we'll be picking up the
-next episode on our way to the electric wire.
+episodes will be every other week. In between will be mini-episodes that are
+a bit less academically rigorous. For instance, I'm planning on a radio play for next week
+involving Newton and Flamsteed. The week after that we'll be picking up the
+timeline on our way to the electric wire.
 
 Also thanks for putting up with the various audio qualities. I'm still
-learning the black magic of podcasting microphones and I have audio foam on
+learning the black magic of podcasting microphones. I have audio foam on
 order and will be making a sound room this weekend. Hopefully things are
 starting to get better.
