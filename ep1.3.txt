@@ -158,46 +158,62 @@ Remember what I said about having a small fanclub? This is a letter to his
 London science fanclub.
 
 So Gray was at Godfrey's house in 1731 when he conducted experiments to show
-that electricity could pass through two bodies and basically do the same thing
-at the end of the second body that it could do at the beginning or without the
-bodies there at all. 
+that electricity could pass through a body and basically do the same thing
+at the end of the body that it could do at the beginning.
 
 Now we aren't talking the jerk Newton's abstract body, no, Gray passed the
 electricity through human bodies, children in fact.  This sounds insane, he
 electrified people? 
 
-Well yes, how else was he to show that the electricity passed through things and
-wasn't say some invisible force like magnetism or did something even stranger?
-If you apply some electricity at one end, have two people saying "ouch ouch" and 
-then your little ball on a string sways towards a rod at the other, well then,
-the electricty passes through.
+Well yes and no. We're talking a very small amount of electricity here. For
+instance, as one of the boys standed on rosin, essentially an insulator, his
+hands were extended a few inches above leaf brass. Then Grey used a glass tube
+to rub the boy near the ankle, there was a reaction near the boy's hands with
+the leaf brass. So yes, he was electricuting children, but in a Mr. Wizard
+kind of way.
 
-It's a pretty brilliant experiment actually. 
+He used children because along with having them stand on rosin he suspended
+them by very thin threads to repeat the experiment, really trying to
+understand if there was a difference between suspension and being grounded.
 
-But why did he use children? They don't weigh a lot.
+And also although being a very small amount of electricity it could still be
+sensed. At the time they used the word effluvia, essentially an unpleasant
+feeling to talk about electricity.
 
-He suspended them in the air using thin threads and did the experiment and
-then had them stand on some rosin (an insulator) and do it again. One in the
-air, one on the rosin, etc.
+Additionally a human can do thing like grab things which makes running
+multiple experiments pretty fast.
 
-During his September 13 experiment Gray used this curious word when describing
-the phenomena of electricity passing through children and then picking up
-slips of paper:
+Since Grey had a foot base to stand on with the rosin, and a contraption with
+thin thread to hang someone he did a number of experiments with two children,
+one hanging and one standing. 
 
-"There was an attraction *communicated* from one end to the other"
+The standing one would hold his hand out above the brass leaf as before, but
+his other hand would be clapsed to the boy suspended by the threads as grey
+would take his glass and rub the ankle of the suspended boy to see if the
+electric Virtue would "communicate" through the boys.  This of course worked.
 
-This is of course projection from our modern eyeballs but it's worth noting
-nonetheless.
+This being established he could then see fairly quickly what things
+electricity passed through. The boys could hold either end of some twine, or a
+ruler, or some brass, or whatever he wished. Grey would use his glass tube to
+rub the ankle of the suspended one and then see if the brass leaves rose at
+the other end of the chain. If they did, then the electric virtue passed
+through the material.
 
-So what kind of communication are we dealing with with electricity? 
+It's all pretty efficient. Now if you noticed I used the word "communicate"
+here which is again, the actual topic of all of this. We're trying to
+establish that electric communication is possible and here we've established
+that the electricity itself appears to communicate.
 
-Funny you ask that. The next day Wheler,
-Godfrey and Gray were hanging out and they suspended a bunch of rods on
-threads, electrifying them and seeing how they became attracted when
-electrified and the electric effuvia, essentially meaning an unpleasant thing, 
-moved through them as well. So wait, does electricity also travel through the air? Nobody
+
+The next day Wheler, Godfrey and Gray were hanging out and they suspended a 24
+foot rod by silk and had two right angle wands above it but not touching it.
+When he rubbed the rod he found a piece of thread was attracted to the wands,
+even though the wand had never touched the rod but was only approximately near
+it. This made it look like the electric virtue was also wireless,
+communicating through the air between a wand and the rod. Is this possible? Nobody
 knew yet. Time for more experiments!
 
+---
 Gray called the children back, and on September 29 had some 
 fishing rods with him. First he repeated the original experiment and found
 that electricity passed through one rod, then an ouch, a second ouch, and the
