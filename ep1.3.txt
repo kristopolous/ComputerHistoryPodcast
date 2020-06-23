@@ -215,42 +215,63 @@ knew yet. Time for more experiments!
 
 ---
 Gray called the children back, and on September 29 had some 
-fishing rods with him. First he repeated the original experiment and found
-that electricity passed through one rod, then an ouch, a second ouch, and the
-other rod.  Not a huge surprise there.
+fishing rods with him. He had both boys stand on the rosin and hold a twine
+between each other. He rubbed the twine with the glass and both boys were able
+to attract and repel the brass leaves ... this is basically calibration. Now
+having established that he had the kids stand really close togther but not to
+let their couch touch, about an inch away. This is similar to the rod and the
+wand but with humans. He then tried to repeat the experiment but the electric
+virtue didn't jump through the air from one boy to the other. 
 
-Next he made the kids stand really close togther but not touch. He electrified
-the rod but it stopped at the end of the first kid no matter how close they
-got. Then when they touched it continued. 
+He asked the boys to toch each others hands and it immediately traversed. 
 
-So electricity travels. Apparently invisibly, quickly, and without much
-effort. 
+Stephen Grey continues on for another couple pages with other experiments that
+are outside the pure scope of our wire study but these articles apparently
+caused quite a stir and excitement.
 
-This caused quite a stir and some excitement. Gray was encouraged to do more
-more more, tell us everything Mr. Gray.
+There was a flurry of electrical publicatons that followed soon which meant
+Grey had inspired many to do this pursuit. He himself was clearly encouraged
+to write some more as if the royal society said, "more more, tell us
+everything Mr. Gray."
 
 Well ok then, so his next letter, the following month, was 27 pages long. It's
 a fun read if you're into that kind of stuff and hint, I am into that kind of
-stuff, but the part I'll focus on is when he went off to Godfrey's place,
-remember, large land owner in the country.  He was trying to find out how far
-electricity could travel so he was looking for balconies and rooftops to drop
-a giant thread from, attach the ivory ball at the bottom, then have someone at the ground see if little sheets of
-brass would do their thing as he rubbed it from the balco...or well let me just quote him:
+stuff, the part I'll focus on is when he first went off to Godfrey's place and
+then followed it up with Wheler, the large land owner.  He was trying to find out how far
+electricity could travel. 
 
-"With the pole and tube I stood on the balcony, the assistant below in the
-court, where he held the board with the leaf-brass on it; then the tube being
-excited as usual, the electric virtue passed from the tube up the pole and
-down the line to the ivory ball, which attracted the leaf brass ans as the
-ball passed over it in its vibrations the leaf brass would follow it. But
-these experiments are difficult to make in the open air, the least wind that
+He started with making longer and longer poles but by the time he got to 32
+feet it became difficult because the pole started bending and when he was
+rubbing it with the glass he was whipping the end which if you recall has to
+be fairly close to extremely light flakes of brass.
+
+So it's time for another contraption.
+
+Imagine a giant fishing pole 18 feet long with the fishing line tied at the end, 34 feet long,
+and then at the very bottom is the ball of cork or an ivory ball. There's an
+assistant in the courtyard holding essentially a board of wood with some of
+the brass leaves on it so when Grey manages to drop the ball the assistant
+walks over and makes sure the leaves are close enough to the ball to get
+attracted to it if the electricity is transferred. This is his next
+contraption.
+
+Now Grey from the balcony needs to rub the pole with the glass tube and see if the electric
+virtue is communicated to the end of the twine. At the same time the assistant
+has to wander around the courtyard and make sure he can keep up with the
+vibrating cork that is moving to and fro.  But it gets even wackier as Grey
+says:
+
+"But these experiments are difficult to make in the open air, the least wind that
 is stirring, carrying away the leaf brass"
 
-He first went to a gallery that was 16 feet high, then from a parapet,
-designed for war, about 29 feet high, then a clock tower at 34 feet ... and that was the
-highest building in town.
+Oh right, wind.
 
-He mentions wanting to try his experiments at St Pauls Cathedral in London not
-doubting things would succeed.
+Since this balcony was the highest thing he had access to he tried to lengthen
+things by making things strictly horiztonal. However, he tried fixing his
+pole to beams via loops and nails. This of course isn't going to work. 
+
+So he gave up the horizontal method for now but thought he'd try it at
+St Pauls Cathedral in London not doubting things would succeed.
 
 Now let me stop you right there. Stephen. You know you aren't going to get
 access to St Pauls cathedral and a 10 minute walk to your east was the
@@ -263,15 +284,32 @@ me up on it. If I said I wanted to do the monument, I'm going to get some
 knocks on my door the next day with royal society people saying "so stephen,
 how about the monument? it's open today ... let's go!""
 
-Also if he was worried about the wind pushing his rod from a first story
-balcony, yeah, he didn't actually want to do it.
+If you've ever been to this tower imagine someone with a giant fishing rod and
+a twine extending down 200 feet to the ground with some ball of cork on the
+end as an assistant runs around the courtyard. It's kind of a pity this didn't
+happen. I mean it could ... we could probably get together and do this, rent
+some renaissance clothes... Who do we need to talk to? Maybe the royal society
+would be down, "Yo, this half sentence buried in this article you published
+289 years ago, you guys still down to do this? Let's go!"
 
-So after Gray ran out of tall buildings he tried to go further by laying his
-rods horizontally. Unfortunately, the ways he supported them kept shorting out 
-the connection because he had to keep the rod from breaking somehow.
+fev ur shim
 
-But then Mr. Wheler suggested to maybe use fine silks to
-hang things, a technique they had used back at Godfrey's house with the poles ... ladies and gentleman we are almost at the invention of the electric wire.
+Anyway, back to Grey. In lat June he went to Weler's place who really lives in
+the middle of nowhere, about 7 miles southwest of feversham, which is again, 9
+miles outside of canterbury.  Even today, really small town.
+
+He went to a gallery that was 16 feet high, then from a parapet,
+designed for war, about 29 feet high, then a clock tower at 34 feet ... and that was the
+highest building in town.
+
+Wheler then suggested "hey lets do this horizontally" but Stephen was like
+"yo, I tried that at Godfreys in may, really didn't work". But then Wheler was
+like "wait, remember those poles and wand we suspended by silk?" and Grey was
+like "oh yeah those worked".
+
+So Wheler got his servants to work on some very thin silks to hold the
+packthread so the signal will traverse from one end to the other ... that
+means, ladies and gentleman we are almost at the invention of the electric wire.
 
 If you thought it would take less time then this, well that's not the kind of
 party you're at.
@@ -290,10 +328,10 @@ rod to rub whatever he was constructing. At the end of
 the switchback network was an ivory ball which attracted bits of brass leaf. 
 
 There's a nice diagram by the mathematician and cartographer Johann Doppelmayr
-in a 1744 publication whose title is literally 99 words long and I had to go
-to UCLA to view it in German on microfilm. Luckily the IEEE reproduced one of the diagrams
+in a 1744 publication whose title is literally 99 words long and has yet to be
+digitized or translated from German. However, the IEEE reproduced one of the diagrams
 on page 467 of their March 2020 Proceedings of the IEEE. You can get that one
-online for free and there's a link posted at comphistpod.com, did I tell you
+online for free and there's a link posted at the podcast's website at comphistpod.com, did I tell you
 there's a comphistpod.com? Anyway, yes, that's a thing now.
 
 Back to our story. We're going to go over this mentioning the days so you can
