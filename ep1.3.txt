@@ -52,9 +52,10 @@ England
 
 Gray died a childless bachelor at the age of 70 spending at least 30 years 
 publishing early science works spanning from astronomy, optics, and most 
-importantly electricity.  Well there was a large 25 year gap where his papers 
-got rejected but we can baically point the finger at Newton being a jerk.
-Anyway, after Isaac died, Grey's submissions magically became accepted once
+importantly electricity.  Well there was a large 25 year gap where his papers
+got rejected but that just happens to correspond with the time that Newton was the head of
+the royal society.  In fact after Newton became president, Gray was basically
+shut out and then when Newton died, Grey's submissions magically became accepted once
 more for publication and most of his exciting electrical work came after he
 was 60 years old.
 
@@ -108,7 +109,9 @@ discribing his experiments.
 Mortimer would read over letters like this and if he thought "eh, cool -
 doesn't look like nonsense" then it'd be typeset and published in the next
 issue... and that's all it took, well at least after Newton died. Gray's first
-electrical article in 1708 was rejected by the secretary at the time, Sloane. 
+electrical article in 1708 was rejected by the secretary at the time, Sloane.
+Science historians say that Newton's iron fist control on who was and was
+not heard from in the royal society's publications delayed the electrical revolution by 25 years.
 
 In the 1700s, there wasn't a lot of social capital tied to being published in a
 science journal. Outside of the small academic elite and a few scattered
