@@ -23,7 +23,7 @@ SOMERSET
 Oh hi John, over here! Hello! It's so nice to see you! I just picked up a copy of your new book. It's fantastic. Congratulations
 
 FLAMSTEED
-What new book?
+What book?
 
 SOMERSET
 Your star catalog! I knew you'd get around to publishing it. 35 years of work. You must feel proud.
@@ -35,14 +35,14 @@ SOMERSET
 Only if you sign it. Of course.
 
 FLAMSTEED
-Historia Coelestis Britannica, written by John Flamsteed and edited by, Dr Edmond Haley?! I never permitted this. 
+Historia Coelestis Britannica, written by John Flamsteed, Astronomer Royal, and edited by, Dr Edmond Haley?! I never permitted this. 
 
 SOMERSET
-My word Mr. Flamsteed, you're saying you had nothing to do with this?
+Mr Flamsteed, are you saying you had nothing to do with this?
 
 FLAMSTEED
 (Flips through the book)
-Let me see this ... yes this is my star catalog, there's 34 Tauri, yes, ... wait! There's been edits! This number has been changed. I'm sure of it.
+Let me see this ... yes this is my star catalog, there's 34 Tauri, yes, ... wait! There's been edits! This number has been changed. I'm sure of it. 
 
 SOMERSET
 It's modified?
@@ -55,7 +55,7 @@ Observations are the reality. Our theories are meant to approximate them and not
 
 FLAMSTEED
 (Pages through more work)
-It's my unfinished work, yes, but it has somehow been stolen from me and published behind my ... it even has observations from a sealed catalog I entrusted with the Royal Society.
+Wait, where is 17 and 18 Pegasi? It's not here.  And here are some observations I made with my mural arc, these are part of a sealed catalog I entrusted with the Royal Society.
 
 SOMERSET
 Who do you think was behind this?
@@ -89,8 +89,8 @@ NEWTON
 Why Mr. Flamsteed and Mrs. Somerset, how lovely of you to pay me a visit! What do you honor me with your presence for?
 
 FLAMSTEED
-(holds book)
-Do you know anything about this?
+(Holds book)
+This text. Do you know anything about it?
 
 NEWTON
 Why yes, it appears to be a book.
@@ -104,13 +104,13 @@ Please come in, have a seat.
 SOMERSET
 Thank you
 
-Somerset and Flamsteed enter Newtons place, door closes.
+Somerset and Flamsteed enter Newton's place, door closes.
 
 NEWTON
-Now Flamsteed, suppose I do know who made the book. It is the work you have been paid to do on behalf of the crown, is it not?
+Now Flamsteed, suppose I do know who made the book. It contains work you have been paid to do on behalf of the crown, does it not?
 
 FLAMSTEED
-Yes but only the parts which exist as evidence to support your theory of gravitation.
+Yes but appears to contain only the parts that support your theory of gravitation. Some numbers have also apparently been smoothed.
 
 NEWTON
 Not all your observations appeared to make sense.
@@ -119,76 +119,64 @@ FLAMSTEED
 Yes, I see here Dr Haley called them defective and attributed it to me having bad eyesight. 
 
 NEWTON
-Dr Haley should be left out of this. Are you still bitter that we forgot to credit your for that comet? That was 30 years ago.
+Dr Haley should be left out of this. Are you still bitter we forgot to credit your for that comet? That was 30 years ago.
 
 FLAMSTEED
-You still have made no effort to correct it. First you claimed I was wrong, then you claimed my idea as your own. And you still do, to this day.  Apparently my eyesight is failing while your vision doesn't ever extend beyond your nose.
-
-
----- TODO
-
-FLAMSTEED
-You only care about your lunar observations. You care not for the position of the stars. You know I would have permitted you to view my records at your leisure.
-
----- TODO
+You still have made no effort to correct that mistake. You claimed I was wrong, then you claimed my idea as your own. And you still do, to this day. My vision may not be what it used to but yours doesn't ever extend beyond your nose.
 
 NEWTON
-Do you think anyone is going to remember John Flamsteed, John Hooke, or Stephen Grey? That irascible pensioner.
+Mr Flamsteed, these observations are important and they ought be circulated among those who would like to use them.
 
 FLAMSTEED
-Those honorable men dedicated decades to science while you sir have only dedicated those decades to yourself.
+Then why have you been so selective with it? You care not for the position of the stars but only for the lunar observation to use in the next edition of your book. 
 
 NEWTON
-As with everything there are the foreman and the foundry workers. My dear Flamsteed, you are but a mere brick layer believing himself to be an architect.
+As with everything there are the builders and the designers. You are a bricklayer who believes himself to be an architect.
 
 FLAMSTEED
 And you are but a man who believes himself to be a God.
 
----- TODO
+NEWTON
+After a point, every additional observation becomes less and less useful. You, along with Robert Hooke and that irascible pensioner Stephen Gray are merely surveyors doing repetitive remedial tasks that any child could do. 
 
 FLAMSTEED
+Those honorable men dedicated decades to science to provide the tools of discovery for everyone. You have sought to tarnish their reputations because you fear a discovery by someone else might dim your flame. So that is why  you have omitted the majority of my work.
+(pause)
 How many of these books did you make?
 
 NEWTON
-Only a handful.
+Only 400.
 
 FLAMSTEED
-How many?
+400?! With this you have poisoned the well of observation from which every scientist must drink. The only thing worse than no knowledge is false knowledge.
 
 NEWTON
-Just 400.
+The deed is done. What are you to do about it?
 
 FLAMSTEED
-400?! You have poisoned the well of observation from which every scientist must drink. The only thing worse than no knowledge is false knowledge.
+I will retrieve every copy and burn it and then publish my own complete catalog in due time.
 
 NEWTON
-What are you to do about it?
-
-FLAMSTEED
-I will retrieve every copy and burn it. 
-
-NEWTON
-I'd like to see you try.
-You're 66 years old Flamsteed! Surely you yourself will be finished before your observations. They are good enough.
+You're 66 years old Flamsteed. Surely you yourself will be finished before your observations. They are good enough.
 
 SOMERSET
 The Worcester Cathedral took over 400 years. We spent centuries building shrines to the Gods yet you believe you can understand those Gods in a single lifetime.
 
 NEWTON
-And the cathedral in Birmington is set to be done in 4 years. Our time is one of acceleration. Thus I have no patience for the ways or the people of the past.
+And the cathedral in Birmington is set to be done in 4 years. Our time is one of acceleration. I have no patience for the ways or the people of the past.
 
 FLAMSTEED
-I wish I could be as comfortable as you with irresponsibility. These aren't your theories Dr Newton, these are measurements, careful careful measurements.
+I wish I could be as comfortable as you with irresponsibility. These aren't your theories Dr Newton, these are measurements. Careful, careful measurements.
 
 NEWTON
 And I sincerely thank you for taking them! 
-Mr. Flamsteed, Madame Somerset, it is always a pleasure but I must get going. 
+Mr Flamsteed, Madame Somerset, it is always a pleasure but I must get going. 
 
 SOMERSET
-Don't fret Mr. Flamsteed, a mistaken theory is far more discoverable than a mistaken oberservation. Dr Newton's world is mostly erasable chalk.
+Don't fret Mr Flamsteed, a mistaken theory is far more discoverable than a mistaken oberservation. Dr Newton's world is mostly erasable chalk.
 
 NEWTON
-Also one last thing Flamsteed. I unfortunately have found you're behind in your dues at the royal society. I'll sadly have to revoke your membership. Thank you for stopping by and congratulations on the book.
+Also one last thing Mr Flamsteed. I unfortunately have found you're behind in your dues at the royal society. I'll sadly have to revoke your membership. Thank you for stopping by and congratulations on the book.
 
 FLAMSTEED
 You know I live off merely a meager stipend from the Royal Astronomy. Will I get royalties for the book?
