@@ -7,7 +7,7 @@ Draft date: %DATE% (%GIT%)
 
 **Mary Somerset**: Well-balanced and wise, Smart honest and of high integrity. Distinguished and of noble birth. Tries to balance and maintain relationships while upholding personal values.
 
-**John Flamsteed**: A mostly humble 66 year old methodical pedant who deeply believes in and takes pride in accurate information and places his entire emotional identity on the veracity of his claims. He is of poor health generally being the royal astronomer. For the past 30 years he has stayed up at night to take careful measurements of the stars. He thinks the truth can't be rushed and is at peace with his work continuing after his death. His job, which he takes very seriously and is paid very poorly for, is an accurate mapping of the heavens for trade, navigation, science, and general usage. He is part of the Royal Society although can barely afford to be in it.
+**John Flamsteed**: A mostly humble 66 year old methodical pedant who deeply believes in and takes pride in accurate information and places his entire emotional identity on the veracity of his claims. He is of poor health generally being the royal astronomer. For the past 35 years he has stayed up at night to take careful measurements of the stars. He thinks the truth can't be rushed and is at peace with his work continuing after his death. His job, which he takes very seriously and is paid very poorly for, is an accurate mapping of the heavens for trade, navigation, science, and general usage. He is part of the Royal Society although can barely afford to be in it.
 
 **Isaac Newton**: A very well-connected 69 year old aggressive man who feels entitled by his ambitions and sees his time on the planet as drawing to a close. He is driven to do as much as he can during his lifetime, in his lifetime. He is an empire-builder, an intellectual entrepreneur and sees everything through a machiavellian lens to re-inforce this empire. He wants to publish Flamsteed's star maps not for himself but so that others can see that his theories predicted things accordingly and thus increase his prestige. He draws a salary that is 20 times more than Flamsteed and runs the Royal Society.
 
@@ -26,7 +26,7 @@ FLAMSTEED
 What new book?
 
 SOMERSET
-Your star catalog! I knew you'd get around to publishing it. 30 years of work. You must feel proud.
+Your star catalog! I knew you'd get around to publishing it. 35 years of work. You must feel proud.
 
 FLAMSTEED
 Are you sure? May I see it?
@@ -55,7 +55,7 @@ Observations are the reality. Our theories are meant to approximate them and not
 
 FLAMSTEED
 (Pages through more work)
-It's my unfinished work, yes, but it has somehow been stolen from me and published behind my ... it even has my charts that I secured away. Those were nowhere near ready. These are unverified observations. were riddled with errors. And apparently Dr. Haley has put more in.
+It's my unfinished work, yes, but it has somehow been stolen from me and published behind my ... it even has observations from a sealed catalog I entrusted with the Royal Society.
 
 SOMERSET
 Who do you think was behind this?
@@ -96,23 +96,41 @@ NEWTON
 Why yes, it appears to be a book.
 
 FLAMSTEED
-Do you know who wrote it?
+Do you know who made it?
 
 NEWTON
-Please come in, have a seat. Would you like some tea?
+Please come in, have a seat. 
+
+SOMERSET
+Thank you
 
 Somerset and Flamsteed enter Newtons place, door closes.
 
 NEWTON
-Let me ... why good job old boy, you finally did it. Congratulations on publishing your work.
+Now Flamsteed, suppose I do know who made the book. It is the work you have been paid to do on behalf of the crown, is it not?
 
 FLAMSTEED
-I did not. I believe you did.
+Yes but only the parts which exist as evidence to support your theory of gravitation.
+
+NEWTON
+Not all your observations appeared to make sense.
+
+FLAMSTEED
+Yes, I see here Dr Haley called them defective and attributed it to me having bad eyesight. 
+
+NEWTON
+Dr Haley should be left out of this. Are you still bitter that we forgot to credit your for that comet? That was 30 years ago.
+
+FLAMSTEED
+You still have made no effort to correct it. First you claimed I was wrong, then you claimed my idea as your own. And you still do, to this day.  Apparently my eyesight is failing while your vision doesn't ever extend beyond your nose.
+
 
 ---- TODO
 
-NEWTON
+FLAMSTEED
 You only care about your lunar observations. You care not for the position of the stars. You know I would have permitted you to view my records at your leisure.
+
+---- TODO
 
 NEWTON
 Do you think anyone is going to remember John Flamsteed, John Hooke, or Stephen Grey? That irascible pensioner.
@@ -129,7 +147,7 @@ And you are but a man who believes himself to be a God.
 ---- TODO
 
 FLAMSTEED
-How many of thes books did you make?
+How many of these books did you make?
 
 NEWTON
 Only a handful.
