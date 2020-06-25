@@ -14,6 +14,10 @@ Draft date: 2020/06/24
 NARRATOR
 Today I'm proud to introduce The Stolen Stars; a dramatization of the 1712 Flamsteed/Newton controversy. Although the dynamics and interactions are real, 8 years has been compressed to 10 minutes so some liberties have been taken.  We start our story on the streets of London, 1712.
 
+EXT. BUSY LONDON STREET - MORNING
+
+A busy day in 18th century London. MARY SOMERSET has a book in hand she just picked up from the Royal Society containing the star catalog by JOHN FLAMSTEED.  She happens to see him across the street.
+
 SOMERSET
 Oh hi John, over here! Hello! It's so nice to see you! I just picked up a copy of your new book. It's fantastic. Congratulations
 
@@ -30,19 +34,26 @@ SOMERSET
 Only if you sign it. Of course.
 
 FLAMSTEED
-Historia Coelestis Britannica, written by John Flamsteed and edited by, Dr. Edmond Haley?! I never permitted this. 
+Historia Coelestis Britannica, written by John Flamsteed and edited by, Dr Edmond Haley?! I never permitted this. 
 
 SOMERSET
 My word Mr. Flamsteed, you're saying you had nothing to do with this?
 
 FLAMSTEED
 (Flips through the book)
-Let me see this ... yes this is my star catalog, there's the 34 Tauri, yes, ... what? There's been edits! This number has been changed. 
+Let me see this ... yes this is my star catalog, there's 34 Tauri, yes, ... wait! There's been edits! This number has been changed. I'm sure of it.
 
 SOMERSET
 It's modified?
 
 FLAMSTEED
+It's been made to follow a smoother path. Look. That's not what it did. There are important unexplainable perturbations.
+
+SOMERSET
+Observations are the reality. Our theories are meant to approximate them and not the other way around.
+
+FLAMSTEED
+(Pages through more work)
 It's my unfinished work, yes, but it has somehow been stolen from me and published behind my ... it even has my charts that I secured away. Those were nowhere near ready. These are unverified observations. were riddled with errors. And apparently Dr. Haley has put more in.
 
 SOMERSET
@@ -55,10 +66,13 @@ SOMERSET
 What do you say we pay him a visit and straighten this out.
 
 FLAMSTEED
-Yes, I'm afraid we'll have to. So much bad science could happen with inaccurate observations, we have a responsibility here.
+Yes, I'm afraid we'll have to. So many incorrect things might be derived from inaccurate observations. If we feel at liberty to change measurements we don't like, then why take measurements at all? 
+
+SOMERSET
+Yes. Documenting everything regardless of whether it can be explained is the basis of scientific knowledge.
 
 
-...
+CUT TO:
 
 EXT. OUTSIDE NEWTON's HOME - DAY
 
@@ -132,39 +146,41 @@ NEWTON
 What are you to do about it?
 
 FLAMSTEED
-I will retrieve every copy and burn it. It will be published when I have verified the contents.
+I will retrieve every copy and burn it. 
 
 NEWTON
-You're 66 years old Flamsteed! Surely you yourself will be finished before your observations.
+I'd like to see you try.
+You're 66 years old Flamsteed! Surely you yourself will be finished before your observations. They are good enough.
 
 SOMERSET
-The Worcester Cathedral took over 400 years. We spend 4 centuries building shrines to the Gods yet you believe you can understand those Gods in a single lifetime.
+The Worcester Cathedral took over 400 years. We spent centuries building shrines to the Gods yet you believe you can understand those Gods in a single lifetime.
 
 NEWTON
-And the cathedral in Birmington is set to be done in 4 years. Our time is one of acceleration. Thus I have no patience for the ways of the past.
+And the cathedral in Birmington is set to be done in 4 years. Our time is one of acceleration. Thus I have no patience for the ways or the people of the past.
 
 FLAMSTEED
-I only wish I could as comfortable as you with being irresponsible. These aren't your theories Dr. Newton, these are measurements, careful careful measurements.
+I wish I could be as comfortable as you with irresponsibility. These aren't your theories Dr Newton, these are measurements, careful careful measurements.
 
 NEWTON
-An I thank you for taking them. Dr. Flamsteed, Madame Somerset, it is always a pleasure but I must get going. 
+And I sincerely thank you for taking them! 
+Mr. Flamsteed, Madame Somerset, it is always a pleasure but I must get going. 
 
 SOMERSET
-Don't fret Mr. Flamsteed, TODO Newton's laboratory
+Don't fret Mr. Flamsteed, a mistaken theory is far more discoverable than a mistaken oberservation. Newton's world is mostly erasable chalk.
 
 NEWTON
-Also one last thing Flamsteed. I unfortunately have found an inconsistency in the accounting history of the royal society. I'll sadly have to be suspending your membership. Thank you for stopping by and congratulations on the book.
+Also one last thing Flamsteed. I unfortunately have found you're behind in your dues at the royal society. I'll sadly have to revoke your membership. Thank you for stopping by and congratulations on the book.
 
 FLAMSTEED
-You know I cannot afford the dues with the meager salary from the Royal Astronomy. Will I get royalties for the book?
+You know I live off merely a meager stipend from the Royal Astronomy. Will I get royalties for the book?
 
 NEWTON
-I'm sorry, after paying myself and Dr. Haley, there's nothing left over. Good day.
+I'm sorry, after paying myself and Dr Haley, there's nothing left over. Good day.
 
 Flamsteed and Somerset leave Newtons place
 
 SOMERSET
-Well it was Isaac, we all know what kind of man he is. What were you expecting?
+Well that's Dr Newton. We all know the kind of man he is. 
 
 FLAMSTEED
 He's right though.
@@ -173,13 +189,13 @@ SOMERSET
 What do you mean?
 
 FLAMSTEED
-I really am merely a bricklayer. The most important jobs are those with the least power. In time all of this and my decades of effort will be forgotten, except Newton, he will be remembered like a king.
+I really am merely a bricklayer. The most important jobs are those with the least power. In time my decades of effort will be forgotten. Newton, however, he will be remembered as a king.
 
 SOMERSET
 And likely treated as one. 
 Would you like to have my copy of the book? I surely can not keep it in good faith.
 
 FLAMSTEED
-No no. You keep it. Inform me of any errors you find. An accurate version will come with time. If it be after my death than so be it. Oh and let me sign it for you. After all, these *are* my stars.
+No no. You keep it. Inform me of any errors you find. An accurate version will come with time. If after my death than so be it. Oh and let me sign it for you. After all, these *are* my stars.
 
 > THE END <
