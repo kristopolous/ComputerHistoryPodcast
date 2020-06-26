@@ -23,7 +23,7 @@ SOMERSET
 Oh hi John, over here! Hello! It's so nice to see you! I just picked up a copy of your new book. It's fantastic! Congratulations!
 
 FLAMSTEED
-(confused)
+(Confused)
 My book? What book?
 
 SOMERSET
@@ -41,7 +41,7 @@ FLAMSTEED
 Historia Coelestis Britannica, by John Flamsteed, Astronomer Royal. Edited by, Dr Edmond Haley?! I never permitted this. 
 
 SOMERSET
-(confused)
+(Confused)
 What do you mean, *permitted*?
 
 FLAMSTEED
@@ -60,10 +60,10 @@ Dr Haley changed your observations?
 FLAMSTEED
 Yes, look, it's been made to follow a smoother path. That's not what I measured. I saw important unexplainable perturbations.
 (pause)
-it's almost like Dr Haley desired to make these numbers agree with a set of equations.
+It's almost like Dr Haley desired to make these numbers agree with a set of equations.
 
 SOMERSET
-(shocked)
+(Shocked)
 But observations *are* the reality! Our equations are meant merely to approximate them. The disagreements between the two are where new discovery is to be found! Descrepencies are to be cherished, not hidden!
 
 FLAMSTEED
@@ -72,8 +72,8 @@ Indeed!
 Wait, where is 18 Pegasi? It's not here. And here are some observations I made with my mural arc, those are part of a sealed catalog I entrusted with the Royal Society.
 
 SOMERSET
-(disgusted)
-This is atrocious. Your work has been stolen and ransacked and then your honor was disrespected. Who would do such a thing?
+(Disgusted)
+This is atrocious. Your work has been stolen and ransacked and then your honor disgraced! Who would do such a thing?
 
 FLAMSTEED
 Who else? Our esteemed colleague, Dr Newton.
@@ -87,21 +87,20 @@ Yes, I'm afraid we'll have to. So many incorrect things might be derived from in
 SOMERSET
 Yes. Documenting everything regardless of whether it can be explained is the basis of scientific knowledge.
 
-
 CUT TO:
 
 EXT. OUTSIDE NEWTON's HOME - DAY
 
-Flamsteed knocks on the door.
+FLAMSTEED knocks on the door.
 
 NEWTON 
-(writing at his study)
+(Writing at his study)
 One moment, I'm coming.
 
-Newton opens the door.
+NEWTON opens the door.
 
 NEWTON
-Why Mr Flamsteed and Mrs. Somerset! How lovely of you to pay me a visit! How may I serve your honorable presence?
+Why Mr Flamsteed and Mrs Somerset! How lovely of you to pay me a visit! How may I serve your honorable presence?
 
 FLAMSTEED
 (Holds book)
@@ -117,15 +116,15 @@ NEWTON
 I may. Please come in, have a seat. 
 
 SOMERSET
-Thank you
+Thank you.
 
-Somerset and Flamsteed enter Newton's place, door closes.
+SOMERSET and FLAMSTEED enter NEWTON'S place, door closes.
 
 NEWTON
-Now Flamsteed, suppose I know who made the book. It contains work you have been paid to do on behalf of the Crown, does it not? It technically belongs to your employer, correct?
+Now Mr Flamsteed, suppose I know who made the book. It contains work you have been paid to do on behalf of the Crown, does it not? It technically belongs to your employer, correct?
 
 FLAMSTEED
-Yes. However, the book appears to contain only the parts which support your theory of gravitation. Also wome measurements inconvenient to your theory have been modified to satisfy it.
+Yes. However, the book appears to contain only the parts which support your theory of gravitation. Also some measurements inconvenient to your theory have been modified to satisfy it.
 
 NEWTON
 Alright, you caught me! It was I and Dr Haley. After careful review, we concluded that some of the observations had to be erroneous. Maybe an accidental flick of the pencil. You work in nearly complete darkness.
@@ -180,7 +179,7 @@ SOMERSET
 The Worcester Cathedral took over 400 years. We spent centuries building shrines to the Gods yet you believe you can understand those Gods in a single lifetime.
 
 NEWTON
-And the cathedral in Birmington is set to be done in 4 years. Our time is one of acceleration. I have no patience for the ways or the people of the past.
+And the cathedral in Birmington is set to be done in only 4. Our time is one of acceleration. I have no patience for the ways or the people of the past.
 
 FLAMSTEED
 I wish I could be as comfortable as you with irresponsibility. These aren't your theories Dr Newton, these are measurements. Careful, careful measurements.
@@ -201,7 +200,11 @@ You know I live off merely a meager stipend from the Royal Astronomy. Will I get
 NEWTON
 I'm sorry, after paying myself and Dr Haley, there's nothing left over. Good day.
 
-Flamsteed and Somerset leave Newton's place
+FLAMSTEED and SOMERSET open door and leave NEWTON'S place.
+
+CUT TO:
+
+EXT. OUTSIDE NEWTON's HOME - DAY
 
 SOMERSET
 Well that's Dr Newton. We all know the kind of man he is. 
