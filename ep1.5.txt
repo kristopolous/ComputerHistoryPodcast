@@ -1,9 +1,46 @@
+Immortal Halley! thy unwearied soul 
+On Wisdom's pinion flew from pole to pole, 
+The uncertain compass to its task restored, 
+Each ocean fathom’d, and each wind explored, 
+Commanded trade with every breeze to fly, 
+And gave to Britain half the Zemblian sky. 
+And see, he comes, distinguish’d, loved, caress'd, 
+Mark'd by each eye, and hugg'd to every breast; 
+His godlike labours wit and science fire, 
+All factions court him, and all sects admire; 
+While Britain, with a gratitude unknown 
+To every age but Nero's and our own, 
+A gratitude that will for ever shame 
+The Spartan glory, and the’ Athenian name
+Tell it, ye winds! that all the world may hear-
+Bless'd his old age with-ninety pounds a year.
+Are these our triumphs? these the sums we give
+to ripen genius, and to bid it live?
+Can britian in her fits of mandess pour
+One half her Indies on a Roman whore,
+And still permit the weeping Muse to tell
+how poor neglected Desaguliers fell?
+How he, who taught two gracious kings to view
+All Boyle ennobled, and all Bacon knew,
+Died in a cell, without a friend to save,
+Without a guinea, and without a grave?
+
+James Cawthorn, The Vanity Of Human Enjoyment, 1749.
+
+<intro>
+
 Hello and welcome to computing history episode 1.5, the journey to the electric wire part deux.
 
 A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances
 Acta Eruditorum
-
+.
 Du Fay suspended himself like Gray's Experiments. p13 Electric Science; Its History, Phenomena, and Applications – Frederick Collier Bakewell, 1853
+
+M. Boze - german scientist
+
+Joseph Franz Vienna 1500 feet iron wire
+
+Ludolph, electric shock party trick
 
 Leyden Jar
 Lessons in Electricity: To which is Added An Elementary Lecture on Magnetism by John Tyndall 1881
@@ -12,4 +49,16 @@ Lessons in Electricity: To which is Added An Elementary Lecture on Magnetism by 
 
 Bleeding at the nose, ardent fever, a heaviness of head which endured for days, were all ascribed to the shock. Boze wished that he might die of it, so the he might enjoy the honor of having his death chronicled in the Paris' Academy of Science.
 
+Magnetic needle Nicolas Sarrabat 1727
 
+Priestley says (" Discovery of Germans,
+"
+that Gordon
+increased the electric sparks to such a degree that
+they were felt from a man's head to his foot, so that a person could
+hardly take them without falling down with giddiness; and small
+birds were killed by them.
+This he effected by conveying elec-
+tricity, with iron wires, to the distance of 200 ells (about 250 yards)
+is
+from the place of excitation."
