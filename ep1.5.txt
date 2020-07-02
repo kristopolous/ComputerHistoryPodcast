@@ -16,7 +16,7 @@ Tell it, ye winds! that all the world may hear-
 Bless'd his old age with-ninety pounds a year.
 Are these our triumphs? these the sums we give
 to ripen genius, and to bid it live?
-Can britian in her fits of mandess pour
+Can britian in her fits of mandness pour
 One half her Indies on a Roman whore,
 And still permit the weeping Muse to tell
 how poor neglected Desaguliers fell?
@@ -27,6 +27,8 @@ Without a guinea, and without a grave?
 
 James Cawthorn, The Vanity Of Human Enjoyment, 1749.
 
+18th century England threw so little cash toward science that even the poets were writing about it.
+
 <intro>
 
 Hello and welcome to computing history episode 1.5, the journey to the electric wire part deux.
@@ -34,7 +36,11 @@ Hello and welcome to computing history episode 1.5, the journey to the electric 
 A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances
 Acta Eruditorum
 .
-Du Fay suspended himself like Gray's Experiments. p13 Electric Science; Its History, Phenomena, and Applications – Frederick Collier Bakewell, 1853
+
+Du Faye 
+  repeated Gray's experiment, wetted the line, got to 1256 feet, 8 returns, in high wind. 
+  first saw the spark  (Abbe Noller) . Philosophical Trans
+suspended himself like Gray's Experiments. p13 Electric Science; Its History, Phenomena, and Applications – Frederick Collier Bakewell, 1853
 
 M. Boze - german scientist
 
@@ -62,3 +68,7 @@ This he effected by conveying elec-
 tricity, with iron wires, to the distance of 200 ells (about 250 yards)
 is
 from the place of excitation."
+
+Vitreous is glass, resinous is ground, positive and negative.
+
+Watson glass globes and tubes do not posess in themselves electrical power, electrical fluid takes shortest couse, passing through the substance of the best medium of connection, discharging a phial through a wire covered with wax and resin.
