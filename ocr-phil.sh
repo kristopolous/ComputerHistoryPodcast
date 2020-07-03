@@ -15,8 +15,11 @@ do
 
     if [[ -s $textdest ]]
     then
-      echo "$doc..skipping " $(wc -l $textdest)
-      continue
+      if [[ $(cat $textdest | wc -l) -gt 100 ]]
+      then
+        echo "$doc..skipping " $(wc -l $textdest)
+        continue
+      fi
     fi
 
     echo $doc
@@ -24,14 +27,14 @@ do
 
     for path in $pdf $txt
     do
-      [[ -e $path ]] && rm -r $path
+      [[ -e $path ]] && rm -fr $path
       mkdir -p $path
     done
 
-    gs -r150  \
+    gs -r75  \
       -dBATCH  \
       -dNOPAUSE  \
-      -sDEVICE=pnggray \
+      -sDEVICE=pngmono \
       -sOutputFile=$pdf/${base}-%03d.png $doc
 
     for png in $pdf/*png
@@ -45,7 +48,7 @@ do
 
     echo $pageCount $lineCount
 
-    [[ -e $textdest ]] || cat $txt/*txt > $textdest
+    cat $txt/*txt > $textdest
 
   done
 done
