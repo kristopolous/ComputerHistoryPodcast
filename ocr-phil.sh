@@ -11,23 +11,33 @@ do
 
   for doc in $path/*pdf
   do
+    textdest=${doc/pdf/txt}
+
+    if [[ -s $textdest ]]
+    then
+      echo "$doc..skipping " $(wc -l $textdest)
+      continue
+    fi
+
     echo $doc
     echo "---"
+
     for path in $pdf $txt
     do
       [[ -e $path ]] && rm -r $path
       mkdir -p $path
     done
 
-    convert -density 300 -depth 16 $doc $pdf/${base}.png
-    echo "png"
+    gs -r150  \
+      -dBATCH  \
+      -dNOPAUSE  \
+      -sDEVICE=pnggray \
+      -sOutputFile=$pdf/${base}-%03d.png $doc
 
-    ix=0
     for png in $pdf/*png
     do
       fname=$(basename $png)
       tesseract $png $txt/${fname/.png/} -l eng
-      ix=$(( ix + 1 ))
     done
 
     pageCount=$(ls $txt/*txt | wc -l)
@@ -35,7 +45,7 @@ do
 
     echo $pageCount $lineCount
 
-    [[ -e ${doc/pdf/txt} ]] || cat $txt/*txt > ${doc/pdf/txt}
+    [[ -e $textdest ]] || cat $txt/*txt > $textdest
 
   done
 done
