@@ -45,13 +45,26 @@ Watson
   Water tests
 
 Hello and welcome to computing history episode 1.5, the journey to the electric wire part deux.
+In 1.3 we went over two, and now I'm showing my cards, carefully cherry picked publications by Stephen Gray; the first one involving children suspended by what he called hairlines and the second being a long line of thread being switchbacked to show that electricity follows the line all the way to its end.
+
+We also talked about how Gray's experiments were really easy to reproduce, unlike say, Francis Hauksbee's air pump, a device to create a small ball without any air in it to run vacuum measurements. The air pump was pretty useful but apparently quite costly to make. Many early scientists talked about having to borrow other people's pumps and how some of them kinda didn't work very well. Not with Gray though. Suspending someone with some thread? Totally doable. A long line of thread suspended by silk? Yes, that too.
+
+So what happened?
+
+That's right, people did it. Let's talk about one of them in particular, a chemist and superintendent of the royal garden who died of smallpox at the age of 40. Now if you think that sounded very French, you'd be right. The Parisian Charles François de Cisternay du Fay, inspired from Mr. Gray's experiments
+  wetted the thread
+  suspended himself sparking others
+
+It wasn't just the English and French having all the Science fun here. The Germans also are going to get in on the action. Now for all the history nerds out there, yes, there technically is no Germany yet. And for the rest of you, Germany in the 1700s is a complete mess, you have the holy roman empire, saxony, bavaria, the austrian netherlands, hanover, brandenburg, and oh yeah, the hungarians had a good chunk of things as well ... Instead of trying to get any of this correct, when we talk about the scientists of central europe we're going to use whatever nationality english texts of the time referred to them as. I think that's fair. Same things go with the Italians, which is even messier. In fact, the two little enclaves of San Marino and Vatican City still haven't hopped on the Italian unification train.
+
+Anyway, back to the 
 
 Also I must point out that Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
 flying the kite with the key in the lightning storm when we were children and you can be forgiven if you just filed this away with Washington's Cherry Tree and Johnny Appleseed as fun stories we tell children. I forgive you as well. 
 
-It's time to refile that now though. Franklin won the Copley medal, the same one that Desaguliers and Gray won, for his work on Electricity. He did a number of publications in Philosophical Transactions concerning electricity. He had 17 publications, a highly respectable number seeing as I've never in my wildest dreams could ever fathom getting 1, and most of them having to do with electricity. He's so important, in fact, that texts well before the American Revolution on the history of Electricity, such as say The History and Present State of Electricity, with Original Experiments, by Joseph Priestley, from 1769, Franklin and his experiments in Philadelphia are seen as pivotal roles.  For isntance, Chapter 8's title is "The history of electricity from the discovery of the Leyden phial in the years 1745 and 1746, till Dr. Franklin's Discoveries' and all of Chapter 9 is about Franklin, then the final chapter is all about a post Franklin world. Now remember, this is before the American Revolution, 1769, these aren't people star struck by his politics doing classical mythmaking.
+It's time to refile that now though. Franklin won the Copley medal, the same one that Desaguliers and Gray won, for his work on Electricity. He did a number of publications in Philosophical Transactions concerning electricity. He had 17 publications in the journal in fact, a highly respectable number seeing as I could never in my wildest dreams even fathom getting just 1.  Franklin's electricity work is so important, in fact, that texts written before the American Revolution on the history of Electricity, such as say The History and Present State of Electricity, with Original Experiments, by Joseph Priestley, from 1769, Franklin's experiments in Philadelphia play pivotal roles.  For instance, Priestly title's Chapter 8 as "The history of electricity from the discovery of the Leyden phial in the years 1745 and 1746, till Dr. Franklin's Discoveries' and then writes all of Chapter 9 about Franklin, and concludes the book about the new ways people looked at electricity in a post Franklin world. Now remember, this is before the American Revolution, 1769, these aren't people star struck by his politics doing classical mythmaking.
 
-Now after all this, we are actually going to skip right over him because we're focused exclusively on our journey to a working telegraph and Franklin doesn't play a role in that story. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s --- any outsider would justifiably accuse me of total ignorance and insanity.  Wear those labels proudly, normalcy is a waste of time.
+So after all that praise, we are actually going to skip right over Franklin because we're focused exclusively on our journey to a working telegraph and Franklin doesn't actually play a role in that story. Don't worry, he will pop up again later. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s. I do actually intend on eventually getting to things like strowger switches and reed relays, designed in the 1930s for telephone switches and arguably the first computer memory, sometime before an expanding sun swallows the earth. 
 
 
 A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances
@@ -93,3 +106,13 @@ from the place of excitation."
 Vitreous is glass, resinous is ground, positive and negative.
 
 Watson glass globes and tubes do not posess in themselves electrical power, electrical fluid takes shortest couse, passing through the substance of the best medium of connection, discharging a phial through a wire covered with wax and resin.
+
+So here we are, reliable insulated, electric wires going over multiple miles. This discovery will exhibit a pattern we'll see repeatedly, the concept of the killer app, a term coined in a 1988 issue of Pc Week, it's the thing that chaparones a technology from a toy to a tool, the distinction that David Davidow in 1986's Marketing High Technology made between a technology and a product:
+
+"thousands of devices are invented every year...all the marketing hype in the world can't create a product unless a device exists. But the key is to convert great devices into great products.
+
+Everyone knows what a product is. A product is the totality of what a customer buys. When a device is properly augmented so that it can be easily used by a customer it becomes a product"
+
+We have the device of electricity, wires, the separation between positive and negative, conductor and insulator, but no product has yet emerged. The time period between device and product is that of the enthusiast and hobbyist. It's the time before the first spreadsheet when people assembled personal computers from kits as a pasttime. 
+
+Next week we will go into the era when electricity was a pasttime and party trick, before the first product of the electric era emerged.
