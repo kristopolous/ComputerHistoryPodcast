@@ -34,14 +34,25 @@ James Cawthorn, The Vanity Of Human Enjoyment, 1749.
 Start with gray
 Move to Desaguliers
 Du Fay
+  "vitreous" and "resinous" --- was this desaguliers? Wikipedia says dufay
+  - du fay is 1733, that's pretty good.
 Distractions here:
   Hausen's Electric machine
   Leyden jar
   Magnetic needle
 Watson
+  Used positive and negative, observation that it wasn't the glass that was the convoy
   Water tests
 
 Hello and welcome to computing history episode 1.5, the journey to the electric wire part deux.
+
+Also I must point out that Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
+flying the kite with the key in the lightning storm when we were children and you can be forgiven if you just filed this away with Washington's Cherry Tree and Johnny Appleseed as fun stories we tell children. I forgive you as well. 
+
+It's time to refile that now though. Franklin won the Copley medal, the same one that Desaguliers and Gray won, for his work on Electricity. He did a number of publications in Philosophical Transactions concerning electricity. He had 17 publications, a highly respectable number seeing as I've never in my wildest dreams could ever fathom getting 1, and most of them having to do with electricity. He's so important, in fact, that texts well before the American Revolution on the history of Electricity, such as say The History and Present State of Electricity, with Original Experiments, by Joseph Priestley, from 1769, Franklin and his experiments in Philadelphia are seen as pivotal roles.  For isntance, Chapter 8's title is "The history of electricity from the discovery of the Leyden phial in the years 1745 and 1746, till Dr. Franklin's Discoveries' and all of Chapter 9 is about Franklin, then the final chapter is all about a post Franklin world. Now remember, this is before the American Revolution, 1769, these aren't people star struck by his politics doing classical mythmaking.
+
+Now after all this, we are actually going to skip right over him because we're focused exclusively on our journey to a working telegraph and Franklin doesn't play a role in that story. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s --- any outsider would justifiably accuse me of total ignorance and insanity.  Wear those labels proudly, normalcy is a waste of time.
+
 
 A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances
 Acta Eruditorum
