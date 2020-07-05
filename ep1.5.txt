@@ -43,6 +43,9 @@ Distractions here:
 Watson
   Used positive and negative, observation that it wasn't the glass that was the convoy
   Water tests
+  Dr . Watson , in 1747 , in the presence of many scientific persons , transmitted the power through 2800 feet of wire and 8000 feet of water , thus employing in his experiments the use of the earth circuit . Afterwards , on the 14th of August , 1747 , Dr . Watson conducted an experiment on a much larger scale at Shooter ' s Hill . The wire was insulated by baked wood , and was 10 , 600 feet or nearly 2 miles long .
+
+  The electric telegraph: its history and progress – Edward Highton
 
 Hello and welcome to computing history episode 1.5, the journey to the electric wire part deux.
 In 1.3 we went over two, and now I'm showing my cards, carefully cherry picked publications by Stephen Gray; the first one involving children suspended by what he called hairlines and the second being a long line of thread being switchbacked to show that electricity follows the line all the way to its end.
