@@ -68,7 +68,26 @@ That's right, people did it. Let's talk about one of them in particular, a chemi
 
 Many of his findings were reported in the French Academy of Sciences, which got completely dismantled in the French Revolution and replaced with something effectively the same about 2 years later, because, the french revolution. But that's still 50 years in the future.
 
-Anyway, he also wrote one English article concerning electricity in the Philosophical Transactions, which we introduced last week.
+If french is your thing you can read his 30 page article in Histoire de l'Académie Royale des Sciences published in 1733. There's a link in the show notes.
+
+And if French isn't your thing, Du Fay happened to have been kind enough to have written essentially the same findings in an english document in Philosophical Transactions.
+
+The first replicated experiment we're going to talk about I didn't go over last time but when I read what Du Fay had to say about it I just couldn't leave it out.
+Gray had run a number of experiments which really made it look like color had something to do with how something responded to electricity.
+
+Du Fay took 9 identical silk ribbons of different colors and then had a single glass tube that he brought near each of them at the same exact time, at the same exact distance. He noticed that the black one reacted first, every time. He rearranged the order of the ribbons and it was the same. After the black came the white and then an order of colors that always repeated itself. This was identical to what Gray had found.
+
+Next he took pieces of colored cotton gauze and gold leaf and moved the gause pieces near the gold leaf and saw a different, but utterly repeatable pattern. This does sound like great evidence.
+
+However, we all know, I think all of us do at least, that the color of something doesn't affect its electric properties. But how can we show that?  If you'd like to think this through, press pause and come back and see if you can think of Du Fay's next experiment.
+
+Alright, I hope you had a fun time thinking that through. Du Fay used a prism. He threw various colors of the prism on different pieces of white gause, and there was no difference in attraction. He also warmed and wetted the gauses and silks and then saw the color differences go away. So he concludes "this difference proceeds not from the color but from the substances that are employed in the dying". Brilliant. He then used different methods of coloring, charcoal, carmine, and showed that it was a property of the chemicals of the dye, not of the colors.
+
+So Gray made a correct, repeatable observation, but drew from it the wrong conclusion. This is great science. I'm excited, are you? Good, me too!
+
+But wait, we're only 1/3 through Du Fay's paper. 
+
+
 
 Of note he found that by wetting the packthread he was able to get a much 
   wetted the thread
