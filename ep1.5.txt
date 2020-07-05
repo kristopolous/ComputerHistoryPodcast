@@ -87,6 +87,16 @@ So Gray made a correct, repeatable observation, but drew from it the wrong concl
 
 But wait, we're only 1/3 through Du Fay's paper.  Next he does Gray's packthread line experiment but Du Fay has the idea that by wetting the thread he could get a better connection. Then using glass tubes instead of silk for better support, Du Fay makes 8 returns through a garden. He achieves 1256 feet in high winds even, which is around twice what Gray did. Now Du Fay doesn't actually mention *which* garden he was using but he did say, 8 returns, crossed over 2 sidewalks, 1256 feet. So I looked up old maps of the royal garden and yes, there was an obvious long clearing about 160 feet wide crossing over 2 sidewalks so he probably did it at his office. It's cool Du Fay, I'm not going to run off and tell King Louis XIII, don't worry. Investigative reporting on a mostly irrelevant 287 year old science experiment, you must be tuning into the Computing History podcast.
 
+Moving on, Du Fay also suspended a child and repeated Gray's experiments. But then he took it a step further and suspended himself by the silk lines as well. And I'm going to quote the next part because it's important:
+
+"while I am suspended on the lines, if the electric tube be put near one of my hands, or my legs, and then if another person approches me, and passes his hand within an inch of my face, legs, hand or cloathes, there immediately issues from my body one or more pricking shoots, with a crackling noise, that causes that person as well as my self, a little pain. Pain resembling that from the sudden prick of a pin, or the burning from a Spark of Fire...And in teh dark, these snappings are, as may be easily imagined, so many sparks of fire"
+
+We have electric spark. There it is. Du Fay, 1733. This is all in one paper, what the hell Du Fay. Let's move on. 
+
+Du Fay next talks about two distinct electricities, very different from one another. The first he called vitreous, which means "glass-like" and the other one "resinous". He then notes that vitreous electrics, such as glass, rock-crystal and wool repel other vitreous electrics while resinous, such as amber, silk, and paper, repels other resinous. And that vitreous and resinous attract each other. Two electrified silks will repel, two woolen threads will repel, but a silk and a wool, those attract. 
+
+There's even more but really, we already collected everything we came for, we must move on.
+
 
 
 Of note he found that by wetting the packthread he was able to get a much 
