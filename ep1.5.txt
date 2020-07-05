@@ -55,7 +55,9 @@ That's right, people did it. Let's talk about one of them in particular, a chemi
   wetted the thread
   suspended himself sparking others
 
-It wasn't just the English and French having all the Science fun here. The Germans also are going to get in on the action. Now for all the history nerds out there, yes, there technically is no Germany yet. And for the rest of you, Germany in the 1700s is a complete mess, you have the holy roman empire, saxony, bavaria, the austrian netherlands, hanover, brandenburg, and oh yeah, the hungarians had a good chunk of things as well ... Instead of trying to get any of this correct, when we talk about the scientists of central europe we're going to use whatever nationality english texts of the time referred to them as. I think that's fair. Same things go with the Italians, which is even messier. In fact, the two little enclaves of San Marino and Vatican City still haven't hopped on the Italian unification train.
+<introduce leyden phial/jar before this>
+
+It wasn't just the English and French having all the Science fun here. The Germans are also going to get in on the action. Now for all the history nerds out there, yes, there technically is no Germany yet. And for the rest of you, Germany in the 1700s is a complete mess, you have the holy roman empire, saxony, bavaria, the austrian netherlands, hanover, brandenburg, and oh yeah, the hungarians had a good chunk of things as well ... Instead of trying to get any of this correct, when we talk about the scientists of central europe we're going to use whatever nationality english texts of the time referred to them as. I think that's fair. Same things go with the Italians, which is even messier. In fact, the two little enclaves of San Marino and Vatican City still haven't hopped on the Italian unification train.
 
 Anyway, back to the 
 
@@ -82,13 +84,6 @@ Joseph Franz Vienna 1500 feet iron wire
 
 Ludolph, electric shock party trick
 
-Leyden Jar
-Lessons in Electricity: To which is Added An Elementary Lecture on Magnetism by John Tyndall 1881
-
-"It caused great wonder and dread, which arose chiefly from the excited imagination. Musschenbroek felt the shock, and declared in a letter to a friend that he would not take a second one for the crown of France.
-
-Bleeding at the nose, ardent fever, a heaviness of head which endured for days, were all ascribed to the shock. Boze wished that he might die of it, so the he might enjoy the honor of having his death chronicled in the Paris' Academy of Science.
-
 Magnetic needle Nicolas Sarrabat 1727
 
 Priestley says (" Discovery of Germans,
@@ -107,12 +102,12 @@ Vitreous is glass, resinous is ground, positive and negative.
 
 Watson glass globes and tubes do not posess in themselves electrical power, electrical fluid takes shortest couse, passing through the substance of the best medium of connection, discharging a phial through a wire covered with wax and resin.
 
-So here we are, reliable insulated, electric wires going over multiple miles. This discovery will exhibit a pattern we'll see repeatedly, the concept of the killer app, a term coined in a 1988 issue of Pc Week, it's the thing that chaparones a technology from a toy to a tool, the distinction that David Davidow in 1986's Marketing High Technology made between a technology and a product:
+So here we are, reliable insulated, electric wires going over multiple miles. This discovery will exhibit a pattern we'll see repeatedly, the time between discovery and the introduction of a so-called killer app, a term coined in a 1988 issue of Pc Week, it's the thing that chaparones a technology from a toy to a tool - a practical goal made easier by the technology. This is also the distinction that David Davidow in his 1986 text, "Marketing High Technology" made between a device and a product:
 
-"thousands of devices are invented every year...all the marketing hype in the world can't create a product unless a device exists. But the key is to convert great devices into great products.
+"Thousands of devices are invented every year...all the marketing hype in the world can't create a product unless a device exists. But the key is to convert great devices into great products.
 
 Everyone knows what a product is. A product is the totality of what a customer buys. When a device is properly augmented so that it can be easily used by a customer it becomes a product"
 
-We have the device of electricity, wires, the separation between positive and negative, conductor and insulator, but no product has yet emerged. The time period between device and product is that of the enthusiast and hobbyist. It's the time before the first spreadsheet when people assembled personal computers from kits as a pasttime. 
+We have the devices of electricity and wires, the separation between positive and negative, conductor and insulator, but no product has yet emerged. The time period between device and product is that of the enthusiast and hobbyist. It's the time before the first spreadsheet when people assembled personal computers from kits as a pasttime. 
 
-Next week we will go into the era when electricity was a pasttime and party trick, before the first product of the electric era emerged.
+So next week we will go into the era when electricity was merely pasttime and party trick and before the first product of the electric era emerged.
