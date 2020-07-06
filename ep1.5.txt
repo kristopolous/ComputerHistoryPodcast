@@ -73,11 +73,11 @@ If french is your thing you can read his 30 page article in Histoire de l'Acadé
 And if French isn't your thing, Du Fay happened to have been kind enough to have written essentially the same findings in an english document in Philosophical Transactions.
 
 The first replicated experiment we're going to talk about I didn't go over last time but when I read what Du Fay had to say about it I just couldn't leave it out.
-Gray had run a number of experiments which really made it look like color had something to do with how something responded to electricity.
+Gray had run a number of experiments which really made it look like color had something to do with how something responded to electricity. For instance, Gray had suspended his boys by different color silks and then mesured how long they were able to "communicate the electric fire". He found a repeatable pattern of duration for the different colors.
 
-Du Fay took 9 identical silk ribbons of different colors and then had a single glass tube that he brought near each of them at the same exact time, at the same exact distance. He noticed that the black one reacted first, every time. He rearranged the order of the ribbons and it was the same. After the black came the white and then an order of colors that always repeated itself. This was identical to what Gray had found.
+Du Fay, fascinated by this finding, decided to try to simplify it as much as possible. He took 9 identical silk ribbons of different colors and then had a single glass tube that he brought near each of them at the same exact time, at the same exact distance. He noticed that the black one reacted first, every time. He rearranged the order of the ribbons and it was the same. After the black came the white and then an order of colors that always repeated itself. The color pattern roughly matched what Gray had found in his experiments.
 
-Next he took pieces of colored cotton gauze and gold leaf and moved the gause pieces near the gold leaf and saw a different, but utterly repeatable pattern. This does sound like great evidence.
+Next Du Fay took pieces of colored cotton gauze and gold leaf and moved the gause pieces near the gold leaf and saw a different, but utterly repeatable pattern. This does sound like great evidence.
 
 However, we all know, I think all of us do at least, that the color of something doesn't affect its electric properties. But how can we show that?  If you'd like to think this through, press pause and come back and see if you can think of Du Fay's next experiment.
 
@@ -97,11 +97,7 @@ Du Fay next talks about two distinct electricities, very different from one anot
 
 There's even more but really, we just collected everything we came for so we must move on.
 
-
-
-Of note he found that by wetting the packthread he was able to get a much 
-  wetted the thread
-  suspended himself sparking others
+We now return to London to visit our old friend Dr. Desaguliers. It's 1739 and Stephen Gray is no longer with us. 
 
 <introduce leyden phial/jar before this>
 
@@ -127,7 +123,7 @@ It's time to refile that now though. Franklin won the Copley medal, the same one
 
 So after all that praise, we are actually going to skip right over Franklin because we're focused exclusively on our journey to a working telegraph and Franklin doesn't actually play a role in that story. Don't worry, he will pop up again later. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s. I do actually intend on eventually getting to things like strowger switches and reed relays, designed in the 1930s for telephone switches and arguably the first computer memory, sometime before an expanding sun swallows the earth. 
 
-Alright ok, one thing. Franklin greatly expanded upon Du Fay's observation of vitreous and resinous electricity and felt forced to give them a more generalized name, one that we still use today: positive, and negative.
+Alright ok, one thing about Franklin. Franklin greatly expanded upon Du Fay's observation of vitreous and resinous electricity and felt forced to give them a more generalized name, one that we still use today: positive, and negative.
 
 A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances
 Acta Eruditorum
