@@ -91,7 +91,7 @@ Moving on, Du Fay also suspended a child and repeated Gray's experiments. But th
 
 "while I am suspended on the lines, if the electric tube be put near one of my hands, or my legs, and then if another person approches me, [podcasters note, that other person he's referring to is Abbe Nollet who will be important later] ... anyway, another person approaches me and passes his hand within an inch of my face, legs, hand or cloathes, there immediately issues from my body one or more pricking shoots, with a crackling noise, that causes that person as well as my self, a little pain. Pain resembling that from the sudden prick of a pin, or the burning from a Spark of Fire...And in the dark, these snappings are, as may be easily imagined, so many sparks of fire" 
 
-We have electric spark. There it is. Du Fay, 1733. This is all in one paper, what the hell Du Fay. Let's move on. 
+We have electric spark. Now this isn't the first time electric spark had been observed. We had Robert Boyle's glow in the dark diamond in 1663 and Otto Guericke's sulfur globe in 1672, Dr. William Wall rubbing sulfur and amber in 1708 and saying it looks like lightning (good job!), ... either way it's always nice to see another spark.
 
 Du Fay next talks about two distinct electricities, very different from one another. The first he called vitreous, which means "glass-like" and the other one "resinous". He then notes that vitreous electrics, such as glass, rock-crystal and wool repel other vitreous electrics while resinous, such as amber, silk, and paper, repels other resinous. And that vitreous and resinous attract each other. Two electrified silks will repel, two woolen threads will repel, but a silk and a wool, those attract. 
 
@@ -163,4 +163,6 @@ Everyone knows what a product is. A product is the totality of what a customer b
 
 We have the devices of electricity and wires, the separation between positive and negative, conductor and insulator, but no product has yet emerged. The time period between device and product is that of the enthusiast and hobbyist. It's the time before the first spreadsheet when people assembled personal computers from kits as a pasttime. 
 
-So next week we will go into the era when electricity was merely pasttime and party trick and before the first product of the electric era emerged.
+So next time we will go into the era when electricity was merely pasttime and party trick before the first product of the electric era emerged.
+
+<outro>
