@@ -80,7 +80,25 @@ These interesting experiments continued to be documented and spread and by the l
 
 The Germans, as a whole, occupied themselves with trying to get a more fervent and strong electric spark. As an aside, I know I just made a sweeping generalization. The generalization was made in Bakewell's 1853 text, Mottelay 1922, Priestley 1769, maybe it's not how we'd treat it in the 21st century but let's go with it for now. Germans equals giant sparks. Besides, I'm setting you up for something here that's necessary to get to very long wires by the end of this recording.
 
-So the first German is Boze outside of Hamburg in the north who used Stephen Gray's flying boy setup 
+So the first German is Boze outside of Hamburg in the north who invented the first "prime conductor", essentially a mechanism for accumulating and temporarily storing charge. Don't worry if you've never heard that term before, it essentially exited the english language as an electrical term by about 1920. Boze used globes and cylinders to accumulate the charge, the history of which we could go into with Otto Von Guericke and Hauksbee, but let's just say there is a mechanical process, a utilization of the electric and non-electric combintains, and a way to accumulate charge. Alright, Mr Winkler of Liepzig came up with another machine for the automated rubbing of the tubes we've been talking about and the globes, which we just talked about. His machine spun the globe at 180 rpm.
+
+The british followed in suit. They weren't satisfied with just one of these machines at a time though. Abbe Nollet, yeah there he is, worked with someone nemed Dr. Watson, who will be kinda important to our story proceeded to shock themselves so much that they bled. They noticed how the blood when electrified would ... they even kill small birds ... you know, we don't need to go into this. 
+
+Well actually we do. You see, this sounds like it's getting out of hand, people shocking themselves in a way that would knock them on their feet, machines with foot pedals and cranks that would accumulate charge but I promise, this is pocket change in comparison to what's coming next.
+
+And because suspense supposedly makes a good story, let's just make you wait until next time as mosey through other things the Germans did. Remember in 1.1 how we mentioned CM's bells where every letter was a different tone and the bells would be playing instead of words? Well the germans at this time are the ones who came up with that. The design really hasn't changed much ... you've seen them ... that circular saucer shaped thing with the small metal arm that has a ball at the end that whacks it  going "ding ding ding ding". That's 1700s tech.
+
+Another thing we get during this time is essentially a user-friendly version of the flying boy experiment. Hausen from Leipzig constructed a number of machines described by Watson used throughout Amsterdam and an small city called Leyden, where you'd have someone hanging by threads, another person on the rosin, then they would touch the spinning globe to build up the charge ... rinse wash and repeat stephen grey. I can imagine this at an 18th century carnival where two people go up, pay a small fee, get a couple shocks, light some things on fire with their fingers ... oh wait, that actually kinda happened and happens to be the entire topic of the next episode along with the thing I'm cautiously saving.
+
+Ok so skipping over next week's fun parts we're going to be like an old movie where they just did a cutaway and kinda explained things later. Bam, we have a leyden jar. This device was essentially the first capacitor. It could hold charge, a lot of charge. And it could be transported around.
+
+This means you could use your german accumulation machine built around a "prime conductor" to charge your magical leyden jar and then as long as you didn't break one simple rule you could relatively safely discharge electricity wherever you pleased.  This was a great tool for experimentation.
+
+
+So we're going to save the details 
+By means of a cork, 
+
+The kind of sparks he was able to generate 
 Kleist Berlin Liberkuhn
 
 
@@ -107,7 +125,7 @@ It's time to refile that now though. Franklin won the Copley medal, the same one
 
 So after all that praise, we are actually going to skip right over Franklin because we're focused exclusively on our journey to a working telegraph and Franklin doesn't actually play a role in that story. Don't worry, he will pop up again later. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s. I do actually intend on eventually getting to things like strowger switches and reed relays, designed in the 1930s for telephone switches and arguably the first computer memory, sometime before an expanding sun swallows the earth. 
 
-Alright ok, one thing about Franklin. Franklin greatly expanded upon Du Fay's observation of vitreous and resinous electricity and felt forced to give them a more generalized name, one that we still use today: positive, and negative.
+Alright ok, one thing about Franklin. Franklin greatly expanded upon Du Fay's observation of vitreous and resinous electricity and felt forced to give them a more generalized name, one that we still use today: positive, and negative. Well kinda. Watson used a plus and minus in diagrams for simplicity purposes and Franklin was like "ok, that makes sense. Positive and Negative it is! Sorry DuFay, your resinous and vitreous came and went in a single episode"
 
 A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances
 Acta Eruditorum
