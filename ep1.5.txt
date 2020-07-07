@@ -31,33 +31,8 @@ James Cawthorn, The Vanity Of Human Enjoyment, 1749.
 
 <intro>
 
-Start with gray
-Du Fay
-  "vitreous" and "resinous" --- was this desaguliers? Wikipedia says dufay
-  - du fay is 1733, that's pretty good.
-Distractions here:
-  Hausen's Electric machine
-  Leyden jar
-  Magnetic needle
-Watson
-  Used positive and negative, observation that it wasn't the glass that was the convoy
-  Water tests
-M. Boze - german scientist
-  Did the hanging by strings test
-
-Boze?
-Abbe Noller?
-  Dr . Watson , in 1747 , in the presence of many scientific persons , transmitted the power through 2800 feet of wire and 8000 feet of water , thus employing in his experiments the use of the earth circuit . Afterwards , on the 14th of August , 1747 , Dr . Watson conducted an experiment on a much larger scale at Shooter ' s Hill . The wire was insulated by baked wood , and was 10 , 600 feet or nearly 2 miles long .
-
-  The electric telegraph: its history and progress – Edward Highton
-
-Move to Desaguliers?
-  Conductors and Insulators (electrics and non-electrics)
-Dufay
-  Resinous and Vitreous
-  Negative and Positive
-
 Hello and welcome to computing history episode 1.5, the journey to the electric wire part deux.
+
 In 1.3 we went over two, and now I'm showing my cards, carefully cherry picked publications by Stephen Gray; the first one involving children suspended by what he called hairlines and the second being a long line of thread being switchbacked to show that electricity follows the line all the way to its end.
 
 We also talked about how Gray's experiments were really easy to reproduce, unlike say, Francis Hauksbee's air pump, a device to create a small ball without any air in it to run vacuum measurements. The air pump was pretty useful but apparently quite costly to make. Many early scientists talked about having to borrow other people's pumps and how some of them kinda didn't work very well. Not with Gray though. Suspending someone with some thread? Totally doable. A long line of thread suspended by silk? Yes, that too.
@@ -97,7 +72,17 @@ Du Fay next talks about two distinct electricities, very different from one anot
 
 There's even more but really, we just collected everything we came for so we must move on.
 
-We now return to London to visit our old friend Dr. Desaguliers. It's 1739 and Stephen Gray is no longer with us. 
+We now return to London to visit our old friend Dr. Desaguliers. It's around about 1736 or so and Stephen Gray has passed on. Desaguliers was a great scientist sure, but as we'll be seeing, this is one of the first real ages of the celebrity scientist, like say Neil deGrasse Tyson or Carl Sagan.  These scientists are more importantly evangelists of science who spread the findings and the practice.
+
+Desaguliers main contribution is his division of objects into electrics and non-electrics, what we today call insulators and conductors. I know that sounded backwards but it's correct. He also started working on the second English language book concerning electricity, which I briefly mentioned in 1.3 - the first being by Boyle in 1675. Without the popularizers like Desaguliers we wouldn't have gotten things like the Scots Magazine article about 15 years later.
+
+These interesting experiments continued to be documented and spread and by the late 1730s, the Germans are getting in on the action. Now for all the history nerds out there, yes, there technically is no Germany yet. And for the rest of you, Germany in the 1700s is a complete mess, you have the holy roman empire, saxony, bavaria, the austrian netherlands, hanover, brandenburg, and oh yeah, the hungarians had a good chunk of things as well ... Instead of trying to get any of this correct, when we talk about the scientists of central europe we're going to use whatever nationality english texts of the time referred to them as. I think that's fair. Same things go with the Italians, which is even messier. In fact, the two little enclaves of San Marino and Vatican City still haven't hopped on the Italian unification train.
+
+The Germans, as a whole, occupied themselves with trying to get a more fervent and strong electric spark. As an aside, I know I just made a sweeping generalization. The generalization was made in Bakewell's 1853 text, Mottelay 1922, Priestley 1769, maybe it's not how we'd treat it in the 21st century but let's go with it for now. Germans equals giant sparks. Besides, I'm setting you up for something here that's necessary to get to very long wires by the end of this recording.
+
+So the first German is Boze outside of Hamburg in the north who used Stephen Gray's flying boy setup 
+Kleist Berlin Liberkuhn
+
 
 <introduce leyden phial/jar before this>
 
@@ -107,8 +92,7 @@ distances than possible with directly hand-generated electrostatic charges. In 1
 a Leyden jar a distance of 900 toises
 
 
-It wasn't just the English and French having all the Science fun here. The Germans are also going to get in on the action. Now for all the history nerds out there, yes, there technically is no Germany yet. And for the rest of you, Germany in the 1700s is a complete mess, you have the holy roman empire, saxony, bavaria, the austrian netherlands, hanover, brandenburg, and oh yeah, the hungarians had a good chunk of things as well ... Instead of trying to get any of this correct, when we talk about the scientists of central europe we're going to use whatever nationality english texts of the time referred to them as. I think that's fair. Same things go with the Italians, which is even messier. In fact, the two little enclaves of San Marino and Vatican City still haven't hopped on the Italian unification train.
-
+Louis-Guillaume le Monnier’s 1746
 
 Watson 1747, Thames river
 
@@ -162,3 +146,29 @@ We have the devices of electricity and wires, the separation between positive an
 So next time we will go into the era when electricity was merely pasttime and party trick before the first product of the electric era emerged.
 
 <outro>
+
+Start with gray
+Du Fay
+  "vitreous" and "resinous" --- was this desaguliers? Wikipedia says dufay
+  - du fay is 1733, that's pretty good.
+Distractions here:
+  Hausen's Electric machine
+  Leyden jar
+  Magnetic needle
+Watson
+  Used positive and negative, observation that it wasn't the glass that was the convoy
+  Water tests
+M. Boze - german scientist
+  Did the hanging by strings test
+
+Boze?
+Abbe Noller?
+  Dr . Watson , in 1747 , in the presence of many scientific persons , transmitted the power through 2800 feet of wire and 8000 feet of water , thus employing in his experiments the use of the earth circuit . Afterwards , on the 14th of August , 1747 , Dr . Watson conducted an experiment on a much larger scale at Shooter ' s Hill . The wire was insulated by baked wood , and was 10 , 600 feet or nearly 2 miles long .
+
+  The electric telegraph: its history and progress – Edward Highton
+
+Move to Desaguliers?
+  Conductors and Insulators (electrics and non-electrics)
+Dufay
+  Resinous and Vitreous
+  Negative and Positive
