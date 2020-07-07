@@ -1,0 +1,44 @@
+#!/bin/bash
+
+BASE=$HOME/raid/research/JSTOR_01_PhilTrans
+meta=$BASE/PRE_1923_METADATA 
+pdf=$BASE/PRE_1923_PDF
+verb=$1
+noun=$2
+opts=$3
+all="file,author,pubyear,title"
+order="order by pubyear desc,volume desc, issue desc"
+
+onel() {
+    sqlite3 $meta/database.db <<- ENDL
+.mode line
+$1;
+ENDL
+}
+
+if [[ $verb == 'info' ]]
+then
+  while [[ $# -gt 2 ]]
+  do
+    echo
+    phil info $2
+    shift
+  done
+
+  noun=${noun/pdf/txt}
+  onel "select $all from records where file like '%$noun%'"
+elif [[ $verb == 'author' ]]
+then
+  if [[ $opts == 'all' ]]
+  then
+    onel "select $all from records where author like '%$noun%' $order"
+  else
+    sqlite3 $meta/database.db "select file from records where author like '%$noun%' $order";
+  fi
+elif [[ $verb == 'open' ]]
+then  
+  noun=${noun/txt/pdf}
+  evince $pdf/$noun &
+fi
+
+
