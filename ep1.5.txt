@@ -94,6 +94,25 @@ Ok so skipping over next time's fun parts we're going to be like an old movie wh
 
 This means you could use your german accumulation machine built around a "prime conductor" to charge your magical leyden jar and then as long as you didn't break one simple rule you could relatively safely discharge electricity wherever you pleased.  This was a great tool for experimentation.
 
+So let's go to 1748 where Watson set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, supposedly named because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been at about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's not terrible. 
+
+So here he is with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
+
+How would he detect it? Well this is the 1740s so he'd hold the wires of course, one in each hand, and the the observer would be the thing completing the circuit. Then people would be watching for him to convulse in shock by being electrocuted and see if there's a noticable delay between the two events. Yes, this is what we are doing. Over a dozen people most of which who have PhDs including the countries leading astronomer, the president of the royal society ... here's what we're doing today. Alright.
+
+So they set about setting up iron the experiment using silk suspended from wooden stakes and switchbacks of exposed iron wire criss-crossing back and forth down a field about 2 city blocks long (Watson claims 726 feet).
+
+So it took them all day and by nightfall they made sure that the wire wasn't touching the wood because the dew would lead to moisture and, I quote "the electrictrical circuit might be shortened" or what we would call "a short circuit".
+
+Anyway, the next morning they now had a Leyden jar, or what they called a "Leyden phial" at the time, zig zagging wires traversing down a field and a small space for a brave volunteer to go over and hold the two ends.  Watson refers to these people as just "men" which makes me think that none of his entourage was willing to take the hit for science. Anway let's quote Watson:
+"When all parts of the apparatus were properly disposed, several explosions of the charged phial were made; and it was invariably seen (podcasters note, this means they did it a bunch of times), that the Observer holding in each Hand one of the extremeties of these wires was confulsed in both his arms in the instant of making the Explosions!"
+
+He did another variations where he had 4 men, holding hands, and two on either end holding the wire just to make sure there's not like some kind of human variation in this. Watson excitedly writes: "They were all seen convulsed in the instant of the explosion. Every one who felt it complained of the severity of the shock". 
+
+What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig, Lemonnier in Paris and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London
+
+---
+
 And next we're going to go over why this podcast is 3 days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
 
 "Watson, in 1745, proves that the electric fluid takes the shortest course, passing through the substance of the best medium of connection and not along its surface.  This, he demonstrated by discharging a phial through a wire covered with a mixture of wax and resin."
@@ -109,6 +128,7 @@ a Leyden jar a distance of 900 toises
 Louis-Guillaume le Monnier’s 1746
 
 Watson 1747, Thames river
+
 
 If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
 
