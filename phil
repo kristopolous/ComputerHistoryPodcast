@@ -10,6 +10,7 @@ all="file,author,pubyear,title"
 order="order by pubyear desc,volume desc, issue desc"
 
 onel() {
+  echo $1
     sqlite3 $meta/database.db <<- ENDL
 .mode line
 $1;
@@ -27,6 +28,9 @@ then
 
   noun=${noun/pdf/txt}
   onel "select $all from records where file like '%$noun%'"
+elif [[ $verb == 'title' ]]
+then
+  onel "select $all from records where title like '%$noun%' $order"
 elif [[ $verb == 'author' ]]
 then
   if [[ $opts == 'all' ]]

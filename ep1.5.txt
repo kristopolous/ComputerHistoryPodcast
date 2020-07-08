@@ -94,6 +94,14 @@ Ok so skipping over next time's fun parts we're going to be like an old movie wh
 
 This means you could use your german accumulation machine built around a "prime conductor" to charge your magical leyden jar and then as long as you didn't break one simple rule you could relatively safely discharge electricity wherever you pleased.  This was a great tool for experimentation.
 
+And next we're going to go over why this podcast is 3 days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
+
+"Watson, in 1745, proves that the electric fluid takes the shortest course, passing through the substance of the best medium of connection and not along its surface.  This, he demonstrated by discharging a phial through a wire covered with a mixture of wax and resin."
+
+And there it is. That looks like our first insulated wire. But here's the problem. He lists literally 50 references for that section. I read through all of them. That was on Saturday. The description of a wire with wax and resin in 1745 is in none of them. I checked twice, that was Sunday. On Monday I looked for where he could have got this idea. I started searching essentially small phrases of the paragraph to see if the words came up elsewhere. I found out that Mottelay kinda plagerized a sentence from the 1841 Encyclopedia Britanica. I continued searching and then I found an error in Mottley's citations! I believe he erroneously cited "Experiments and Observations on Electricity" when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity" - these are two different books. After 4 days of exhaustive searching through catalogs, I found the original citation he meant to use. I read all of it. It was close but still not there. So I'm going to just trust Motteley here. I have been unable to find an original document describing the idea of an insulated wire. If I do stumble across it in the future, I'll come back and edit this. Sorry kids, I tried here, I really did.
+
+Regardless, we know that's what Watson did for his later experiments.  He stops the silk drapings of thread and moves over to insulated wire. I just cannot find, for the life of me, the first time he talked about it in writing. Nor after exhaustive searching have I found anyone else staking the claim nor have I found any instance of insulated wire prior to 1746. So it happened, here, maybe it was never described in a journal and just demonstrated as a technique in person. I really don't know. Mottely spent about 40 years on this book, so I have to trust that it's somewhere, I just don't know where.
+
 distances than possible with directly hand-generated electrostatic charges. In 1746, Nollet transmitted the charge of
 a Leyden jar a distance of 900 toises
 
