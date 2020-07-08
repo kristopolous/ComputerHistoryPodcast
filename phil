@@ -30,7 +30,12 @@ then
   onel "select $all from records where file like '%$noun%'"
 elif [[ $verb == 'title' ]]
 then
-  onel "select $all from records where title like '%$noun%' $order"
+  if [[ $opts == 'title' ]]
+  then
+    sqlite3 $meta/database.db "select file from records where title like '%$noun%' $order"
+  else
+    onel "select $all from records where title like '%$noun%' $order"
+  fi
 elif [[ $verb == 'author' ]]
 then
   if [[ $opts == 'all' ]]
