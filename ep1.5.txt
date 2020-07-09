@@ -62,7 +62,7 @@ So Gray made a correct, repeatable observation, but drew from it the wrong concl
 
 But wait, we're only 1/3 through Du Fay's paper.  Next he does Gray's packthread line experiment but Du Fay has the idea that by wetting the thread he could get a better connection. Then using glass tubes instead of silk for better support, Du Fay makes 8 returns through a garden. He achieves 1256 feet in high winds even, which is around twice what Gray did. Now Du Fay doesn't actually mention *which* garden he was using but he did say, 8 returns, crossed over 2 sidewalks, 1256 feet. So I looked up old maps of the royal garden and yes, there was an obvious long clearing about 160 feet wide crossing over 2 sidewalks so he probably did it at his office. It's cool Du Fay, I'm not going to run off and tell King Louis XIII, don't worry. Investigative reporting on a mostly irrelevant 287 year old science experiment, you must be tuning into the Computing History podcast. 
 
-By the way, the old map I'm using is called the Turgot Map of Paris, which wasn't made by Turgot, he's just the dude who paid for it. Louis Bretez, the actual guy took two years between 1734 and 1736 to make this map. He produced a 20 secdion map that when assembled is 8 by 10 feet. You can find it online but it's about gigapixel and a gigabyte, which means you need to know what you're doing to browse it.  I made an easily zoomable and pannable version of the map. The link for you to view this fantastic isometric map of 1730s is at comphistpod.com
+By the way, the old map I'm using is called the Turgot Map of Paris, which wasn't made by Turgot, he's just the dude who paid for it. Louis Bretez, the actual guy took two years between 1734 and 1736 to make this map. He produced a 20 secdion map that when assembled is 8 by 10 feet. You can find it online but it's about gigapixel and a gigabyte, which means you need to know what you're doing to browse it.  I made an easily zoomable and pannable version of the map. The link for you to view this fantastic isometric map of 1730s is at comphistpod.com. It's also annotated with the places mentioned in this episode.
 
 Moving on, Du Fay also suspended a child and repeated Gray's experiments. But then he took it a step further and suspended himself by the silk lines as well. And I'm going to quote the next part because it's important:
 
@@ -132,26 +132,43 @@ What an 18th century way to refer to people screaming expletives. This experimen
 
 ---
 
-And next we're going to go over why this podcast is 3 days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
+And next we're going to go over why this podcast is 5 days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
 
 "Watson, in 1745, proves that the electric fluid takes the shortest course, passing through the substance of the best medium of connection and not along its surface.  This, he demonstrated by discharging a phial through a wire covered with a mixture of wax and resin."
 
-And there it is. That looks like our first insulated wire. But here's the problem. He lists literally 50 references for that section. I read through all of them. That was on Saturday. The description of a wire with wax and resin in 1745 is in none of them. I checked twice, that was Sunday. On Monday I looked for where he could have got this idea. I started searching essentially small phrases of the paragraph to see if the words came up elsewhere. I found out that Mottelay kinda plagerized a sentence from the 1841 Encyclopedia Britanica. I continued searching and then I found an error in Mottley's citations! I believe he erroneously cited "Experiments and Observations on Electricity" when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity" - these are two different books. After 4 days of exhaustive searching through catalogs, I found the original citation he meant to use. I read all of it. It was close but still not there. So I'm going to just trust Motteley here. I have been unable to find an original document describing the idea of an insulated wire. If I do stumble across it in the future, I'll come back and edit this. Sorry kids, I tried here, I really did.
+And there it is. That looks like our first insulated wire. But here's the problem. He lists literally 50 references for that section. I read through all of them. That was on Saturday. The description of a wire with wax and resin in 1745 is in none of them. I checked twice, that was Sunday. On Monday I looked for where he could have got this idea. I started searching essentially small phrases of the paragraph to see if the words came up elsewhere. I found out that Mottelay kinda plagerized a sentence from the 1841 Encyclopedia Britanica. I continued searching and then I found an error in Mottley's citations! I believe he erroneously cited "Experiments and Observations on Electricity" when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity" - these are two different books. I have been unable to find an original document describing the idea of an insulated wire.
 
-Regardless, we know that's what Watson did for his later experiments.  He stops the silk drapings of thread and moves over to insulated wire. I just cannot find, for the life of me, the first time he talked about it in writing. Nor after exhaustive searching have I found anyone else staking the claim nor have I found any instance of insulated wire prior to 1746. So it happened, here, maybe it was never described in a journal and just demonstrated as a technique in person. I really don't know. Mottely spent about 40 years on this book, so I have to trust that it's somewhere, I just don't know where.
+I'm going to say something really bold here: Mottelay made this up. "Now just because you can't find it" you finger wag at me but look, the leyden jar itself was insulated with wax and other materials, the prime conductor was also insulated. It's not like they didn't know how to do this. In 1737 there's a paper describing a rod of iron with sealing wax as a supporter and the electricity passing through it.
+In "The Philosophical Transactions" abridgement for 1743 to 1750, edited by John Martin, there's this description on page 276:
 
-distances than possible with directly hand-generated electrostatic charges. In 1746, Nollet transmitted the charge of
-a Leyden jar a distance of 900 toises
+"a small glass, tube is fixed, thro' which an iron wire,  reaches to the middle of the glass
+vessel, an exceeding small space being between the vessel and the wire.
+The tube and the wire are so strongly cemented with sealing-wax, that
+no air can penetrate."
 
+There was no real use-case of stable wire that needed to stick arond for months or years, there was no reason to carefully insulate things. It was used to conduct an experiment or do a demonstration and then pack up and go. 
 
-Watson 1747, Thames river
+The only thing they really cared about was not inadvertantly shocking themselves when they weren't planning on it. There were many insulations for doing it.  In 1767, CL Epinasse even provided a recipe in 
+"Description of an Improved Apparatus for Performing Electrical Experiments, in Which the Electrical Power is Increased, the Operator Intirely Secured from Receiving Any Any Accidental Shocks, and the Whole Rendered More Convenient for Experiments Than Heretofore"
 
+Here you can do this at home,
 
-If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
+Take 4lb of Venice turpentine, 1lb of resin, 1lb of bee's wax; boil these over a gentle fire, stirring them now and then for about six hours, at the end of which, stir in a quarter of a pound of vermilion, ou : then, a little of the mixture being taken
+out and left to cool, will be hard and brittle ; a token that it is fit for use. Having well heated your globe or cylinder, pour the melted mixture into it ; turn the cylinder about so as to spread it evenly over the inside surface to the thickness of a sixpence, and let it cool very gradually."
 
-Franklin comes in through Watson's Experiements.
+The recommendations to this for actual wires started appearing in the late 1700s and early 1800s as applications for a stable installation of electricity became necessary. 
 
-Also I must point out that Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
+So this is a great example of how people with modern eyes will so desperately want to see something that really, in the context of the historical times, didn't make much sense. 
+
+The electrical wire is here and done. The stable electric network is still far off in the future.
+
+So are we done? 
+
+ALMOST.
+
+I have to talk about Benjamin Franklin. Well Kind of. Just like Watson duplicated LeMonnier, Franklin duplicated Watson. He too had Leyden Jars but he was electrocuting new world animals like wild turkeys.
+
+Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
 flying the kite with the key in the lightning storm when we were children and you can be forgiven if you just filed this away with Washington's Cherry Tree and Johnny Appleseed as fun stories we tell children. I forgive you as well. 
 
 It's time to refile that now though. Franklin won the Copley medal, the same one that Desaguliers and Gray won, for his work on Electricity. He did a number of publications in Philosophical Transactions concerning electricity. He had 17 publications in the journal in fact, a highly respectable number seeing as I could never in my wildest dreams even fathom getting just 1.  Franklin's electricity work is so important, in fact, that texts written before the American Revolution on the history of Electricity, such as say The History and Present State of Electricity, with Original Experiments, by Joseph Priestley, from 1769, Franklin's experiments in Philadelphia play pivotal roles.  For instance, Priestly title's Chapter 8 as "The history of electricity from the discovery of the Leyden phial in the years 1745 and 1746, till Dr. Franklin's Discoveries' and then writes all of Chapter 9 about Franklin, and concludes the book about the new ways people looked at electricity in a post Franklin world. Now remember, this is before the American Revolution, 1769, these aren't people star struck by his politics doing classical mythmaking.
@@ -170,6 +187,8 @@ We have the devices of electricity and wires, the separation between positive an
 
 So next time we will go into the era when electricity was merely pasttime and party trick before the first product of the electric era emerged.
 
+Yes, we're done for real now. Phew, I'm exhuasted.
+
 <outro>
 
 Joseph Franz Vienna 1500 feet iron wire
@@ -185,4 +204,11 @@ The electric telegraph: its history and progress – Edward Highton
 
 The kind of sparks he was able to generate 
 Kleist Berlin Liberkuhn
+
+distances than possible with directly hand-generated electrostatic charges. In 1746, Nollet transmitted the charge of
+a Leyden jar a distance of 900 toises
+
+
+
+If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
 
