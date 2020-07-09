@@ -60,7 +60,9 @@ Alright, I hope you had a fun time thinking that through. Du Fay used a prism. H
 
 So Gray made a correct, repeatable observation, but drew from it the wrong conclusion. This is great science. I'm excited, are you? Good, me too!
 
-But wait, we're only 1/3 through Du Fay's paper.  Next he does Gray's packthread line experiment but Du Fay has the idea that by wetting the thread he could get a better connection. Then using glass tubes instead of silk for better support, Du Fay makes 8 returns through a garden. He achieves 1256 feet in high winds even, which is around twice what Gray did. Now Du Fay doesn't actually mention *which* garden he was using but he did say, 8 returns, crossed over 2 sidewalks, 1256 feet. So I looked up old maps of the royal garden and yes, there was an obvious long clearing about 160 feet wide crossing over 2 sidewalks so he probably did it at his office. It's cool Du Fay, I'm not going to run off and tell King Louis XIII, don't worry. Investigative reporting on a mostly irrelevant 287 year old science experiment, you must be tuning into the Computing History podcast.
+But wait, we're only 1/3 through Du Fay's paper.  Next he does Gray's packthread line experiment but Du Fay has the idea that by wetting the thread he could get a better connection. Then using glass tubes instead of silk for better support, Du Fay makes 8 returns through a garden. He achieves 1256 feet in high winds even, which is around twice what Gray did. Now Du Fay doesn't actually mention *which* garden he was using but he did say, 8 returns, crossed over 2 sidewalks, 1256 feet. So I looked up old maps of the royal garden and yes, there was an obvious long clearing about 160 feet wide crossing over 2 sidewalks so he probably did it at his office. It's cool Du Fay, I'm not going to run off and tell King Louis XIII, don't worry. Investigative reporting on a mostly irrelevant 287 year old science experiment, you must be tuning into the Computing History podcast. 
+
+By the way, the old map I'm using is called the Turgot Map of Paris, which wasn't made by Turgot, he's just the dude who paid for it. Louis Bretez, the actual guy took two years between 1734 and 1736 to make this map. He produced a 20 secdion map that when assembled is 8 by 10 feet. You can find it online but it's about gigapixel and a gigabyte, which means you need to know what you're doing to browse it.  I made an easily zoomable and pannable version of the map. The link for you to view this fantastic isometric map of 1730s is at comphistpod.com
 
 Moving on, Du Fay also suspended a child and repeated Gray's experiments. But then he took it a step further and suspended himself by the silk lines as well. And I'm going to quote the next part because it's important:
 
@@ -94,6 +96,23 @@ Ok so skipping over next time's fun parts we're going to be like an old movie wh
 
 This means you could use your german accumulation machine built around a "prime conductor" to charge your magical leyden jar and then as long as you didn't break one simple rule you could relatively safely discharge electricity wherever you pleased.  This was a great tool for experimentation.
 
+So by 1746, you had a number of interesting findings already. On Nov 12, 1746 Louis-Guillaume Le Monnier spoke at the Royal Academy of Sciences in Paris concerning his latest findings. These were then transcribed in December in English to Philosophical Transactions. This first notable thing is he describes a wire about 2000 french toises, that is to say a paris league, or near two english miles and a half, and that's a quote, with some of it dragged on wet grass and ground newly ploughed up. But he still got a connection, so yeah, electricity over 2 miles.
+
+Le Monnier also did an experiment over what he called the Bason of the Thuilleries which is a giant fountain, well more of a reflection pond, that still exists in the Tuileries garden, this is in the super touristy part of Paris, near arc de triomphe so you may even have a photo of this thing if being a tourist in Paris is something you've done. 
+
+So the diameter of this pond is about as wide as a jumbo jet wingspan, about 205 feet, just so we know what we're dealing with. We go to Le Monnier, "there was stretched around half the circumference of the bason, an iron chain, which was entirely out of the water". There's two people standing across from each other, pond in between. They are holding the chain. One of them has his hand in the water and the other one has one of these oh so dangerous leyden jars and what's he doing here? he has a yes, iron rod fixed to some cork which is floating on top of the pond. Now if he touches the leyden jar upon the iron rod, and no shock happens, that means the water is not closing the circuit. If he touches the rod with the leyden jar and they both receive a shock, then the electricity goes over the wire. Let's see what happens. Both men get violently shocked. Success.
+
+Anyway, this is probably another something we could try to recreate, like the fishing pole from the monument to great fire of london I suggested in 1.3, on second thought, let's not.
+
+And finally on trying to determine the speed of electricity, Le Monnier used a mile of wire and himself to complete the circuit. After repeatedly shocking himself, he concluded electricity moved far too fast for him to measure, "at least 30 times the speed of sound".
+
+Back in London, Watson does a series of several meetings in 1747 resulting in a 72 page article. Our journey to the electric wire is almost complete.
+I'm going to leave out some of his wordiness and quote Watons as follow:
+
+"This Circuit is always described in the shortest manner possible; but if the components conduct differently, this circuit is always formed through the best conductor, however great its length is"
+Moving on...
+"Metals conduct best the electrical powers. Water likewise is an admirable Conductor; for the electrical power makes no difference between solids and fluids as such but only as they are non-electric matter"
+
 So let's go to 1748 where Watson set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, supposedly named because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been at about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's not terrible. 
 
 So here he is with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
@@ -124,8 +143,6 @@ Regardless, we know that's what Watson did for his later experiments.  He stops 
 distances than possible with directly hand-generated electrostatic charges. In 1746, Nollet transmitted the charge of
 a Leyden jar a distance of 900 toises
 
-
-Louis-Guillaume le Monnier’s 1746
 
 Watson 1747, Thames river
 
@@ -164,10 +181,6 @@ Dr . Watson , in 1747 , in the presence of many scientific persons , transmitted
 The electric telegraph: its history and progress – Edward Highton
 
 ---
-
-Watson
-  Used positive and negative, observation that it wasn't the glass that was the convoy
-  Water tests
 
 
 The kind of sparks he was able to generate 
