@@ -102,22 +102,27 @@ The leyden jar meant you could use your German electricity accumulation machine 
 
 So merely a year after its introduction, by 1746, you had a number of interesting findings already. On Nov 12, 1746 Louis-Guillaume Le Monnier spoke at the Royal Academy of Sciences in Paris concerning his latest findings. These were then transcribed in December in English to Philosophical Transactions. This first notable thing he describes is a wire about 2000 french toises, that is to say a paris league, or near two english miles and a half, with some of it dragged on wet grass and ground newly ploughed up. But he still got a connection, so yeah, electricity traversed over 2 miles.
 
-Le Monnier also did an experiment over what he called the Bason of the Thuilleries which is a giant fountain, well more of a reflection pond, that still exists in the Tuileries garden, this is in the super touristy part of Paris, near arc de triomphe so you may even have a photo of this thing if being a tourist in Paris is something you've done. It's also annotated on the map I talked about before.
+Le Monnier also did an experiment over what he called the Bason of the Thuilleries which is a giant fountain, well more of a reflection pond, that still exists in the Tuileries garden, this is in the super touristy part of Paris, near arc de triomphe so you may even have a photo of this thing if being a tourist in Paris is something you've done. It's also annotated on the map I talked about before.  His purpose here was to try to find out more about how electricity is propagated and distributed. 
 
 So the diameter of this pond is about as wide as a jumbo jet wingspan, about 205 feet, just so we know what we're dealing with. We go to Le Monnier's text, "there was stretched around half the circumference of the bason, an iron chain, which was entirely out of the water". Now there's two people standing across from each other, pond in between. They are holding the chain. One of them has his hand in the water and the other one has one of these oh so dangerous leyden jars and what's he doing here? he has a yes, iron rod fixed to some cork which is floating on top of the pond. Now if he touches the leyden jar upon the iron rod, and no shock happens, that means the water is not closing the circuit. If he touches the rod with the leyden jar and they both receive a shock, then the electricity goes over the wire. Let's see what happens. Both men get violently shocked. Success.
 
 Anyway, this is probably another something we could try to recreate, like the fishing pole from the monument to great fire of london I suggested in 1.3, on second thought, let's not.
 
-And finally on trying to determine the speed of electricity, Le Monnier used a mile of wire and himself to complete the circuit. After repeatedly shocking himself, he concluded electricity moved far too fast for him to measure, "at least 30 times the speed of sound".
+And finally on trying to determine the speed of electricity, Le Monnier used a mile of wire and himself to complete the circuit. After repeatedly shocking himself, he concluded electricity moved far too fast for him to measure, not even a quarter second had passed until he felt the shock. From this he invers a velocity "at least 30 times the speed of sound". 
 
-Back in London, Watson does a series of several meetings in 1747 resulting in a 72 page article. Our journey to the electric wire is almost complete.
-I'm going to leave out some of his wordiness and quote Watons as follow:
+Why then he even says "given the swiftness of the electric effluvia, it would be quite suitable to build machines of computation based on its propagation" -- I kid I kid, that last part absolutely did not happen.
+
+Back in London, Watson does a series of several meetings in 1747 resulting in a 72 page article. Our journey to the electric wire is almost complete or did it just happen?
+
+Anyway, I'm going to leave out some of his wordiness and quote Watson as follow:
 
 "This Circuit is always described in the shortest manner possible; but if the components conduct differently, this circuit is always formed through the best conductor, however great its length is"
 Moving on...
 "Metals conduct best the electrical powers. Water likewise is an admirable Conductor; for the electrical power makes no difference between solids and fluids as such but only as they are non-electric matter"
 
-So let's go to 1748 where Watson set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, supposedly named because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been at about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's not terrible. 
+Keeping with the theme of "copy and expand" experimentation, Watson essentially copies Le Monnier's experiments I previously described
+
+In 1748 where Watson set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, supposedly named because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been at about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's not terrible. 
 
 So here he is with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
 
@@ -209,8 +214,6 @@ The electric telegraph: its history and progress – Edward Highton
 The kind of sparks he was able to generate 
 Kleist Berlin Liberkuhn
 
-distances than possible with directly hand-generated electrostatic charges. In 1746, Nollet transmitted the charge of
-a Leyden jar a distance of 900 toises
 
 
 
