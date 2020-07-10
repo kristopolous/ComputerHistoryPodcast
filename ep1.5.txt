@@ -106,6 +106,8 @@ Le Monnier also did an experiment over what he called the Bason of the Thuilleri
 
 So the diameter of this pond is about as wide as a jumbo jet wingspan, about 205 feet, just so we know what we're dealing with. We go to Le Monnier's text, "there was stretched around half the circumference of the bason, an iron chain, which was entirely out of the water". Now there's two people standing across from each other, pond in between. They are holding the chain. One of them has his hand in the water and the other one has one of these oh so dangerous leyden jars and what's he doing here? he has a yes, iron rod fixed to some cork which is floating on top of the pond. Now if he touches the leyden jar upon the iron rod, and no shock happens, that means the water is not closing the circuit. If he touches the rod with the leyden jar and they both receive a shock, then the electricity goes over the wire. Let's see what happens. Both men get violently shocked. Success.
 
+Turns out there's other, smaller fountains at the Thuilleries as well, at the other end of the park. So just to confirm, Le Monnier did the experiment at both the smaller fountains, simultaneously, just to see if the humans conducting the experiments introduced any variations.
+
 Anyway, this is probably another something we could try to recreate, like the fishing pole from the monument to great fire of london I suggested in 1.3, on second thought, let's not.
 
 And finally on trying to determine the speed of electricity, instead of 200 monks, Le Monnier used a mile of wire and himself to complete the circuit. After repeatedly shocking himself, he concluded electricity moved far too fast for him to measure, not even a quarter second had passed until he felt the shock. From this he infers a velocity "at least 30 times the speed of sound". 
@@ -122,9 +124,9 @@ Moving on...
 
 Keeping with the theme of "copy and expand" experimentation, Watson essentially copies Le Monnier's experiments I previously described
 
-In 1748 Watson also set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, which supposedly got its name because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been to about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's pretty good. In fact you can web search for "shooters hill view" and get some nice pictures of london.
+In 1748 Watson also set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, which supposedly got its name because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been to about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's pretty good. In fact you can web search for "shooters hill view" and get some nice pictures of london. 
 
-So here Watson is with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
+So Shooters Hill. Watson is there with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
 
 How would he detect it? Well this is the 1740s so he'd hold the wires of course, one in each hand, and the observer would be the thing completing the circuit. Then people would be watching for him to convulse in shock by being electrocuted and see if there's a noticable delay between the two events. Yes, this is what we are doing. Over a dozen people most of which who have PhDs including the countries leading astronomer, the president of the royal society ... here's what we're doing today. Alright.
 
@@ -137,13 +139,26 @@ Anyway, the next morning they now had a Leyden jar, or what they called a "Leyde
 
 He did another variation where he had 4 men, holding hands, and two on either end holding the wire just to make sure there's not like some kind of human difference in electric convulsion. Watson excitedly writes: "They were all seen convulsed in the instant of the explosion. Every one who felt it complained of the severity of the shock". 
 
-What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig, Lemonnier in Paris and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London
+What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London.
 
 So Watson also tried to replicate Le Monnier's pond. But just like with the wire, he decided to do this one also on a grander scale. So grand that it kinda got the best of him.
 
 So the Thames river, if you've never been to London, I forgive you. It goes right through the center of town. In fact, it's more like London was built on the Thames than the Thames happening to have gone through London. This is kinda how old cities worked. For instance, Cambridge. There's a river cam and someone made a bridge. In fact most of the old buildings in Cambridge aren't facing the roads but the river as that was a more reasonable way to get around back in the day. So take one of the boat tours if you ever find yourself in Cambridge. Really.
 
-Anyway, back to the river Thames in London.
+Anyway, back to the river Thames in London. To understand a bit more about this experiment, I'll have to oh so briefly crack open the 18th century electromagnetic theory books. Du Fay thought electricity was a fluid and operated like other fluids. You could possibly dilute it, concentrate it, heat it and cool it. This isn't a terrible idea. If something is statically charged, you can rub the property off. If you heat or cool something it has different electrical properties. You can certainly accumulate charge and the size of the things you use look like they bare some relation to things. So given the evidence up to this time, it wasn't a totally crazy idea.
+
+So we have to walk into this thinking "Electricity, yeah, it's a really strange fluid". So now we can get into Watson's paragraph:
+
+"it was conjectured, as no circuit had as yet been found large enough so to dissipate the electrical power as not to make it perceptible (again, assuming this is how things worked), an observer might be made sensible of the electrical commotion quite across the river thames, by the communication of no other medium than the water of the river."
+
+So the idea here was "ok, so we assume electricity is a fluid, Le monnier used a couple fountains and it was felt across. What if we use a 5,000 square mile river?"
+
+And of course I'm bringing this up because it wasn't just an intellectual exercise. He wanted to draw conclusions from the facts themselves, it was determined to make the experiment.
+
+So Watson picked a place near the Bridge at Westminster
+
+And by the way, the british did their own knockoff version of the Turgot Map of Paris, but for London because of course they did. This british one, named John Rocque's Map of London is from 1746 and is 24 sheets expanding to 6 by 12 feet. It took him 6 years, he used some primitive surveying equipment and it was a pretty financially shakey endevour. This map is also placed in the show notes, annotated, with the British events for your perusal.
+
 
 If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
 ---
