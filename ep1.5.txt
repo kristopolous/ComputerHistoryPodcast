@@ -139,19 +139,30 @@ He did another variation where he had 4 men, holding hands, and two on either en
 
 What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig, Lemonnier in Paris and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London
 
+So Watson also tried to replicate Le Monnier's pond. But just like with the wire, he decided to do this one also on a grander scale. So grand that it kinda got the best of him.
+
+So the Thames river, if you've never been to London, I forgive you. It goes right through the center of town. In fact, it's more like London was built on the Thames than the Thames happening to have gone through London. This is kinda how old cities worked. For instance, Cambridge. There's a river cam and someone made a bridge. In fact most of the old buildings in Cambridge aren't facing the roads but the river as that was a more reasonable way to get around back in the day. So take one of the boat tours if you ever find yourself in Cambridge. Really.
+
+Anyway, back to the river Thames in London.
+
+If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
 ---
 
 And next we're going to go over why this podcast is days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
 
 "Watson, in 1745, proves that the electric fluid takes the shortest course, passing through the substance of the best medium of connection and not along its surface.  This, he demonstrated by discharging a phial through a wire covered with a mixture of wax and resin."
 
-And there it is. That looks like our first insulated wire. But here's the problem. Mottelay lists literally 50 references for that 2 page section on Waton/1745. I read through all of them. That was on Saturday. The description of a wire with wax and resin in 1745 is in none of them. I checked twice, that was Sunday. On Monday I looked for where Mottelay could have gotten this idea. I started searching essentially small phrases around the claim to see if the words came up elsewhere maybe with some other references attached. The only thing I found was that Mottelay kinda plagerized a sentence from the 1841 Encyclopedia Brittanica. 
+And there it is. That looks like our first insulated wire.  When I read this I thought "ok, great, I'll do a two episode arc, work up to this point, leave it off with Watson, tie a nice bow on things and then move on."
 
-I continued searching and then I found an error in Mottelay's citations! I believe he erroneously cited "Experiments and Observations on Electricity" when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity" - these are two different books. But after a few more days of searching I was still unable to find an original document describing the idea of an insulated wire.
+But here's the problem. I couldn't find the original source. As you can tell, source material is the modus operandi of this podcast and I was not going to claim such a significant piece of our puzzle based on a secondary source from 1922.
 
-So I'm going to say something really bold here: Mottelay made it up. "Now just because you can't find it" you finger wag at me "doesn't mean it doesn't exist."
+Mottelay lists literally 50 references for that 2 page section on Waton/1745. I read through all of them. That was on a Saturday, over about 16 hours. The description of a wire with wax and resin in 1745 is in none of them. So I went back on Sunday just to make sure, it wasn't. So on Monday I looked for where Mottelay could have gotten this idea. I started searching essentially small phrases around his claim to see if the words came up elsewhere maybe with some other references attached, this is after all, a bibliographical history. The only thing I found was that Mottelay kinda lifted a sentence from the 1841 Encyclopedia Brittanica article on electricity without citing it.
 
-Ok, sure. But look, there's many references on how to insulate the leyden jar itself with wax, resin, and numerous other materials. Many authors discribed insulation techniques for the prime conductors of globes and cylinders to isolate and focus their charge as well. In 1737 there's a paper describing a rod of iron with sealing wax as a supporter and the electricity passing through it as an observation on what electricity does and does not paa through.
+I continued searching but then I found an error in Mottelay's citations! I believe he erroneously cited "Experiments and Observations on Electricity", 1745 when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity", 1746 - these are two different books, so I read both of them. But after a few more days of futile searching I found lots of insulation, lots of wires, some of them insulated for the terms of an experiment but still nobody saying "hey now here's a useful thing" - after insulating a wire, a few years later, the same scientist would be off draping bare iron lines over silk in a field. What the heck!?
+
+So I'm going to say something really bold here: Mottelay made that line up. "Now just because you can't find it" you finger wag at me "doesn't mean it doesn't exist."
+
+Ok, sure. But look, there's many references on how to insulate the leyden jar itself with wax, resin, and numerous other materials. Many authors discribed insulation techniques for the prime conductors of globes and cylinders to isolate and focus their charge as well. In 1737 there's a paper describing a rod of iron with sealing wax as a supporter and the electricity passing through it as an observation on what electricity does and does not pass through.
 
 In "The Philosophical Transactions" abridgement for 1743 to 1750, edited by John Martin, there's this description on page 276:
 
@@ -160,9 +171,9 @@ vessel, an exceeding small space being between the vessel and the wire.
 The tube and the wire are so strongly cemented with sealing-wax, that
 no air can penetrate."
 
-So this all sounds like they could readily create insulated wires if they wanted to. They certainly knew how. The only conclusion then, is that they didn't want to and didn't value it. But isn't bare wire kinda unstable, dangeous even? Doesn't weather affect it? How could it be that they didn't want it.
+So there's your insulated wire, a few inches of it at least. This all sounds like the people of the time could readily create insulated wires if they wanted to. They certainly knew how. The only conclusion then, is that they didn't want to and didn't value it. But isn't bare wire kinda unstable, dangeous even? Doesn't weather affect it? How could it be that they didn't want it.
 
-There was no real use-case of a network of stable wires carrying electricity that needed to stick around for months or years. There were no practical electrical devices in the 1700s. There was also no way to give consistent continuous power, so there was no reason to carefully insulate things. Wires were used to conduct experiments or do brief demonstration and then people would pack up and leave.
+Well, there was no real use-case of a network of stable wires carrying electricity that needed to stick around for months or years. There were no practical electrical devices in the 1700s. There was also no way to give consistent continuous power, so there was no reason to carefully insulate things. Wires were used to conduct experiments or do brief demonstration and then people would pack up and leave.
 
 The only thing our 18th century electricians really cared about was not inadvertantly shocking themselves when they weren't planning on it. There were many insulation methods for achieving that.  In 1767, CL Epinasse even provided a recipe in 
 "Description of an Improved Apparatus for Performing Electrical Experiments, in Which the Electrical Power is Increased, the Operator Intirely Secured from Receiving Any Any Accidental Shocks, and the Whole Rendered More Convenient for Experiments Than Heretofore"
@@ -176,15 +187,15 @@ So there, step by step insulation, just not for wires yet.
 
 The recommendations to this for actual wires started appearing in the late 1700s and early 1800s as applications for a stable installation of electricity became necessary. 
 
-So second big lesson this episode: people with modern eyes will so desperately want to see something that really, in the context of the historical times, didn't make much sense. Insomuch as this notable scholar made this claim, I spent multiple days looking for it, still believed it just had to be there somewhere, but then after accumulating a mountain of evidence I was forced to concede that it was simply contemporary projection.
+So second big lesson this episode: people with modern eyes will so desperately want to see something that really, in the context of the historical times, didn't make much sense. Insomuch as when this notable scholar, namely Mottelay, made this claim, I spent multiple days looking for it, still believed it just had to be there somewhere, but then after accumulating a mountain of evidence I was forced to concede that it was simply contemporary projection.
 
-So the electrical wire is here and done, let's say by Le Monnier it was done, sure. Of course the stable electric network fit for continuous is still far off in the future.
+So the electrical wire is here and done, let's say by Le Monnier it was done, sure. Of course the stable electric network fit for continuous is still far off in the future. So everything is here but the reasons to use it.
 
 So does that mean we're done today?
 
-ALMOST.
+ALMOST. As I'm dedicated to concluding 18th century experimentations with electromagnetic theory with this episode there's still one name I need to mention. It's the founder of the University of Pennsylvania, the diplomat, statesman, writer, philosopher, politician, scientist, inventor, fireman? fireman I guess so, let's see, printer, postmaster? Wow, anyway, I'm sure you've figure it out, this man is Benjamin Franklin.
 
-I have to talk about Benjamin Franklin. Well Kind of. Just like Watson duplicated LeMonnier, Franklin duplicated Watson. He too had Leyden Jars but he was electrocuting new world animals like wild turkeys.
+I feel basically obligated to talk about Benjamin Franklin. Well Kind of. Just like Watson duplicated LeMonnier, Franklin duplicated Watson. He too had Leyden Jars but he was electrocuting new world animals like wild turkeys.
 
 Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
 flying the kite with the key in the lightning storm when we were children and you can be forgiven if you just filed this away with Washington's Cherry Tree and Johnny Appleseed as fun stories we tell children. I forgive you as well. 
@@ -205,7 +216,7 @@ We have the devices of electricity and wires, the separation between positive an
 
 So next time we will go into the era when electricity was merely a pasttime and party trick before the first product of the electric era emerged.
 
-Yes that means we're done for real now. Phew, I'm so exhuasted.
+Yes that means we're done for real now. Phew, I'm so exhuasted. Excuse me while I go take a nap.
 
 <outro>
 
@@ -225,6 +236,4 @@ Kleist Berlin Liberkuhn
 
 
 
-
-If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
 
