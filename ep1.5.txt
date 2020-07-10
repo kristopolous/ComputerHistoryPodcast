@@ -108,13 +108,13 @@ So the diameter of this pond is about as wide as a jumbo jet wingspan, about 205
 
 Anyway, this is probably another something we could try to recreate, like the fishing pole from the monument to great fire of london I suggested in 1.3, on second thought, let's not.
 
-And finally on trying to determine the speed of electricity, Le Monnier used a mile of wire and himself to complete the circuit. After repeatedly shocking himself, he concluded electricity moved far too fast for him to measure, not even a quarter second had passed until he felt the shock. From this he invers a velocity "at least 30 times the speed of sound". 
+And finally on trying to determine the speed of electricity, instead of 200 monks, Le Monnier used a mile of wire and himself to complete the circuit. After repeatedly shocking himself, he concluded electricity moved far too fast for him to measure, not even a quarter second had passed until he felt the shock. From this he infers a velocity "at least 30 times the speed of sound". 
 
-Why then he even says "given the swiftness of the electric effluvia, it would be quite suitable to build machines of computation based on its propagation" -- I kid I kid, that last part absolutely did not happen.
+And Le Monnier he concludes "given the swiftness of the electric effluvia, it would be quite suitable to build machines of computation based on its propagation" -- I kid I kid, that last part absolutely did not happen. We've got quite a long way to go.
 
-Back in London, Watson does a series of several meetings in 1747 resulting in a 72 page article. Our journey to the electric wire is almost complete or did it just happen?
+Back in London, Watson does a series of several meetings in 1747 resulting in a 72 page article. Our journey to the electric wire is almost complete, or was Le Monnier essentially our destination? 
 
-Anyway, I'm going to leave out some of his wordiness and quote Watson as follow:
+Anyway, I'm going to leave out some of Watson's wordiness and quote him follow:
 
 "This Circuit is always described in the shortest manner possible; but if the components conduct differently, this circuit is always formed through the best conductor, however great its length is"
 Moving on...
@@ -122,56 +122,65 @@ Moving on...
 
 Keeping with the theme of "copy and expand" experimentation, Watson essentially copies Le Monnier's experiments I previously described
 
-In 1748 where Watson set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, supposedly named because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been at about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's not terrible. 
+In 1748 Watson also set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, which supposedly got its name because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been to about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's pretty good. In fact you can web search for "shooters hill view" and get some nice pictures of london.
 
-So here he is with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
+So here Watson is with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
 
-How would he detect it? Well this is the 1740s so he'd hold the wires of course, one in each hand, and the the observer would be the thing completing the circuit. Then people would be watching for him to convulse in shock by being electrocuted and see if there's a noticable delay between the two events. Yes, this is what we are doing. Over a dozen people most of which who have PhDs including the countries leading astronomer, the president of the royal society ... here's what we're doing today. Alright.
+How would he detect it? Well this is the 1740s so he'd hold the wires of course, one in each hand, and the observer would be the thing completing the circuit. Then people would be watching for him to convulse in shock by being electrocuted and see if there's a noticable delay between the two events. Yes, this is what we are doing. Over a dozen people most of which who have PhDs including the countries leading astronomer, the president of the royal society ... here's what we're doing today. Alright.
 
-So they set about setting up iron the experiment using silk suspended from wooden stakes and switchbacks of exposed iron wire criss-crossing back and forth down a field about 2 city blocks long (Watson claims 726 feet).
+So they set about the experiment using silk suspended from wooden stakes and switchbacks of exposed iron wire criss-crossing back and forth down a field with each return measuring about 2 city blocks long (Watson claims 726 feet).
 
-So it took them all day and by nightfall they made sure that the wire wasn't touching the wood because the dew would lead to moisture and, I quote "the electrictrical circuit might be shortened" or what we would call "a short circuit".
+So it took them all day and by nightfall they made sure that the wire wasn't touching the wood because the dew would lead to moisture and, I quote Watson "the electrical circuit might be shortened" or what we would call "a short circuit" so modern terminology is starting to develop.
 
-Anyway, the next morning they now had a Leyden jar, or what they called a "Leyden phial" at the time, zig zagging wires traversing down a field and a small space for a brave volunteer to go over and hold the two ends.  Watson refers to these people as just "men" which makes me think that none of his entourage was willing to take the hit for science. Anway let's quote Watson:
-"When all parts of the apparatus were properly disposed, several explosions of the charged phial were made; and it was invariably seen (podcasters note, this means they did it a bunch of times), that the Observer holding in each Hand one of the extremeties of these wires was confulsed in both his arms in the instant of making the Explosions!"
+Anyway, the next morning they now had a Leyden jar, or what they called a "Leyden phial" at the time, zig zagging wires traversing down a field and a small space for a brave volunteer to go over and hold the two ends.  Watson refers to these volunteers as just "men" which makes me think that none of his scholarly entourage was willing to take the hit for science. Anway let's quote Watson:
+"When all parts of the apparatus were properly disposed, several explosions of the charged phial were made; and it was invariably seen (podcasters note, this means they did it a bunch of times), that the Observer holding in each Hand one of the extremeties of these wires was convulsed in both his arms in the instant of making the Explosions!"
 
-He did another variations where he had 4 men, holding hands, and two on either end holding the wire just to make sure there's not like some kind of human variation in this. Watson excitedly writes: "They were all seen convulsed in the instant of the explosion. Every one who felt it complained of the severity of the shock". 
+He did another variation where he had 4 men, holding hands, and two on either end holding the wire just to make sure there's not like some kind of human difference in electric convulsion. Watson excitedly writes: "They were all seen convulsed in the instant of the explosion. Every one who felt it complained of the severity of the shock". 
 
 What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig, Lemonnier in Paris and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London
 
 ---
 
-And next we're going to go over why this podcast is 5 days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
+And next we're going to go over why this podcast is days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
 
 "Watson, in 1745, proves that the electric fluid takes the shortest course, passing through the substance of the best medium of connection and not along its surface.  This, he demonstrated by discharging a phial through a wire covered with a mixture of wax and resin."
 
-And there it is. That looks like our first insulated wire. But here's the problem. He lists literally 50 references for that section. I read through all of them. That was on Saturday. The description of a wire with wax and resin in 1745 is in none of them. I checked twice, that was Sunday. On Monday I looked for where he could have got this idea. I started searching essentially small phrases of the paragraph to see if the words came up elsewhere. I found out that Mottelay kinda plagerized a sentence from the 1841 Encyclopedia Britanica. I continued searching and then I found an error in Mottley's citations! I believe he erroneously cited "Experiments and Observations on Electricity" when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity" - these are two different books. I have been unable to find an original document describing the idea of an insulated wire.
+And there it is. That looks like our first insulated wire. But here's the problem. Mottelay lists literally 50 references for that 2 page section on Waton/1745. I read through all of them. That was on Saturday. The description of a wire with wax and resin in 1745 is in none of them. I checked twice, that was Sunday. On Monday I looked for where Mottelay could have gotten this idea. I started searching essentially small phrases around the claim to see if the words came up elsewhere maybe with some other references attached. The only thing I found was that Mottelay kinda plagerized a sentence from the 1841 Encyclopedia Brittanica. 
 
-I'm going to say something really bold here: Mottelay made this up. "Now just because you can't find it" you finger wag at me but look, the leyden jar itself was insulated with wax and other materials, the prime conductor was also insulated. It's not like they didn't know how to do this. In 1737 there's a paper describing a rod of iron with sealing wax as a supporter and the electricity passing through it.
+I continued searching and then I found an error in Mottelay's citations! I believe he erroneously cited "Experiments and Observations on Electricity" when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity" - these are two different books. But after a few more days of searching I was still unable to find an original document describing the idea of an insulated wire.
+
+So I'm going to say something really bold here: Mottelay made it up. "Now just because you can't find it" you finger wag at me "doesn't mean it doesn't exist."
+
+Ok, sure. But look, there's many references on how to insulate the leyden jar itself with wax, resin, and numerous other materials. Many authors discribed insulation techniques for the prime conductors of globes and cylinders to isolate and focus their charge as well. In 1737 there's a paper describing a rod of iron with sealing wax as a supporter and the electricity passing through it as an observation on what electricity does and does not paa through.
+
 In "The Philosophical Transactions" abridgement for 1743 to 1750, edited by John Martin, there's this description on page 276:
 
-"a small glass, tube is fixed, thro' which an iron wire,  reaches to the middle of the glass
+"a small glass tube is fixed, thro' which an iron wire,  reaches to the middle of the glass
 vessel, an exceeding small space being between the vessel and the wire.
 The tube and the wire are so strongly cemented with sealing-wax, that
 no air can penetrate."
 
-There was no real use-case of stable wire that needed to stick arond for months or years, there was no reason to carefully insulate things. It was used to conduct an experiment or do a demonstration and then pack up and go. 
+So this all sounds like they could readily create insulated wires if they wanted to. They certainly knew how. The only conclusion then, is that they didn't want to and didn't value it. But isn't bare wire kinda unstable, dangeous even? Doesn't weather affect it? How could it be that they didn't want it.
 
-The only thing they really cared about was not inadvertantly shocking themselves when they weren't planning on it. There were many insulations for doing it.  In 1767, CL Epinasse even provided a recipe in 
+There was no real use-case of a network of stable wires carrying electricity that needed to stick around for months or years. There were no practical electrical devices in the 1700s. There was also no way to give consistent continuous power, so there was no reason to carefully insulate things. Wires were used to conduct experiments or do brief demonstration and then people would pack up and leave.
+
+The only thing our 18th century electricians really cared about was not inadvertantly shocking themselves when they weren't planning on it. There were many insulation methods for achieving that.  In 1767, CL Epinasse even provided a recipe in 
 "Description of an Improved Apparatus for Performing Electrical Experiments, in Which the Electrical Power is Increased, the Operator Intirely Secured from Receiving Any Any Accidental Shocks, and the Whole Rendered More Convenient for Experiments Than Heretofore"
 
-Here you can do this at home,
+Here, let's read his recipe. Feel free to do this at home,
 
-Take 4lb of Venice turpentine, 1lb of resin, 1lb of bee's wax; boil these over a gentle fire, stirring them now and then for about six hours, at the end of which, stir in a quarter of a pound of vermilion, ou : then, a little of the mixture being taken
-out and left to cool, will be hard and brittle ; a token that it is fit for use. Having well heated your globe or cylinder, pour the melted mixture into it ; turn the cylinder about so as to spread it evenly over the inside surface to the thickness of a sixpence, and let it cool very gradually."
+Take 4lb of Venice turpentine, 1lb of resin, and 1lb of bee's wax; boil these over a gentle fire, stirring them now and then for about six hours, at the end of which, stir in a quarter of a pound of vermilion, : then, a little of the mixture should be taken
+out and left to cool to see if becomes hard and brittle ; a token that it is fit for use. Having well heated your globe or cylinder, pour the remaining melted mixture into it ; turn the cylinder about so as to spread it evenly over the inside surface to the thickness of a sixpence, and let it cool very gradually."
+
+So there, step by step insulation, just not for wires yet.
 
 The recommendations to this for actual wires started appearing in the late 1700s and early 1800s as applications for a stable installation of electricity became necessary. 
 
-So this is a great example of how people with modern eyes will so desperately want to see something that really, in the context of the historical times, didn't make much sense. 
+So second big lesson this episode: people with modern eyes will so desperately want to see something that really, in the context of the historical times, didn't make much sense. Insomuch as this notable scholar made this claim, I spent multiple days looking for it, still believed it just had to be there somewhere, but then after accumulating a mountain of evidence I was forced to concede that it was simply contemporary projection.
 
-The electrical wire is here and done. The stable electric network is still far off in the future.
+So the electrical wire is here and done, let's say by Le Monnier it was done, sure. Of course the stable electric network fit for continuous is still far off in the future.
 
-So are we done? 
+So does that mean we're done today?
 
 ALMOST.
 
@@ -180,23 +189,23 @@ I have to talk about Benjamin Franklin. Well Kind of. Just like Watson duplicate
 Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
 flying the kite with the key in the lightning storm when we were children and you can be forgiven if you just filed this away with Washington's Cherry Tree and Johnny Appleseed as fun stories we tell children. I forgive you as well. 
 
-It's time to refile that now though. Franklin won the Copley medal, the same one that Desaguliers and Gray won, for his work on Electricity. He did a number of publications in Philosophical Transactions concerning electricity. He had 17 publications in the journal in fact, a highly respectable number seeing as I could never in my wildest dreams even fathom getting just 1.  Franklin's electricity work is so important, in fact, that texts written before the American Revolution on the history of Electricity, such as say The History and Present State of Electricity, with Original Experiments, by Joseph Priestley, from 1769, Franklin's experiments in Philadelphia play pivotal roles.  For instance, Priestly title's Chapter 8 as "The history of electricity from the discovery of the Leyden phial in the years 1745 and 1746, till Dr. Franklin's Discoveries' and then writes all of Chapter 9 about Franklin, and concludes the book about the new ways people looked at electricity in a post Franklin world. Now remember, this is before the American Revolution, 1769, these aren't people star struck by his politics doing classical mythmaking.
+But it's time to refile that now. Franklin won the Copley medal, the same one that Desaguliers and Gray won, for his work on Electricity. He did a number of publications in Philosophical Transactions concerning electricity. He had 17 publications in the journal in fact, a highly respectable number seeing as I could never in my wildest dreams even fathom getting just 1.  Franklin's electricity work is so important, in fact, that texts written before the American Revolution on the history of Electricity, such as say The History and Present State of Electricity, with Original Experiments, by Joseph Priestley, from 1769, Franklin's experiments in Philadelphia play pivotal roles.  For instance, Priestly title's Chapter 8 as "The history of electricity from the discovery of the Leyden phial in the years 1745 and 1746, till Dr. Franklin's Discoveries' and then writes all of Chapter 9 about Franklin, and concludes the book about the new ways people looked at electricity in a post Franklin world. Now remember, this is before the American Revolution, 1769, these aren't people star struck by his politics doing classical mythmaking.
 
-So after all that praise, we are actually going to skip right over Franklin because we're focused exclusively on our journey to a working telegraph and Franklin doesn't actually play a role in that story. Don't worry, he will pop up again later. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s. I do actually intend on eventually getting to things like strowger switches and reed relays, designed in the 1930s for telephone switches and arguably the first computer memory, sometime before an expanding sun swallows the earth. 
+So after all that praise, we are actually going to skip right over Franklin because we're focused exclusively on our journey to a working telegraph and Franklin doesn't actually play a role in that story. Don't worry, he will pop up again in later series. Also, I'm at episode 5 of a computing history podcast and still stuck in the 1750s. I do actually intend on eventually getting to things like strowger switches and reed relays, designed in the 1930s for telephone switches and arguably the first computer memory, sometime before an expanding sun swallows the earth. 
 
-Alright ok, one thing about Franklin. Franklin greatly expanded upon Du Fay's observation of vitreous and resinous electricity and felt forced to give them a more generalized name, one that we still use today: positive, and negative. Well kinda. Watson used a plus and minus in diagrams for simplicity purposes and Franklin was like "ok, that makes sense. Positive and Negative it is!" Sorry DuFay, your resinous and vitreous came and went in a single episode.
+Alright ok fine, one thing about Franklin. Franklin greatly expanded upon Du Fay's observation of vitreous and resinous electricity and felt forced to give them a more generalized name, one that we still use today: positive, and negative. Well kinda. Watson used a plus and minus in diagrams for simplicity purposes and Franklin was like "ok, that makes sense. Positive and Negative it is!" Sorry DuFay, your resinous and vitreous came and went in a single episode.
 
-So here we are, reliable insulated, electric wires going over multiple miles. This discovery will exhibit a pattern we'll see repeatedly, the time between discovery and the introduction of a so-called killer app, a term coined in a 1988 issue of Pc Week, it's the thing that chaparones a technology from a toy to a tool - a practical goal made easier by the technology. This is also the distinction that David Davidow in his 1986 text, "Marketing High Technology" made between a device and a product:
+So here we are, reliable as intended, insulated when neede, electric wires going over multiple miles. This discovery will exhibit a pattern we'll see repeatedly, the time between discovery and the introduction of a so-called killer app, a term coined in a 1988 issue of Pc Week, it's the thing that chaparones a technology from a toy to a tool - a practical goal made easier by the technology. This is also the distinction that David Davidow in his 1986 text, "Marketing High Technology" made between a device and a product, let me quote him:
 
 "Thousands of devices are invented every year...all the marketing hype in the world can't create a product unless a device exists. But the key is to convert great devices into great products.
 
 Everyone knows what a product is. A product is the totality of what a customer buys. When a device is properly augmented so that it can be easily used by a customer it becomes a product"
 
-We have the devices of electricity and wires, the separation between positive and negative, conductor and insulator, but no product has yet emerged. The time period between device and product is that of the enthusiast and hobbyist. It's the time before the first spreadsheet when people assembled personal computers from kits as a pasttime. 
+We have the devices of electricity and wires, the separation between positive and negative, conductor and insulator, but no product has yet emerged. The time period between device and product is that of the enthusiast and hobbyist. It's the time before the first spreadsheet when people assembled personal computers from kits as a pasttime and spent their weekends working on them at enthusiast clubs.
 
-So next time we will go into the era when electricity was merely pasttime and party trick before the first product of the electric era emerged.
+So next time we will go into the era when electricity was merely a pasttime and party trick before the first product of the electric era emerged.
 
-Yes, we're done for real now. Phew, I'm exhuasted.
+Yes that means we're done for real now. Phew, I'm so exhuasted.
 
 <outro>
 
