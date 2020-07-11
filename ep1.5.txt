@@ -124,23 +124,6 @@ Moving on...
 
 Keeping with the theme of "copy and expand" experimentation, Watson essentially copies Le Monnier's experiments I previously described
 
-In 1748 Watson also set about trying to find the speed of electricity. He did this experiment at a place called Shooter's Hill, which supposedly got its name because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been to about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's pretty good. In fact you can web search for "shooters hill view" and get some nice pictures of london. 
-
-So Shooters Hill. Watson is there with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
-
-How would he detect it? Well this is the 1740s so he'd hold the wires of course, one in each hand, and the observer would be the thing completing the circuit. Then people would be watching for him to convulse in shock by being electrocuted and see if there's a noticable delay between the two events. Yes, this is what we are doing. Over a dozen people most of which who have PhDs including the countries leading astronomer, the president of the royal society ... here's what we're doing today. Alright.
-
-So they set about the experiment using silk suspended from wooden stakes and switchbacks of exposed iron wire criss-crossing back and forth down a field with each return measuring about 2 city blocks long (Watson claims 726 feet).
-
-So it took them all day and by nightfall they made sure that the wire wasn't touching the wood because the dew would lead to moisture and, I quote Watson "the electrical circuit might be shortened" or what we would call "a short circuit" so modern terminology is starting to develop.
-
-Anyway, the next morning they now had a Leyden jar, or what they called a "Leyden phial" at the time, zig zagging wires traversing down a field and a small space for a brave volunteer to go over and hold the two ends.  Watson refers to these volunteers as just "men" which makes me think that none of his scholarly entourage was willing to take the hit for science. Anway let's quote Watson:
-"When all parts of the apparatus were properly disposed, several explosions of the charged phial were made; and it was invariably seen (podcasters note, this means they did it a bunch of times), that the Observer holding in each Hand one of the extremeties of these wires was convulsed in both his arms in the instant of making the Explosions!"
-
-He did another variation where he had 4 men, holding hands, and two on either end holding the wire just to make sure there's not like some kind of human difference in electric convulsion. Watson excitedly writes: "They were all seen convulsed in the instant of the explosion. Every one who felt it complained of the severity of the shock". 
-
-What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London.
-
 So Watson also tried to replicate Le Monnier's pond. But just like with the wire, he decided to do this one also on a grander scale. So grand that it kinda got the best of him.
 
 So the Thames river, if you've never been to London, I forgive you. It goes right through the center of town. In fact, it's more like London was built on the Thames than the Thames happening to have gone through London. This is kinda how old cities worked. For instance, Cambridge. There's a river cam and someone made a bridge. In fact most of the old buildings in Cambridge aren't facing the roads but the river as that was a more reasonable way to get around back in the day. So take one of the boat tours if you ever find yourself in Cambridge. Really.
@@ -155,13 +138,47 @@ So the idea here was "ok, so we assume electricity is a fluid, Le monnier used a
 
 And of course I'm bringing this up because it wasn't just an intellectual exercise. He wanted to draw conclusions from the facts themselves, it was determined to make the experiment.
 
-So Watson picked a place near the Bridge at Westminster, let me give the setup.
+So Watson picked a place near the Bridge at Westminster, let me give the setup. The river at this place is about 1200 feet across, which makes it about a 4 minute walk if you're Jesus, probably about the time it takes for you to get to your nearest store if you live in a city.
 
-And by the way, the British did their own knockoff version of the Turgot Map of Paris, but for London because of course they did. This british one, named John Rocque's Map of London is from 1746 and is 24 sheets expanding to 6 by 12 feet. It took him 6 years, he used some primitive surveying equipment and it was a pretty financially shakey endevour. This map is also placed in the show notes, annotated, with the British events for your perusal.
+So instead of wrapping a chain around a fountain, Watson strung a line across the bridge and then draped it down on either end to the shoreline.
 
+Then they repeated Le Monniers experiment, iron rod, leyden jar, etc. They used 3 people by breaking up the task of the leyden jar and the iron rod into the water ... but same idea.
 
-If this sounds confusing don't worry, Scientific American did an engraving of his experiment in a supplemental from October 1889 that I just happened to have posted in the show notes at comphistpod.com
----
+They tried to do the experiment multiple times but it attracted a bit of attention, as Watson says, again paraphrasing for brevity:
+
+"The Gentlemen Present being much molested in their operation by a great concourse of people, who many times Broke the conducting wire and otherwise greatly inconvenienced them, and the evening growing too dark for the observers on different sides of the water to see each other they could only consider these trials as an encouragement to come back at a more favorable opportunity"
+
+I'd like to imagine a bunch of drunken blokes on the bridge heckling the royal society "hey admiral, what are you doing down on the water? What's that you got in your hand there? What's this line here? Do you need to use this? Can I help you out here?"
+
+So they repeated the experiments again early Saturday morning and faced no harrassment from onlookers. Watson proceeded to do many variations of this at thie river and another one, the New River, near Stoke-Newington, way out in the boonies.
+
+Before we move on let's talk about two things.
+
+First the British did their own knockoff version of the Turgot Map of Paris, but for London because of course they did. This british one, named John Rocque's Map of London is from 1746 and is 24 sheets expanding to 6 by 12 feet. It took him 6 years, he used some primitive surveying equipment and it was a pretty financially shakey endevour. This map is also placed in the show notes, annotated, with the British events for your perusal.
+
+And second, there's an interesting engraving of the Watson experiments in Scientific American from October 1889 that I just happened to have posted in the show notes. The first thing you'll notice is the artist imagined 3 boats that simply were not there and carried the wire across the boats and not the bridge.  
+
+The themes of the 18th century and why they are so fun to talk about are that the experiments were mostly clever, cheap, fast, easy, reliable and easily replicable. This is core hacker ethic and its how empires of pure thoughtstuff get built. There's this drive to dignify things by trying to complicate them and make them look like they had pomp and grandeur. 
+
+Nonsense, these are hackers. We really need to fight that tendency, it's been going on too long.
+
+Back to Watson, he also set about trying to find the speed of electricity as Le Monnier had. He did this experiment at a place called Shooter's Hill, which supposedly got its name because it was a strategic place for archers to be in the middle ages. London is pretty flat and Shooter's Hill is one of the highest points there, at 433 feet. For comparison if you've ever been to about 40 stories and looked out the window, that's about the viewing distance we're talking about - so it's pretty good. In fact you can web search for "shooters hill view" and get some nice pictures of london. 
+
+So Shooters Hill. Watson is there with 12 other people including two people from the Royal Academy of Sciences of Berlin. The experiment is to make a 2 mile electric circuit, the longest we've seen up to this point. At the midpoint they'd have an observer detect how long it would take for the electricity to arrive after it was applied at the other end.
+
+How would he detect it? Well this is the 1740s so he'd hold the wires of course, one in each hand, and the observer would be the thing completing the circuit. Then people would be watching for him to convulse in shock by being electrocuted and see if there's a noticable delay between the two events. Yes, this is what we are doing. Over a dozen people most of which who have PhDs including the countries leading astronomer, the president of the royal society ... here's what we're doing today. Alright.
+
+So they set about the experiment using silk suspended from wooden stakes and switchbacks of exposed iron wire criss-crossing back and forth down a field with each return measuring about 2 city blocks long (Watson claims 726 feet).
+
+So it took them all day and by nightfall they made sure that the wire wasn't touching the wood because the dew would lead to moisture and, I quote Watson "the electrical circuit might be shortened" or what we would call "a short circuit" so modern terminology is starting to develop.
+
+Anyway, the next morning they now had a Leyden jar, or what they called a "Leyden phial" at the time, zig zagging wires traversing down a field and a small space for a brave volunteer to go over and hold the two ends.  Watson refers to these volunteers as just "men" which makes me think that none of his scholarly entourage was willing to take the hit for science. Anway let's quote Watson:
+
+"When all parts of the apparatus were properly disposed, several explosions of the charged phial were made; and it was invariably seen (podcasters note, this means they did it a bunch of times), that the Observer holding in each Hand one of the extremeties of these wires was convulsed in both his arms in the instant of making the Explosions!"
+
+He did another variation where he had 4 men, holding hands, and two on either end holding the wire just to make sure there's not like some kind of human difference in electric convulsion. Watson excitedly writes: "They were all seen convulsed in the instant of the explosion. Every one who felt it complained of the severity of the shock". 
+
+What an 18th century way to refer to people screaming expletives. This experiment was repeated by Winckler in Leipzig and in 1795 by someone who will play a role later, Betancourt, who did a 26 mile variation during a 2 year stint in London.
 
 And next we're going to go over why this podcast is days late. This is me breaking the 4th wall. Let's go to "Bibliographical History Of Electricity And Magnetism" from 1922 by Paul Mottelay, midway through page 175, and I quote:
 
@@ -173,7 +190,7 @@ But here's the problem. I couldn't find the original source. As you can tell, so
 
 Mottelay lists literally 50 references for that 2 page section on Waton/1745. I read through all of them. That was on a Saturday, over about 16 hours. The description of a wire with wax and resin in 1745 is in none of them. So I went back on Sunday just to make sure, it wasn't. So on Monday I looked for where Mottelay could have gotten this idea. I started searching essentially small phrases around his claim to see if the words came up elsewhere maybe with some other references attached, this is after all, a bibliographical history. The only thing I found was that Mottelay kinda lifted a sentence from the 1841 Encyclopedia Brittanica article on electricity without citing it.
 
-I continued searching but then I found an error in Mottelay's citations! I believe he erroneously cited "Experiments and Observations on Electricity", 1745 when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity", 1746 - these are two different books, so I read both of them. But after a few more days of futile searching I found lots of insulation, lots of wires, some of them insulated for the terms of an experiment but still nobody saying "hey now here's a useful thing" - after insulating a wire, a few years later, the same scientist would be off draping bare iron lines over silk in a field. What the heck!?
+I continued searching but then I found an error in Mottelay's citations! I believe he erroneously cited "Experiments and Observations on Electricity", 1745 when what he mant to cite was "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity", 1746 - these are two different books, so I read both of them. But after a few more days of futile searching I found lots of insulation, lots of wires, some of them insulated for the terms of an experiment but still nobody saying "hey now here's a useful thing" - after an experiment that involved insulating a wire, a few years later, the same scientist would be off draping bare iron lines over silk in a field. What the heck!? They didn't stick with it.
 
 So I'm going to say something really bold here: Mottelay made that line up. "Now just because you can't find it" you finger wag at me "doesn't mean it doesn't exist."
 
@@ -186,7 +203,7 @@ vessel, an exceeding small space being between the vessel and the wire.
 The tube and the wire are so strongly cemented with sealing-wax, that
 no air can penetrate."
 
-So there's your insulated wire, a few inches of it at least. This all sounds like the people of the time could readily create insulated wires if they wanted to. They certainly knew how. The only conclusion then, is that they didn't want to and didn't value it. But isn't bare wire kinda unstable, dangeous even? Doesn't weather affect it? How could it be that they didn't want it.
+So there's your insulated wire, a few inches of it at least. This all sounds like the people of the time could readily create insulated wires if they wanted to. They certainly knew how. The only conclusion then, is that they didn't want to and didn't value it. But isn't bare wire kinda unstable, dangeous even? Doesn't weather affect it? How could it be that they didn't want it?
 
 Well, there was no real use-case of a network of stable wires carrying electricity that needed to stick around for months or years. There were no practical electrical devices in the 1700s. There was also no way to give consistent continuous power, so there was no reason to carefully insulate things. Wires were used to conduct experiments or do brief demonstration and then people would pack up and leave.
 
@@ -195,8 +212,7 @@ The only thing our 18th century electricians really cared about was not inadvert
 
 Here, let's read his recipe. Feel free to do this at home,
 
-Take 4lb of Venice turpentine, 1lb of resin, and 1lb of bee's wax; boil these over a gentle fire, stirring them now and then for about six hours, at the end of which, stir in a quarter of a pound of vermilion, : then, a little of the mixture should be taken
-out and left to cool to see if becomes hard and brittle ; a token that it is fit for use. Having well heated your globe or cylinder, pour the remaining melted mixture into it ; turn the cylinder about so as to spread it evenly over the inside surface to the thickness of a sixpence, and let it cool very gradually."
+Take 4lb of Venice turpentine, 1lb of resin, and 1lb of bee's wax; boil these over a gentle fire, stirring them now and then for about six hours, at the end of which, stir in a quarter of a pound of vermilion: then, a little of the mixture should be taken out and left to cool, will be hard and brittle; a token that it is fit for use. Having well heated your globe or cylinder, pour the remaining melted mixture into it ; turn the cylinder about so as to spread it evenly over the inside surface to the thickness of a sixpence, and let it cool very gradually."
 
 So there, step by step insulation, just not for wires yet.
 
@@ -204,13 +220,13 @@ The recommendations to this for actual wires started appearing in the late 1700s
 
 So second big lesson this episode: people with modern eyes will so desperately want to see something that really, in the context of the historical times, didn't make much sense. Insomuch as when this notable scholar, namely Mottelay, made this claim, I spent multiple days looking for it, still believed it just had to be there somewhere, but then after accumulating a mountain of evidence I was forced to concede that it was simply contemporary projection.
 
-So the electrical wire is here and done, let's say by Le Monnier it was done, sure. Of course the stable electric network fit for continuous is still far off in the future. So everything is here but the reasons to use it.
+So the electrical wire is here and done, let's say by Le Monnier it was complete, sure. Of course the stable electric network fit for continuous is still far off in the future. So everything is here but the reasons to use it.
 
 So does that mean we're done today?
 
 ALMOST. As I'm dedicated to concluding 18th century experimentations with electromagnetic theory with this episode there's still one name I need to mention. It's the founder of the University of Pennsylvania, the diplomat, statesman, writer, philosopher, politician, scientist, inventor, fireman? fireman I guess so, let's see, printer, minister to france and sweden? the first postmaster general and the 6th president of pennsylvania? Wow, anyway, I'm sure you've figured it out, this overachiever is Benjamin Franklin.
 
-I feel basically obligated to talk about Benjamin Franklin. Well Kind of. Just like Watson duplicated LeMonnier, Franklin duplicated Watson. He too had Leyden Jars but he was electrocuting new world animals like wild turkeys.
+I feel basically obligated to talk about Benjamin Franklin. Well Kind of. Just like Watson duplicated LeMonnier, Franklin duplicated Watson. He too had Leyden Jars but he was electrocuting new world animals like wild turkeys. He too did Watson's river experiments. He was yet another copycatter and extender in the same way that people take open source software and modify it for their own needs, the code of science of the time was open access, nobody owned it, and everyone encouraged duplication and expansion. Whether you're Joseph Franz of Vienna, Boze of Berlin, French, British, or American ... there's even a Japanese replication of Abbe Nollet's 200 monk experiment by Sokichi Hashimoto (and there's a depiction of that in the show notes as well).
 
 Benjamin Franklin is a super important figure in the timeline of electricity. We've all heard the story of him 
 flying the kite with the key in the lightning storm when we were children and you can be forgiven if you just filed this away with Washington's Cherry Tree and Johnny Appleseed as fun stories we tell children. I forgive you as well. 
@@ -233,22 +249,6 @@ So next time we will go into the era when electricity was merely a pasttime and 
 
 Yes that means we're done for real now. Phew, I'm so exhuasted. Excuse me while I go take a nap.
 
+Oh one last thing, the brief French voices were provided by my brother in-law Matthew Henderson and my father, Jim McKenzie when I recently visited him to celebrate his 70th birthday. Happy birthday dad!
+
 <outro>
-
-Joseph Franz Vienna 1500 feet iron wire
-
-Watson glass globes and tubes do not posess in themselves electrical power, electrical fluid takes shortest couse, passing through the substance of the best medium of connection, discharging a phial through a wire covered with wax and resin.
-
-Dr . Watson , in 1747 , in the presence of many scientific persons , transmitted the power through 2800 feet of wire and 8000 feet of water , thus employing in his experiments the use of the earth circuit . Afterwards , on the 14th of August , 1747 , Dr . Watson conducted an experiment on a much larger scale at Shooter ' s Hill . The wire was insulated by baked wood , and was 10 , 600 feet or nearly 2 miles long .
-
-The electric telegraph: its history and progress – Edward Highton
-
----
-
-
-The kind of sparks he was able to generate 
-Kleist Berlin Liberkuhn
-
-
-
-
